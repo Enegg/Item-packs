@@ -3832,16 +3832,17 @@
 		"transform_range": "L-D",
 		"stats": {
 			"weight": 42,
-			"expDmg": [null, null],
-			"heaDmg": null,
+			"expDmg": [35, 63],
+			"heaDmg": 393,
 			"range": [3, 6],
 			"uses": 1,
 			"backfire": 180,
-			"heaCost": 415
+			"heaCost": 393
 		},
 		"divine": {
 			"expDmg": [36, 66],
-			"heaDmg": 415
+			"heaDmg": 415,
+			"heaCost": 415
 		}
 	},
 	{
@@ -3851,16 +3852,17 @@
 		"transform_range": "L-D",
 		"stats": {
 			"weight": 60,
-			"eleDmg": [null, null],
-			"eneDmg": null,
+			"eleDmg": [35, 63],
+			"eneDmg": 393,
 			"range": [3, 6],
 			"uses": 1,
 			"backfire": 180,
-			"eneCost": 415
+			"eneCost": 393
 		},
 		"divine": {
 			"eleDmg": [36, 66],
-			"eneDmg": 415
+			"eneDmg": 415,
+			"eneCost": 415
 		}
 	},
 	{
