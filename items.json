@@ -3742,8 +3742,8 @@
 		"transform_range": "L-D",
 		"stats": {
 			"weight": 8,
-			"expDmg": [null, null],
-			"heaDmg": null,
+			"expDmg": [91, 146],
+			"heaDmg": 50,
 			"expResDmg": 60,
 			"range": [2, 4],
 			"uses": 1,
@@ -3785,6 +3785,9 @@
 			"range": [2, 4],
 			"uses": 1,
 			"backfire": 180
+		},
+		"divine": {
+			"phyDmg": [88, 157]
 		}
 	},
 	{
