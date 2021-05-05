@@ -1507,7 +1507,7 @@
 			"weight": 66,
 			"expDmg": [205, 315],
 			"heaDmg": 71,
-			"expResDmg": 11,
+			"expResDmg": 12,
 			"push": 1,
 			"range": [3, 6],
 			"uses": 3,
