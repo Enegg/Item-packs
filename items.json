@@ -618,12 +618,15 @@
 		"transform_range": "E-D",
 		"stats": {
 			"weight": 50,
-			"phyDmg": [215, 515],
+			"phyDmg": [null, null],
 			"phyResDmg": 12,
 			"range": [3, 6],
 			"uses": 2,
 			"eneCost": 30,
 			"heaCost": 70
+		},
+		"divine": {
+			"phyDmg": [205, 515]
 		}
 	},
 	{
@@ -871,7 +874,7 @@
 		"transform_range": "C-D",
 		"stats": {
 			"weight": 315,
-			"health": null,
+			"health": 1097,
 			"eneCap": 193,
 			"eneReg": 64,
 			"heaCap": 290,
@@ -959,7 +962,7 @@
 		"transform_range": "L-D",
 		"stats": {
 			"weight": 346,
-			"health": null,
+			"health": 1153,
 			"eneCap": 193,
 			"eneReg": 64,
 			"heaCap": 267,
@@ -1757,8 +1760,8 @@
 		"transform_range": "L-D",
 		"stats": {
 			"weight": 22,
-			"expDmg": [null, null],
-			"heaDmg": null,
+			"expDmg": [86, 121],
+			"heaDmg": 92,
 			"expResDmg": 5,
 			"eneCost": 31,
 			"heaCost": 31
@@ -2010,7 +2013,7 @@
 		"transform_range": "L-D",
 		"stats": {
 			"weight": 346,
-			"health": null,
+			"health": 1153,
 			"eneCap": 267,
 			"eneReg": 96,
 			"heaCap": 193,
@@ -2371,7 +2374,7 @@
 		"stats": {
 			"weight": 55,
 			"eleDmg": [140, 236],
-			"eneDmg": null,
+			"eneDmg": 133,
 			"eneCapDmg": 24,
 			"range": [3, 6],
 			"eneCost": 47,
