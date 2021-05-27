@@ -1824,7 +1824,7 @@
 		}
 	},
 	{
-		"name": "Fire Fly",
+		"name": "FireFly",
 		"type": "DRONE",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
