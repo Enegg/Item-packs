@@ -1400,7 +1400,7 @@
 		"stats": {
 			"weight": 35,
 			"expDmg": [164, 337],
-			"heaDmg": 0,
+			"heaDmg": 58,
 			"expResDmg": 5,
 			"push": 1,
 			"retreat": 2,
