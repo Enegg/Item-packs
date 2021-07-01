@@ -3695,11 +3695,11 @@
 		"stats": {
 			"weight": 40,
 			"health": 158,
-			"phyRes": 64
+			"phyRes": 59
 		},
 		"divine": {
 			"health": 166,
-			"phyRes": 69
+			"phyRes": 63
 		}
 	},
 	{
