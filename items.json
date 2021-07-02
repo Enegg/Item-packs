@@ -3946,6 +3946,10 @@
 			"uses": 3,
 			"backfire": 255,
 			"heaCost": 155
+		},
+		"divine": {
+			"expDmg": [755, 972],
+			"heaDmg": 444
 		}
 	}
 ]
