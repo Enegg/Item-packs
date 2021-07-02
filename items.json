@@ -3927,5 +3927,46 @@
 			"eneCap": 259,
 			"heaCap": 259
 		}
+	},
+	{
+		"name": "Debug Item",
+		"type": "MODULE",
+		"element": "COMBINED",
+		"transform_range": "C-D",
+		"stats": {
+			"weight": 9999,
+			"health": 9999,
+			"eneCap": 9999,
+			"eneReg": 9999,
+			"heaCap": 9999,
+			"heaCol": 9999,
+			"phyRes": 9999,
+			"expRes": 9999,
+			"eleRes": 9999,
+			"phyDmg": [69, 9999],
+			"phyResDmg": 9999,
+			"eleDmg": [69, 9999],
+			"eneDmg": 9999,
+			"eneCapDmg": 9999,
+			"eneRegDmg": 9999,
+			"eleResDmg": 9999,
+			"expDmg": [420, 9999],
+			"heaDmg": 9999,
+			"heaCapDmg": 9999,
+			"heaColDmg": 9999,
+			"expResDmg": 9999,
+			"walk": 9999,
+			"jump": 9999,
+			"range": [0, 9999],
+			"push": 9999,
+			"pull": 9999,
+			"recoil": 9999,
+			"advance": 9999,
+			"retreat": 9999,
+			"uses": 9999,
+			"backfire": 9999,
+			"heaCost": 9999,
+			"eneCost": 9999
+		}
 	}
 ]
