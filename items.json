@@ -1360,7 +1360,7 @@
 		"name": "Flaminator",
 		"type": "SIDE_WEAPON",
 		"element": "EXPLOSIVE",
-		"transform_range": "E-D",
+		"transform_range": "R-D",
 		"stats": {
 			"weight": 47,
 			"expDmg": [148, 228],
@@ -2053,7 +2053,7 @@
 		"name": "Dynamic Stompers",
 		"type": "LEGS",
 		"element": "ELECTRIC",
-		"transform_range": "E-D",
+		"transform_range": "R-D",
 		"stats": {
 			"weight": 118,
 			"health": 372,
@@ -2408,7 +2408,7 @@
 		"name": "Hot Flash",
 		"type": "SIDE_WEAPON",
 		"element": "ELECTRIC",
-		"transform_range": "E-D",
+		"transform_range": "R-D",
 		"stats": {
 			"weight": 66,
 			"eleDmg": [148, 228],
