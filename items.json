@@ -797,8 +797,17 @@
 		"type": "MODULE",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 40,
+			"health": 165
+		},
+		"max_legendary": {
+			"health": 221
+		},
+		"mythical": {
+			"health": 240
+		},
+		"max_mythical": {
 			"health": 315
 		},
 		"divine": {
