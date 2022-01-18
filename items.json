@@ -819,8 +819,23 @@
 		"type": "MODULE",
 		"element": "PHYSICAL",
 		"transform_range": "C-E",
-		"stats": {
+		"common": {
 			"weight": 40,
+			"health": 30
+		},
+		"max_common": {
+			"health": 53
+		},
+		"rare": {
+			"health": 60
+		},
+		"max_rare": {
+			"health": 96
+		},
+		"epic": {
+			"health": 105
+		},
+		"max_epic": {
 			"health": 145
 		}
 	},
