@@ -1669,16 +1669,31 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 75,
-			"expDmg": [173, 345],
-			"heaDmg": 86,
-			"expResDmg": 12,
-			"heaColDmg": 10,
+			"expDmg": [88, 172],
+			"heaDmg": 45,
+			"expResDmg": 8,
+			"heaColDmg": 5,
 			"pull": 2,
 			"range": [4, 8],
 			"uses": 3,
+			"heaCost": 51
+		},
+		"max_legendary": {
+			"expDmg": [118, 231],
+			"heaDmg": 61
+		},
+		"mythical": {
+			"expDmg": [132, 263],
+			"heaDmg": 65,
+			"expResDmg": 12,
+			"heaColDmg": 10,
 			"heaCost": 81
+		},
+		"max_mythical": {
+			"expDmg": [173, 345],
+			"heaDmg": 86
 		},
 		"divine": {
 			"expDmg": [183, 365],
