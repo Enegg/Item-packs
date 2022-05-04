@@ -1016,8 +1016,17 @@
 		"type": "MODULE",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 40,
+			"health": 165
+		},
+		"max_legendary": {
+			"health": 221
+		},
+		"mythical": {
+			"health": 240
+		},
+		"max_mythical": {
 			"health": 315
 		},
 		"divine": {
@@ -1029,8 +1038,23 @@
 		"type": "MODULE",
 		"element": "PHYSICAL",
 		"transform_range": "C-E",
-		"stats": {
+		"common": {
 			"weight": 40,
+			"health": 30
+		},
+		"max_common": {
+			"health": 53
+		},
+		"rare": {
+			"health": 60
+		},
+		"max_rare": {
+			"health": 96
+		},
+		"epic": {
+			"health": 105
+		},
+		"max_epic": {
 			"health": 145
 		}
 	},
@@ -2021,16 +2045,31 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 75,
-			"expDmg": [173, 345],
-			"heaDmg": 86,
-			"expResDmg": 12,
-			"heaColDmg": 10,
+			"expDmg": [88, 172],
+			"heaDmg": 45,
+			"expResDmg": 8,
+			"heaColDmg": 5,
 			"pull": 2,
 			"range": [4, 8],
 			"uses": 3,
+			"heaCost": 51
+		},
+		"max_legendary": {
+			"expDmg": [118, 231],
+			"heaDmg": 61
+		},
+		"mythical": {
+			"expDmg": [132, 263],
+			"heaDmg": 65,
+			"expResDmg": 12,
+			"heaColDmg": 10,
 			"heaCost": 81
+		},
+		"max_mythical": {
+			"expDmg": [173, 345],
+			"heaDmg": 86
 		},
 		"divine": {
 			"expDmg": [183, 365],
@@ -2152,12 +2191,26 @@
 		"type": "DRONE",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 43,
-			"expDmg": [86, 153],
-			"heaDmg": 36,
+			"expDmg": [44, 77],
+			"heaDmg": 19,
+			"heaColDmg": 4,
+			"heaCost": 20
+		},
+		"max_legendary": {
+			"expDmg": [null, null],
+			"heaDmg": 26
+		},
+		"mythical": {
+			"expDmg": [null, null],
+			"heaDmg": null,
 			"heaColDmg": 7,
 			"heaCost": 31
+		},
+		"max_mythical": {
+			"expDmg": [86, 153],
+			"heaDmg": 36
 		},
 		"divine": {
 			"expDmg": [90, 161],
@@ -2444,18 +2497,11 @@
 			"eleRes": 10
 		},
 		"max_legendary": {
-			"weight": 346,
-			"health": null,
-			"eneCap": null,
-			"eneReg": 66,
-			"heaCap": null,
-			"heaCol": 44,
-			"phyRes": 27,
-			"expRes": 14,
-			"eleRes": 10
+			"health": 842,
+			"eneCap": 193,
+			"heaCap": 141
 		},
 		"mythical": {
-			"weight": 346,
 			"health": null,
 			"eneCap": null,
 			"eneReg": 96,
@@ -2466,15 +2512,9 @@
 			"eleRes": 16
 		},
 		"max_mythical": {
-			"weight": 346,
 			"health": 1153,
 			"eneCap": 267,
-			"eneReg": 96,
-			"heaCap": 193,
-			"heaCol": 64,
-			"phyRes": 55,
-			"expRes": 22,
-			"eleRes": 16
+			"heaCap": 193
 		},
 		"divine": {
 			"health": 1238,
@@ -3633,12 +3673,23 @@
 		"type": "TOP_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 30,
-			"phyDmg": [611, 980],
-			"phyResDmg": 10,
+			"phyDmg": [311, 491],
+			"phyResDmg": 6,
 			"range": [8, 0],
+			"backfire": 334
+		},
+		"max_legendary": {
+			"phyDmg": [null, null]
+		},
+		"mythical": {
+			"phyDmg": [null, null],
+			"phyResDmg": 10,
 			"backfire": 490
+		},
+		"max_mythical": {
+			"phyDmg": [611, 980]
 		},
 		"divine": {
 			"phyDmg": [646, 1036]
@@ -4049,22 +4100,36 @@
 		}
 	},
 	{
-	"id": 187,
-	"name": "Overcharged Rocket Battery",
-	"type": "SIDE_WEAPON",
-	"element": "EXPLOSIVE",
-	"transform_range": "L-D",
-	"stats": {
-		"weight": 63,
-		"expDmg": [202, 362],
-		"heaDmg": 106,
-		"expResDmg": 14,
-		"range": [3, 6],
-		"push": 1,
-		"retreat": 1,
-		"uses": 3,
-		"backfire": 180,
-		"heaCost": 75
+		"name": "Overcharged Rocket Battery",
+		"type": "SIDE_WEAPON",
+		"element": "EXPLOSIVE",
+		"transform_range": "L-D",
+		"legendary": {
+			"weight": 63,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"expResDmg": 9,
+			"range": [3, 6],
+			"push": 1,
+			"retreat": 1,
+			"uses": 3,
+			"backfire": 123,
+			"heaCost": 47
+		},
+		"max_legendary": {
+			"expDmg": [138, 243],
+			"heaDmg": 75
+		},
+		"mythical": {
+			"expDmg": [154, 276],
+			"heaDmg": 81,
+			"expResDmg": 14,
+			"backfire": 180,
+			"heaCost": 75
+		},
+		"max_mythical": {
+			"expDmg": [202, 362],
+			"heaDmg": 106
 		},
 		"divine": {
 			"expDmg": [213, 382],
