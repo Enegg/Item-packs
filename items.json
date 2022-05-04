@@ -26,7 +26,40 @@
 		"type": "TORSO",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 363,
+			"health": 576,
+			"eneCap": 132,
+			"eneReg": 53,
+			"heaCap": 132,
+			"heaCol": 53,
+			"phyRes": 14,
+			"expRes": 14,
+			"eleRes": 14
+		},
+		"max_legendary": {
+			"weight": 363,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 53,
+			"heaCap": null,
+			"heaCol": 53,
+			"phyRes": 14,
+			"expRes": 14,
+			"eleRes": 14
+		},
+		"mythical": {
+			"weight": 363,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 76,
+			"heaCap": null,
+			"heaCol": 76,
+			"phyRes": 22,
+			"expRes": 22,
+			"eleRes": 22
+		},
+		"max_mythical": {
 			"weight": 363,
 			"health": 1090,
 			"eneCap": 265,
@@ -70,7 +103,31 @@
 		"type": "TORSO",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 370,
+			"health": 840,
+			"eneCap": 120,
+			"eneReg": 55,
+			"heaCap": 120,
+			"heaCol": 55
+		},
+		"max_legendary": {
+			"weight": 370,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 55,
+			"heaCap": null,
+			"heaCol": 55
+		},
+		"mythical": {
+			"weight": 370,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 80,
+			"heaCap": null,
+			"heaCol": 80
+		},
+		"max_mythical": {
 			"weight": 370,
 			"health": 1589,
 			"eneCap": 241,
@@ -89,7 +146,40 @@
 		"type": "TORSO",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 335,
+			"health": 657,
+			"eneCap": 12,
+			"eneReg": 6,
+			"heaCap": 120,
+			"heaCol": 55,
+			"phyRes": 15,
+			"expRes": 15,
+			"eleRes": 15
+		},
+		"max_legendary": {
+			"weight": 335,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 6,
+			"heaCap": null,
+			"heaCol": 55,
+			"phyRes": 15,
+			"expRes": 15,
+			"eleRes": 15
+		},
+		"mythical": {
+			"weight": 335,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 8,
+			"heaCap": null,
+			"heaCol": 80,
+			"phyRes": 24,
+			"expRes": 24,
+			"eleRes": 24
+		},
+		"max_mythical": {
 			"weight": 335,
 			"health": 1343,
 			"eneCap": 25,
@@ -154,7 +244,31 @@
 		"type": "LEGS",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 134,
+			"health": 238,
+			"phyDmg": [81, 121],
+			"push": 1,
+			"range": [1, 0],
+			"walk": 3
+		},
+		"max_legendary": {
+			"weight": 134,
+			"health": 319,
+			"phyDmg": [null, null],
+			"push": 1,
+			"range": [1, 0],
+			"walk": 3
+		},
+		"mythical": {
+			"weight": 134,
+			"health": null,
+			"phyDmg": [null, null],
+			"push": 1,
+			"range": [1, 0],
+			"walk": 3
+		},
+		"max_mythical": {
 			"weight": 134,
 			"health": 451,
 			"phyDmg": [160, 242],
@@ -191,7 +305,25 @@
 		"type": "LEGS",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 150,
+			"health": 450,
+			"phyDmg": [40, 55],
+			"range": [1, 0]
+		},
+		"max_legendary": {
+			"weight": 150,
+			"health": null,
+			"phyDmg": [null, null],
+			"range": [1, 0]
+		},
+		"mythical": {
+			"weight": 150,
+			"health": null,
+			"phyDmg": [null, null],
+			"range": [1, 0]
+		},
+		"max_mythical": {
 			"weight": 150,
 			"health": 860,
 			"phyDmg": [79, 111],
@@ -295,7 +427,28 @@
 		"type": "SIDE_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 20,
+			"phyDmg": [21, 27],
+			"phyResDmg": 30,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"max_legendary": {
+			"weight": 20,
+			"phyDmg": [null, null],
+			"phyResDmg": 30,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"mythical": {
+			"weight": 20,
+			"phyDmg": [31, 41],
+			"phyResDmg": 50,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"max_mythical": {
 			"weight": 20,
 			"phyDmg": [39, 52],
 			"phyResDmg": 50,
@@ -564,7 +717,25 @@
 		"type": "TOP_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"max_legendary": {
+			"weight": 29,
+			"phyDmg": [106, 152],
+			"phyResDmg": 14,
+			"range": [4, 8],
+			"uses": 2,
+			"eneCost": 10,
+			"heaCost": 10
+		},
+		"mythical": {
+			"weight": 29,
+			"phyDmg": [117, 170],
+			"phyResDmg": 23,
+			"range": [4, 8],
+			"uses": 2,
+			"eneCost": 16,
+			"heaCost": 16
+		},
+		"max_mythical": {
 			"weight": 29,
 			"phyDmg": [154, 224],
 			"phyResDmg": 23,
@@ -582,7 +753,31 @@
 		"type": "TOP_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 55,
+			"phyDmg": [null, null],
+			"pull": 1,
+			"range": [4, 8],
+			"eneCost": 24,
+			"heaCost": 24
+		},
+		"max_legendary": {
+			"weight": 55,
+			"phyDmg": [162, 274],
+			"pull": 1,
+			"range": [4, 8],
+			"eneCost": 24,
+			"heaCost": 24
+		},
+		"mythical": {
+			"weight": 55,
+			"phyDmg": [182, 311],
+			"pull": 1,
+			"range": [4, 8],
+			"eneCost": 38,
+			"heaCost": 38
+		},
+		"max_mythical": {
 			"weight": 55,
 			"phyDmg": [239, 408],
 			"pull": 1,
@@ -599,7 +794,31 @@
 		"type": "TOP_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 19,
+			"phyDmg": [null, null],
+			"range": [8, 0],
+			"uses": 1,
+			"eneCost": 14,
+			"heaCost": 14
+		},
+		"max_legendary": {
+			"weight": 19,
+			"phyDmg": [406, 669],
+			"range": [8, 0],
+			"uses": 1,
+			"eneCost": 14,
+			"heaCost": 14
+		},
+		"mythical": {
+			"weight": 19,
+			"phyDmg": [455, 761],
+			"range": [8, 0],
+			"uses": 1,
+			"eneCost": 22,
+			"heaCost": 22
+		},
+		"max_mythical": {
 			"weight": 19,
 			"phyDmg": [596, 997],
 			"range": [8, 0],
@@ -1226,7 +1445,47 @@
 		"type": "SIDE_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
+			"weight": 23,
+			"expDmg": [10, 20],
+			"heaDmg": 15,
+			"expResDmg": 14,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"max_epic": {
+			"weight": 23,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"expResDmg": 14,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"legendary": {
+			"weight": 23,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"expResDmg": null,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"max_legendary": {
+			"weight": 23,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"expResDmg": null,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"mythical": {
+			"weight": 23,
+			"expDmg": [24, 49],
+			"heaDmg": 33,
+			"expResDmg": 45,
+			"range": [2, 4],
+			"uses": 1
+		},
+		"max_mythical": {
 			"weight": 23,
 			"expDmg": [32, 65],
 			"heaDmg": 44,
@@ -1266,7 +1525,31 @@
 		"type": "SIDE_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 66,
+			"expDmg": [83, 107],
+			"heaDmg": 49,
+			"heaCapDmg": 6,
+			"range": [2, 4],
+			"heaCost": 20
+		},
+		"max_legendary": {
+			"weight": 66,
+			"expDmg": [null, null],
+			"heaDmg": 49,
+			"heaCapDmg": 6,
+			"range": [2, 4],
+			"heaCost": 20
+		},
+		"mythical": {
+			"weight": 66,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"heaCapDmg": 12,
+			"range": [2, 4],
+			"heaCost": 31
+		},
+		"max_mythical": {
 			"weight": 66,
 			"expDmg": [163, 213],
 			"heaDmg": 93,
@@ -1527,7 +1810,62 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
+			"weight": 41,
+			"expDmg": [45, 57],
+			"heaDmg": 15,
+			"expResDmg": 6,
+			"heaColDmg": 7,
+			"push": 1,
+			"range": [4, 5],
+			"uses": 1,
+			"heaCost": null
+		},
+		"max_epic": {
+			"weight": 41,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"expResDmg": 6,
+			"heaColDmg": 7,
+			"push": 1,
+			"range": [4, 5],
+			"uses": 1,
+			"heaCost": null
+		},
+		"legendary": {
+			"weight": 41,
+			"expDmg": [null, null],
+			"heaDmg": null,
+			"expResDmg": 12,
+			"heaColDmg": 25,
+			"push": 1,
+			"range": [4, 5],
+			"uses": 1,
+			"heaCost": 16
+		},
+		"max_legendary": {
+			"weight": 41,
+			"expDmg": [98, 127],
+			"heaDmg": 31,
+			"expResDmg": 12,
+			"heaColDmg": 25,
+			"push": 1,
+			"range": [4, 5],
+			"uses": 1,
+			"heaCost": 16
+		},
+		"mythical": {
+			"weight": 41,
+			"expDmg": [109, 142],
+			"heaDmg": 33,
+			"expResDmg": 20,
+			"heaColDmg": 46,
+			"push": 1,
+			"range": [4, 5],
+			"uses": 1,
+			"heaCost": 25
+		},
+		"max_mythical": {
 			"weight": 41,
 			"expDmg": [143, 187],
 			"heaDmg": 44,
@@ -1567,6 +1905,15 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
+		"legendary": {
+			"weight": 52,
+			"expDmg": [103, 132],
+			"heaDmg": 37,
+			"expResDmg": 3,
+			"range": [4, 8],
+			"eneCost": 10,
+			"heaCost": 30
+		},
 		"stats": {
 			"weight": 52,
 			"expDmg": [203, 265],
@@ -1586,6 +1933,16 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
+		"legendary": {
+			"weight": 63,
+			"expDmg": [98, 164],
+			"heaDmg": 37,
+			"heaColDmg": 4,
+			"pull": 1,
+			"range": [4, 8],
+			"eneCost": 16,
+			"heaCost": 47
+		},
 		"stats": {
 			"weight": 63,
 			"expDmg": [192, 329],
@@ -1606,6 +1963,15 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
+		"legendary": {
+			"weight": 51,
+			"expDmg": [78, 116],
+			"heaDmg": 56,
+			"heaCapDmg": 15,
+			"range": [4, 8],
+			"eneCost": 10,
+			"heaCost": 30
+		},
 		"stats": {
 			"weight": 51,
 			"expDmg": [154, 232],
@@ -1625,6 +1991,16 @@
 		"type": "TOP_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
+		"legendary": {
+			"weight": 21,
+			"expDmg": [289, 371],
+			"heaDmg": 111,
+			"expResDmg": 9,
+			"range": [8, 0],
+			"uses": 1,
+			"eneCost": 20,
+			"heaCost": 98
+		},
 		"stats": {
 			"weight": 21,
 			"expDmg": [568, 741],
@@ -1881,7 +2257,32 @@
 		"type": "MODULE",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
+			"weight": 25,
+			"heaCap": 32,
+			"heaCol": 14
+		},
+		"max_epic": {
+			"weight": 25,
+			"heaCap": null,
+			"heaCol": null
+		},
+		"legendary": {
+			"weight": 25,
+			"heaCap": null,
+			"heaCol": null
+		},
+		"max_legendary": {
+			"weight": 25,
+			"heaCap": 65,
+			"heaCol": 30
+		},
+		"mythical": {
+			"weight": 25,
+			"heaCap": null,
+			"heaCol": null
+		},
+		"max_mythical": {
 			"weight": 25,
 			"heaCap": 89,
 			"heaCol": 42
@@ -1896,7 +2297,27 @@
 		"type": "MODULE",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
+			"weight": 15,
+			"heaCol": 21
+		},
+		"max_epic": {
+			"weight": 15,
+			"heaCol": 29
+		},
+		"legendary": {
+			"weight": 15,
+			"heaCol": 33
+		},
+		"max_legendary": {
+			"weight": 15,
+			"heaCol": null
+		},
+		"mythical": {
+			"weight": 15,
+			"heaCol": null
+		},
+		"max_mythical": {
 			"weight": 15,
 			"heaCol": 63
 		},
@@ -2011,7 +2432,40 @@
 		"type": "TORSO",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 346,
+			"health": 580,
+			"eneCap": 144,
+			"eneReg": 66,
+			"heaCap": 96,
+			"heaCol": 44,
+			"phyRes": 27,
+			"expRes": 14,
+			"eleRes": 10
+		},
+		"max_legendary": {
+			"weight": 346,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 66,
+			"heaCap": null,
+			"heaCol": 44,
+			"phyRes": 27,
+			"expRes": 14,
+			"eleRes": 10
+		},
+		"mythical": {
+			"weight": 346,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 96,
+			"heaCap": null,
+			"heaCol": 64,
+			"phyRes": 55,
+			"expRes": 22,
+			"eleRes": 16
+		},
+		"max_mythical": {
 			"weight": 346,
 			"health": 1153,
 			"eneCap": 267,
@@ -2075,7 +2529,34 @@
 		"type": "LEGS",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 114,
+			"health": 177,
+			"eleDmg": [69, 125],
+			"eneDmg": 20,
+			"push": 1,
+			"range": [1, 0],
+			"walk": 3
+		},
+		"max_legendary": {
+			"weight": 114,
+			"health": 257,
+			"eleDmg": [null, null],
+			"eneDmg": 27,
+			"push": 1,
+			"range": [1, 0],
+			"walk": 3
+		},
+		"mythical": {
+			"weight": 114,
+			"health": null,
+			"eleDmg": [null, null],
+			"eneDmg": null,
+			"push": 1,
+			"range": [1, 0],
+			"walk": 3
+		},
+		"max_mythical": {
 			"weight": 114,
 			"health": 363,
 			"eleDmg": [135, 249],
@@ -2669,6 +3150,17 @@
 		"type": "TOP_WEAPON",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
+		"legendary": {
+			"weight": 43,
+			"eleDmg": [104, 175],
+			"eneDmg": 25,
+			"eleResDmg": 3,
+			"push": 1,
+			"advance": 3,
+			"range": [4, 8],
+			"uses": 2,
+			"heaCost": 63
+		},
 		"stats": {
 			"weight": 43,
 			"eleDmg": [203, 347],
@@ -2829,7 +3321,28 @@
 		"type": "TELEPORTER",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 11,
+			"eleDmg": [null, null],
+			"eneDmg": null,
+			"uses": 1,
+			"eneCost": 20
+		},
+		"max_legendary": {
+			"weight": 11,
+			"eleDmg": [70, 91],
+			"eneDmg": 34,
+			"uses": 1,
+			"eneCost": 20
+		},
+		"mythical": {
+			"weight": 11,
+			"eleDmg": [78, 102],
+			"eneDmg": 36,
+			"uses": 1,
+			"eneCost": 31
+		},
+		"max_mythical": {
 			"weight": 11,
 			"eleDmg": [103, 135],
 			"eneDmg": 48,
@@ -2857,7 +3370,28 @@
 		"type": "HOOK",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 11,
+			"eleDmg": [52, 67],
+			"eneDmg": 25,
+			"uses": 1,
+			"eneCost": 20
+		},
+		"max_legendary": {
+			"weight": 11,
+			"eleDmg": [null, null],
+			"eneDmg": null,
+			"uses": 1,
+			"eneCost": 20
+		},
+		"mythical": {
+			"weight": 11,
+			"eleDmg": [null, null],
+			"eneDmg": null,
+			"uses": 1,
+			"eneCost": 31
+		},
+		"max_mythical": {
 			"weight": 11,
 			"eleDmg": [103, 135],
 			"eneDmg": 48,
@@ -2938,7 +3472,40 @@
 		"type": "TORSO",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 346,
+			"health": 480,
+			"eneCap": 96,
+			"eneReg": 44,
+			"heaCap": 144,
+			"heaCol": 66,
+			"phyRes": 10,
+			"expRes": 14,
+			"eleRes": 27
+		},
+		"max_legendary": {
+			"weight": 346,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 44,
+			"heaCap": null,
+			"heaCol": 66,
+			"phyRes": 10,
+			"expRes": 14,
+			"eleRes": 27
+		},
+		"mythical": {
+			"weight": 346,
+			"health": null,
+			"eneCap": null,
+			"eneReg": 64,
+			"heaCap": null,
+			"heaCol": 96,
+			"phyRes": 16,
+			"expRes": 22,
+			"eleRes": 44
+		},
+		"max_mythical": {
 			"weight": 346,
 			"health": 908,
 			"eneCap": 193,
@@ -3253,7 +3820,40 @@
 		"type": "TOP_WEAPON",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 27,
+			"eleDmg": [210, 332],
+			"eneDmg": 113,
+			"eleResDmg": 6,
+			"range": [7, 0],
+			"push": 1,
+			"uses": 1,
+			"eneCost": 78,
+			"heaCost": 20
+		},
+		"max_legendary": {
+			"weight": 27,
+			"eleDmg": [282, 446],
+			"eneDmg": 152,
+			"eleResDmg": 6,
+			"range": [7, 0],
+			"push": 1,
+			"uses": 1,
+			"eneCost": 78,
+			"heaCost": 20
+		},
+		"mythical": {
+			"weight": 27,
+			"eleDmg": [316, 508],
+			"eneDmg": 166,
+			"eleResDmg": 10,
+			"range": [7, 0],
+			"push": 1,
+			"uses": 1,
+			"eneCost": 124,
+			"heaCost": 31
+		},
+		"max_mythical": {
 			"weight": 27,
 			"eleDmg": [414, 666],
 			"eneDmg": 218,
@@ -3508,8 +4108,20 @@
 		"type": "MODULE",
 		"element": "COMBINED",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 35,
+			"eneCap": 72,
+			"heaCap": 72
+		},
+		"max_legendary": {
+			"eneCap": 105,
+			"heaCap": 97
+		},
+		"mythical": {
+			"eneCap": null,
+			"heaCap": null
+		},
+		"max_mythical": {
 			"eneCap": 145,
 			"heaCap": 134
 		},
@@ -3542,6 +4154,11 @@
 		"type": "MODULE",
 		"element": "COMBINED",
 		"transform_range": "L-D",
+		"legendary": {
+			"weight": 25,
+			"eneReg": 33,
+			"heaCol": 33
+		},
 		"stats": {
 			"weight": 25,
 			"eneReg": 68,
@@ -3620,7 +4237,29 @@
 		"type": "LEGS",
 		"element": "ELECTRIC",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
+			"weight": 118,
+			"health": 147,
+			"eleDmg": [40, 63],
+			"eneDmg": 16,
+			"eleResDmg": 3,
+			"push": 1,
+			"range": [1, 0],
+			"walk": 1,
+			"jump": 2
+		},
+		"legendary": {
+			"weight": 118,
+			"health": 228,
+			"eleDmg": [65, 103],
+			"eneDmg": 25,
+			"eleResDmg": 6,
+			"push": 1,
+			"range": [1, 0],
+			"walk": 1,
+			"jump": 2
+		},
+		"max_mythical": {
 			"weight": 118,
 			"health": 466,
 			"eleRes": 10,
@@ -3726,7 +4365,31 @@
 		"type": "SIDE_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
+			"weight": 8,
+			"phyDmg": [47, 74],
+			"phyResDmg": 36,
+			"range": [2, 4],
+			"uses": 1,
+			"backfire": 123
+		},
+		"max_legendary": {
+			"weight": 8,
+			"phyDmg": [null, null],
+			"phyResDmg": 36,
+			"range": [2, 4],
+			"uses": 1,
+			"backfire": 123
+		},
+		"mythical": {
+			"weight": 8,
+			"phyDmg": [null, null],
+			"phyResDmg": 60,
+			"range": [2, 4],
+			"uses": 1,
+			"backfire": 180
+		},
+		"max_mythical": {
 			"weight": 8,
 			"phyDmg": [91, 146],
 			"phyResDmg": 60,
