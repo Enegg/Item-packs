@@ -2260,12 +2260,25 @@
 		"type": "DRONE",
 		"element": "EXPLOSIVE",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 51,
-			"expDmg": [84, 154],
-			"heaDmg": 45,
+			"expDmg": [null, null],
+			"heaDmg": null,
 			"push": 1,
+			"heaCost": 20
+		},
+		"max_legendary": {
+			"expDmg": [58, 105],
+			"heaDmg": 31
+		},
+		"mythical": {
+			"expDmg": [64, 117],
+			"heaDmg": 34,
 			"heaCost": 31
+		},
+		"max_mythical": {
+			"expDmg": [84, 154],
+			"heaDmg": 45
 		},
 		"divine": {
 			"expDmg": [89, 163],
