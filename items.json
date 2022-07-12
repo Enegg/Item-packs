@@ -4224,8 +4224,15 @@
 			"eneReg": 33,
 			"heaCol": 33
 		},
-		"stats": {
-			"weight": 25,
+		"max_legendary": {
+			"eneReg": 48,
+			"heaCol": 48
+		},
+		"mythical": {
+			"eneReg": null,
+			"heaCol": null
+		},
+		"max_mythical": {
 			"eneReg": 68,
 			"heaCol": 68
 		},
