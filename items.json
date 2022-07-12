@@ -4673,14 +4673,38 @@
 		"type": "SIDE_WEAPON",
 		"element": "ELECTRIC",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
 			"weight": 16,
 			"eleDmg": [null, null],
 			"eneDmg": null,
-			"eleResDmg": 50,
+			"eleResDmg": null,
 			"range": [2, 4],
 			"uses": 1,
+			"backfire": null
+		},
+		"max_epic": {
+			"eleDmg": [null, null],
+			"eneDmg": null
+		},
+		"legendary": {
+			"eleDmg": [44, 77],
+			"eneDmg": 35,
+			"eleResDmg": 30,
+			"backfire": 123
+		},
+		"max_legendary": {
+			"eleDmg": [null, null],
+			"eneDmg": null
+		},
+		"mythical": {
+			"eleDmg": [null, null],
+			"eneDmg": null,
+			"eleResDmg": 50,
 			"backfire": 180
+		},
+		"max_mythical": {
+			"eleDmg": [null, null],
+			"eneDmg": null
 		},
 		"divine": {
 			"eleDmg": [88, 157],
