@@ -1737,17 +1737,44 @@
 		"type": "SIDE_WEAPON",
 		"element": "EXPLOSIVE",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
 			"weight": 64,
-			"expDmg": [173, 350],
-			"heaDmg": 50,
-			"expResDmg": 10,
+			"expDmg": [55, 107],
+			"heaDmg": 17,
+			"expResDmg": 3,
 			"push": 1,
 			"recoil": 1,
 			"range": [1, 2],
+			"uses": 2,
+			"eneCost": 9,
+			"heaCost": 20
+		},
+		"max_epic": {
+			"expDmg": [76, 148],
+			"heaDmg": 24
+		},
+		"legendary": {
+			"expDmg": [88, 175],
+			"heaDmg": 26,
+			"expResDmg": 6,
 			"uses": 3,
+			"eneCost": 16,
+			"heaCost": 36
+		},
+		"max_legendary": {
+			"expDmg": [null, null],
+			"heaDmg": null
+		},
+		"mythical": {
+			"expDmg": [null, null],
+			"heaDmg": 35,
+			"expResDmg": 10,
 			"eneCost": 25,
 			"heaCost": 56
+		},
+		"max_mythical": {
+			"expDmg": [173, 350],
+			"heaDmg": 50
 		},
 		"divine": {
 			"expDmg": [178, 360],
