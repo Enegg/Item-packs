@@ -3381,13 +3381,27 @@
 		"type": "DRONE",
 		"element": "ELECTRIC",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 50,
-			"eleDmg": [151, 276],
-			"eneDmg": 86,
-			"eleResDmg": 7,
+			"eleDmg": [null, null],
+			"eneDmg": null,
+			"eleResDmg": 5,
 			"range": [3, 6],
+			"eneCost": 32
+		},
+		"max_legendary": {
+			"eleDmg": [102, 185],
+			"eneDmg": 61
+		},
+		"mythical": {
+			"eleDmg": [115, 210],
+			"eneDmg": 65,
+			"eleResDmg": 7,
 			"eneCost": 50
+		},
+		"max_mythical": {
+			"eleDmg": [151, 276],
+			"eneDmg": 86
 		},
 		"divine": {
 			"eleDmg": [159, 291],
