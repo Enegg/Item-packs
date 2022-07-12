@@ -3837,14 +3837,26 @@
 		"type": "SIDE_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 52,
-			"phyDmg": [216, 478],
-			"phyResDmg": 20,
+			"phyDmg": [111, 239],
+			"phyResDmg": 12,
 			"range": [4, 8],
 			"uses": 2,
+			"backfire": 123,
+			"heaCost": 20
+		},
+		"max_legendary": {
+			"phyDmg": [null, null]
+		},
+		"mythical": {
+			"phyDmg": [null, null],
+			"phyResDmg": 20,
 			"backfire": 180,
 			"heaCost": 31
+		},
+		"max_mythical": {
+			"phyDmg": [216, 478]
 		},
 		"divine": {
 			"phyDmg": [229, 506]
