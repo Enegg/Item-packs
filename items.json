@@ -853,15 +853,26 @@
 		"type": "TOP_WEAPON",
 		"element": "PHYSICAL",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 42,
-			"phyDmg": [228, 408],
-			"phyResDmg": 5,
+			"phyDmg": [116, 204],
+			"phyResDmg": 3,
 			"push": 1,
 			"advance": 3,
 			"range": [4, 8],
 			"uses": 2,
+			"heaCost": 63
+		},
+		"max_legendary": {
+			"phyDmg": [156, 274]
+		},
+		"mythical": {
+			"phyDmg": [174, 311],
+			"phyResDmg": 5,
 			"heaCost": 100
+		},
+		"max_mythical": {
+			"phyDmg": [228, 408]
 		},
 		"divine": {
 			"phyDmg": [241, 431]
