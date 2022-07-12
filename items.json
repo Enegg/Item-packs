@@ -4466,12 +4466,27 @@
 		}
 	},
 	{
-		"name": "Defense Matrix",
+		"name": "Defence Matrix",
 		"type": "MODULE",
 		"element": "COMBINED",
 		"transform_range": "L-D",
-		"stats": {
+		"legendary": {
 			"weight": 60,
+			"health": 83,
+			"phyRes": 18,
+			"expRes": 18,
+			"eleRes": 18
+		},
+		"max_legendary": {
+			"health": 121,
+			"phyRes": 27,
+			"expRes": 27,
+			"eleRes": 27
+		},
+		"mythical": {
+			"health": 120
+		},
+		"max_mythical": {
 			"health": 170,
 			"phyRes": 39,
 			"expRes": 39,
