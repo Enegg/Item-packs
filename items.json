@@ -4446,28 +4446,15 @@
 			"backfire": 123
 		},
 		"max_legendary": {
-			"weight": 8,
-			"phyDmg": [null, null],
-			"phyResDmg": 36,
-			"range": [2, 4],
-			"uses": 1,
-			"backfire": 123
+			"phyDmg": [63, 100]
 		},
 		"mythical": {
-			"weight": 8,
-			"phyDmg": [null, null],
+			"phyDmg": [69, 111],
 			"phyResDmg": 60,
-			"range": [2, 4],
-			"uses": 1,
 			"backfire": 180
 		},
 		"max_mythical": {
-			"weight": 8,
-			"phyDmg": [91, 146],
-			"phyResDmg": 60,
-			"range": [2, 4],
-			"uses": 1,
-			"backfire": 180
+			"phyDmg": [91, 146]
 		},
 		"divine": {
 			"phyDmg": [96, 155]
