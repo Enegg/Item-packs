@@ -3701,13 +3701,36 @@
 		"type": "DRONE",
 		"element": "PHYSICAL",
 		"transform_range": "E-D",
-		"stats": {
+		"epic": {
 			"weight": 42,
-			"phyDmg": [201, 359],
+			"phyDmg": [64, 110],
+			"phyResDmg": 2,
+			"backfire": 47,
+			"eneCost": 6,
+			"heaCost": 6
+		},
+		"max_epic": {
+			"phyDmg": [null, null]
+		},
+		"legendary": {
+			"phyDmg": [102, 179],
+			"phyResDmg": 3,
+			"backfire": 74,
+			"eneCost": 16,
+			"heaCost": 16
+		},
+		"max_legendary": {
+			"phyDmg": [null, null]
+		},
+		"mythical": {
+			"phyDmg": [null, null],
 			"phyResDmg": 5,
 			"backfire": 108,
 			"eneCost": 16,
 			"heaCost": 16
+		},
+		"max_mythical": {
+			"phyDmg": [201, 359]
 		},
 		"divine": {
 			"phyDmg": [206, 368]
