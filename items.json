@@ -335,7 +335,7 @@
 			"health": 50,
 			"phyDmg": [20, 24],
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -390,7 +390,7 @@
 			"health": 238,
 			"phyDmg": [81, 121],
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 3
 		},
 		"max_legendary": {
@@ -420,7 +420,7 @@
 			"health": null,
 			"phyDmg": [null, null],
 			"push": 2,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -466,7 +466,7 @@
 			"weight": 150,
 			"health": 450,
 			"phyDmg": [40, 55],
-			"range": [1, 0]
+			"range": [1, 1]
 		},
 		"max_legendary": {
 			"health": null,
@@ -496,7 +496,7 @@
 			"heaColDmg": null,
 			"eneRegDmg": null,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"eneCost": null,
 			"heaCost": null
 		},
@@ -538,7 +538,7 @@
 			"heaCapDmg": null,
 			"eneCapDmg": null,
 			"push": 3,
-			"range": [1, 0],
+			"range": [1, 1],
 			"eneCost": null,
 			"heaCost": null
 		},
@@ -1219,7 +1219,7 @@
 		"legendary": {
 			"weight": 19,
 			"phyDmg": [null, null],
-			"range": [8, 0],
+			"range": [8, 8],
 			"uses": 1,
 			"eneCost": 14,
 			"heaCost": 14
@@ -2175,7 +2175,7 @@
 			"expDmg": [18, 22],
 			"heaDmg": 5,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -2241,7 +2241,7 @@
 			"expDmg": [null, null],
 			"heaDmg": null,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -2287,7 +2287,7 @@
 			"expDmg": [null, null],
 			"heaDmg": null,
 			"push": 2,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -2333,7 +2333,7 @@
 			"heaDmg": null,
 			"heaCapDmg": null,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"eneCost": null,
 			"heaCost": null
 		},
@@ -2368,7 +2368,7 @@
 			"heaDmg": 29,
 			"heaColDmg": 3,
 			"push": 3,
-			"range": [1, 0],
+			"range": [1, 1],
 			"eneCost": 5,
 			"heaCost": 18
 		},
@@ -3386,7 +3386,7 @@
 			"expDmg": [289, 371],
 			"heaDmg": 111,
 			"expResDmg": 9,
-			"range": [8, 0],
+			"range": [8, 8],
 			"uses": 1,
 			"eneCost": 20,
 			"heaCost": 98
@@ -4283,7 +4283,7 @@
 			"eleDmg": [18, 22],
 			"eneDmg": 5,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -4349,7 +4349,7 @@
 			"eleDmg": [null, null],
 			"eneDmg": null,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -4405,7 +4405,7 @@
 			"eleDmg": [69, 125],
 			"eneDmg": 20,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 3
 		},
 		"max_legendary": {
@@ -4440,7 +4440,7 @@
 			"eleDmg": [null, null],
 			"eneDmg": null,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -4486,7 +4486,7 @@
 			"eleDmg": [null, null],
 			"eneDmg": null,
 			"push": 2,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -4532,7 +4532,7 @@
 			"eneDmg": 59,
 			"eneCapDmg": 16,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"eneCost": 32,
 			"heaCost": 8
 		},
@@ -4567,7 +4567,7 @@
 			"eneDmg": 38,
 			"eneRegDmg": 3,
 			"push": 3,
-			"range": [1, 0],
+			"range": [1, 1],
 			"eneCost": 18,
 			"heaCost": 5
 		},
@@ -5530,7 +5530,7 @@
 			"eleDmg": [289, 371],
 			"eneDmg": 147,
 			"eleResDmg": 9,
-			"range": [8, 0],
+			"range": [8, 8],
 			"uses": 1,
 			"eneCost": 98,
 			"heaCost": 20
@@ -6398,7 +6398,7 @@
 			"weight": 30,
 			"phyDmg": [311, 491],
 			"phyResDmg": 6,
-			"range": [8, 0],
+			"range": [8, 8],
 			"backfire": 334
 		},
 		"max_legendary": {
@@ -6426,7 +6426,7 @@
 			"expDmg": [256, 404],
 			"heaDmg": 111,
 			"expResDmg": 9,
-			"range": [8, 0],
+			"range": [8, 8],
 			"backfire": 319,
 			"heaCost": 63
 		},
@@ -6681,7 +6681,7 @@
 			"expDmg": [201, 327],
 			"heaDmg": 93,
 			"expResDmg": 8,
-			"range": [7, 0],
+			"range": [7, 7],
 			"push": 1,
 			"uses": 1,
 			"eneCost": 20,
@@ -6717,7 +6717,7 @@
 			"eleDmg": [210, 332],
 			"eneDmg": 113,
 			"eleResDmg": 6,
-			"range": [7, 0],
+			"range": [7, 7],
 			"push": 1,
 			"uses": 1,
 			"eneCost": 78,
@@ -6788,7 +6788,7 @@
 			"eleDmg": [256, 404],
 			"eneDmg": 147,
 			"eleResDmg": 9,
-			"range": [8, 0],
+			"range": [8, 8],
 			"backfire": 265,
 			"eneCost": 39
 		},
@@ -7348,7 +7348,7 @@
 			"phyDmg": [47, 72],
 			"phyResDmg": 3,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -7392,7 +7392,7 @@
 			"heaDmg": 12,
 			"expResDmg": 3,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
@@ -7442,7 +7442,7 @@
 			"eneDmg": 16,
 			"eleResDmg": 3,
 			"push": 1,
-			"range": [1, 0],
+			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
