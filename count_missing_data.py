@@ -63,4 +63,4 @@ for item in data:
 
 with open("out.txt", "w") as file:
     print(f"Total: {len(data)}", "Done:", types_finished_stats, "Pending:", types_missing_stats, sep="\n", file=file)
-    print("\n".join(f"{name}: {missing}" for name, missing in items_with_missing_tiers.items()), file=file)
+    print("\n".join(f"{name}: {', '.join(missing)}" for name, missing in items_with_missing_tiers.items()), file=file)
