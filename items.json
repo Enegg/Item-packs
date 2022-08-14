@@ -134,20 +134,20 @@
 		"transform_range": "E-D",
 		"epic": {
 			"weight": 350,
-			"health": null,
-			"eneCap": null,
-			"eneReg": null,
-			"heaCap": null,
-			"heaCol": null,
-			"phyRes": null,
-			"expRes": null,
-			"eleRes": null
+			"health": 433,
+			"eneCap": 64,
+			"eneReg": 28,
+			"heaCap": 48,
+			"heaCol": 21,
+			"phyRes": 5,
+			"expRes": 7,
+			"eleRes": 7
 
 		},
 		"max_epic": {
-			"health": null,
-			"eneCap": null,
-			"heaCap": null
+			"health": 595,
+			"eneCap": 92,
+			"heaCap": 69
 		},
 		"legendary": {
 			"health": null,
@@ -417,20 +417,20 @@
 		"transform_range": "R-D",
 		"rare": {
 			"weight": 123,
-			"health": null,
-			"phyDmg": [null, null],
+			"health": 57,
+			"phyDmg": [38, 49],
 			"push": 2,
 			"range": [1, 1],
 			"walk": 1,
 			"jump": 2
 		},
 		"max_rare": {
-			"health": null,
-			"phyDmg": [null, null]
+			"health": 92,
+			"phyDmg": [61, 79]
 		},
 		"epic": {
-			"health": null,
-			"phyDmg": [null, null]
+			"health": 98,
+			"phyDmg": [64, 85]
 		},
 		"max_epic": {
 			"health": null,
@@ -1643,13 +1643,13 @@
 		"transform_range": "L-D",
 		"legendary": {
 			"weight": 28,
-			"phyRes": null
+			"phyRes": 29
 		},
 		"max_legendary": {
 			"phyRes": null
 		},
 		"mythical": {
-			"phyRes": null
+			"phyRes": 45
 		},
 		"max_mythical": {
 			"phyRes": 59
@@ -2283,9 +2283,9 @@
 		"transform_range": "E-D",
 		"epic": {
 			"weight": 136,
-			"health": null,
-			"expDmg": [null, null],
-			"heaDmg": null,
+			"health": 130,
+			"expDmg": [42, 67],
+			"heaDmg": 10,
 			"push": 2,
 			"range": [1, 1],
 			"walk": 1,
@@ -3978,7 +3978,7 @@
 		"transform_range": "L-D",
 		"legendary": {
 			"weight": 28,
-			"expRes": null
+			"expRes": 29
 		},
 		"max_legendary": {
 			"expRes": null
@@ -4031,19 +4031,19 @@
 			"heaCap": 48
 		},
 		"rare": {
-			"health": null,
-			"eneCap": null,
-			"eneReg": null,
-			"heaCap": null,
-			"heaCol": null,
-			"phyRes": null,
-			"expRes": null,
-			"eleRes": null
+			"health": 171,
+			"eneCap": 55,
+			"eneReg": 28,
+			"heaCap": 40,
+			"heaCol": 16,
+			"phyRes": 3,
+			"expRes": 3,
+			"eleRes": 2
 		},
 		"max_rare": {
-			"health": null,
-			"eneCap": null,
-			"heaCap": null
+			"health": 299,
+			"eneCap": 88,
+			"heaCap": 70
 		},
 		"epic": {
 			"health": null,
@@ -4436,9 +4436,9 @@
 		"transform_range": "E-D",
 		"epic": {
 			"weight": 124,
-			"health": null,
-			"eleDmg": [null, null],
-			"eneDmg": null,
+			"health": 130,
+			"eleDmg": [41, 59],
+			"eneDmg": 22,
 			"push": 1,
 			"range": [1, 1],
 			"walk": 1,
@@ -5684,10 +5684,10 @@
 		"transform_range": "E-D",
 		"epic": {
 			"weight": 29,
-			"eleDmg": [null, null],
-			"eneDmg": null,
-			"eneCapDmg": null,
-			"eneCost": null
+			"eleDmg": [31, 43],
+			"eneDmg": 16,
+			"eneCapDmg": 2,
+			"eneCost": 11
 		},
 		"max_epic": {
 			"eleDmg": [null, null],
@@ -6095,7 +6095,7 @@
 			"eleRes": null
 		},
 		"mythical": {
-			"eleRes": null
+			"eleRes": 45
 		},
 		"max_mythical": {
 			"eleRes": 59
