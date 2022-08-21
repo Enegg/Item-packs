@@ -5,6 +5,7 @@
 	"description": "Item pack with stats at all tiers",
 	"items": [
 		{
+			"id": 1,
 			"name": "Interceptor",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -89,6 +90,7 @@
 			}
 		},
 		{
+			"id": 2,
 			"name": "Archimonde",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -131,6 +133,7 @@
 			}
 		},
 		{
+			"id": 3,
 			"name": "Avenger",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -190,6 +193,7 @@
 			}
 		},
 		{
+			"id": 4,
 			"name": "Hollow Spectral Armor",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -226,6 +230,7 @@
 			}
 		},
 		{
+			"id": 5,
 			"name": "Energy Free Armor",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -268,6 +273,7 @@
 			}
 		},
 		{
+			"id": 6,
 			"name": "Battery Armor",
 			"width": 222,
 			"height": 226,
@@ -329,6 +335,7 @@
 			}
 		},
 		{
+			"id": 7,
 			"name": "Iron Boots",
 			"type": "LEGS",
 			"element": "PHYSICAL",
@@ -384,6 +391,7 @@
 			}
 		},
 		{
+			"id": 8,
 			"name": "Rolling Beasts",
 			"type": "LEGS",
 			"element": "PHYSICAL",
@@ -414,6 +422,7 @@
 			}
 		},
 		{
+			"id": 9,
 			"name": "Grave Diggers",
 			"type": "LEGS",
 			"element": "PHYSICAL",
@@ -461,6 +470,7 @@
 			}
 		},
 		{
+			"id": 10,
 			"name": "The Claw",
 			"type": "LEGS",
 			"element": "PHYSICAL",
@@ -489,6 +499,7 @@
 			}
 		},
 		{
+			"id": 11,
 			"name": "BackBreaker",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -531,6 +542,7 @@
 			}
 		},
 		{
+			"id": 12,
 			"name": "War Hammer",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -573,6 +585,7 @@
 			}
 		},
 		{
+			"id": 13,
 			"name": "SeraphBlade",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -602,6 +615,7 @@
 			}
 		},
 		{
+			"id": 14,
 			"name": "Annihilation",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -636,6 +650,7 @@
 			}
 		},
 		{
+			"id": 15,
 			"name": "Mercy",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -663,6 +678,7 @@
 			}
 		},
 		{
+			"id": 16,
 			"name": "Armor Annihilator",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -689,6 +705,7 @@
 			}
 		},
 		{
+			"id": 17,
 			"name": "Advanced Repulser",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -716,6 +733,7 @@
 			}
 		},
 		{
+			"id": 18,
 			"name": "Purifier",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -740,6 +758,7 @@
 			}
 		},
 		{
+			"id": 19,
 			"name": "NightFall",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -780,6 +799,7 @@
 			}
 		},
 		{
+			"id": 20,
 			"name": "BloodWeep",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -810,6 +830,7 @@
 			}
 		},
 		{
+			"id": 21,
 			"name": "Terror Cry",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -848,6 +869,7 @@
 			}
 		},
 		{
+			"id": 22,
 			"name": "Sweetie",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -876,6 +898,7 @@
 			}
 		},
 		{
+			"id": 23,
 			"name": "Rock Recoiler",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -918,6 +941,7 @@
 			}
 		},
 		{
+			"id": 24,
 			"name": "Ejection Blast",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -950,6 +974,7 @@
 			}
 		},
 		{
+			"id": 25,
 			"name": "Sacrifice Cannon",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -993,6 +1018,7 @@
 			}
 		},
 		{
+			"id": 26,
 			"name": "Perimeter Protector",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -1022,6 +1048,7 @@
 			}
 		},
 		{
+			"id": 27,
 			"name": "Dark Eagle",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -1054,6 +1081,7 @@
 			}
 		},
 		{
+			"id": 28,
 			"name": "Night Eagle",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1092,6 +1120,7 @@
 			}
 		},
 		{
+			"id": 29,
 			"name": "Spartan Carnage",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1122,6 +1151,7 @@
 			}
 		},
 		{
+			"id": 30,
 			"name": "Reckless Beam",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1157,6 +1187,7 @@
 			}
 		},
 		{
+			"id": 31,
 			"name": "Desert Fury",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1187,6 +1218,7 @@
 			}
 		},
 		{
+			"id": 32,
 			"name": "Mighty Cannon",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1215,6 +1247,7 @@
 			}
 		},
 		{
+			"id": 33,
 			"name": "Falcon",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1243,6 +1276,7 @@
 			}
 		},
 		{
+			"id": 34,
 			"name": "Frantic Brute",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1282,6 +1316,7 @@
 			}
 		},
 		{
+			"id": 35,
 			"name": "Distance Shredder",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -1312,6 +1347,7 @@
 			}
 		},
 		{
+			"id": 36,
 			"name": "Void",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1349,6 +1385,7 @@
 			}
 		},
 		{
+			"id": 37,
 			"name": "HurlBat",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1389,6 +1426,7 @@
 			}
 		},
 		{
+			"id": 38,
 			"name": "Greedy",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1417,6 +1455,7 @@
 			}
 		},
 		{
+			"id": 39,
 			"name": "DustMaker",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1447,6 +1486,7 @@
 			}
 		},
 		{
+			"id": 40,
 			"name": "Backstabber",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1474,6 +1514,7 @@
 			}
 		},
 		{
+			"id": 41,
 			"name": "Tonto",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1512,6 +1553,7 @@
 			}
 		},
 		{
+			"id": 42,
 			"name": "Solar Torch",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -1541,6 +1583,7 @@
 			}
 		},
 		{
+			"id": 43,
 			"name": "Charge Engine",
 			"type": "CHARGE",
 			"element": "PHYSICAL",
@@ -1570,6 +1613,7 @@
 			}
 		},
 		{
+			"id": 44,
 			"name": "Platinum Grappling Hook",
 			"type": "HOOK",
 			"element": "PHYSICAL",
@@ -1593,6 +1637,7 @@
 			}
 		},
 		{
+			"id": 45,
 			"name": "Platinum Plating",
 			"type": "MODULE",
 			"element": "PHYSICAL",
@@ -1615,6 +1660,7 @@
 			}
 		},
 		{
+			"id": 46,
 			"name": "Iron Plating",
 			"type": "MODULE",
 			"element": "PHYSICAL",
@@ -1640,6 +1686,7 @@
 			}
 		},
 		{
+			"id": 47,
 			"name": "Mighty Protector",
 			"type": "MODULE",
 			"element": "PHYSICAL",
@@ -1662,6 +1709,7 @@
 			}
 		},
 		{
+			"id": 48,
 			"name": "Physical Protector",
 			"type": "MODULE",
 			"element": "PHYSICAL",
@@ -1681,6 +1729,7 @@
 			}
 		},
 		{
+			"id": 49,
 			"name": "Maximum Protector",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -1713,6 +1762,7 @@
 			}
 		},
 		{
+			"id": 50,
 			"name": "Savior Resistance",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -1740,6 +1790,7 @@
 			}
 		},
 		{
+			"id": 51,
 			"name": "Nightmare",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -1826,6 +1877,7 @@
 			}
 		},
 		{
+			"id": 52,
 			"name": "Brutality",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -1885,6 +1937,7 @@
 			}
 		},
 		{
+			"id": 53,
 			"name": "Windigo",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -1944,6 +1997,7 @@
 			}
 		},
 		{
+			"id": 54,
 			"name": "Zarkares",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -2003,6 +2057,7 @@
 			}
 		},
 		{
+			"id": 55,
 			"name": "Molten Platinum Vest",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -2045,6 +2100,7 @@
 			}
 		},
 		{
+			"id": 56,
 			"name": "Sabretooth",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -2072,6 +2128,7 @@
 			}
 		},
 		{
+			"id": 57,
 			"name": "Fractured Heat Armor",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -2109,6 +2166,7 @@
 			}
 		},
 		{
+			"id": 58,
 			"name": "Flaming Battery Armor",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -2168,6 +2226,7 @@
 			}
 		},
 		{
+			"id": 59,
 			"name": "Scorching Feet",
 			"type": "LEGS",
 			"element": "EXPLOSIVE",
@@ -2234,6 +2293,7 @@
 			}
 		},
 		{
+			"id": 60,
 			"name": "Devouring Paws",
 			"type": "LEGS",
 			"element": "EXPLOSIVE",
@@ -2280,6 +2340,7 @@
 			}
 		},
 		{
+			"id": 61,
 			"name": "Dynamite Boots",
 			"type": "LEGS",
 			"element": "EXPLOSIVE",
@@ -2326,6 +2387,7 @@
 			}
 		},
 		{
+			"id": 62,
 			"name": "TerrorBlade",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2361,6 +2423,7 @@
 			}
 		},
 		{
+			"id": 63,
 			"name": "Flaming Hammer",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2407,6 +2470,7 @@
 			}
 		},
 		{
+			"id": 64,
 			"name": "HeronMark",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2441,6 +2505,7 @@
 			}
 		},
 		{
+			"id": 65,
 			"name": "Chaos Bringer",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2474,6 +2539,7 @@
 			}
 		},
 		{
+			"id": 66,
 			"name": "Crimson Rapture",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2509,6 +2575,7 @@
 			}
 		},
 		{
+			"id": 67,
 			"name": "Reckoning",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2543,6 +2610,7 @@
 			}
 		},
 		{
+			"id": 68,
 			"name": "Basalt Dissolver",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2583,6 +2651,7 @@
 			}
 		},
 		{
+			"id": 69,
 			"name": "Magma Blast",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2621,6 +2690,7 @@
 			}
 		},
 		{
+			"id": 70,
 			"name": "Sorrow",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2653,6 +2723,7 @@
 			}
 		},
 		{
+			"id": 71,
 			"name": "Abomination",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2689,6 +2760,7 @@
 			}
 		},
 		{
+			"id": 72,
 			"name": "Heat Bomb",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2732,6 +2804,7 @@
 			}
 		},
 		{
+			"id": 73,
 			"name": "Corrupt Light",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2787,6 +2860,7 @@
 			}
 		},
 		{
+			"id": 74,
 			"name": "DawnBlaze",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2832,6 +2906,7 @@
 			}
 		},
 		{
+			"id": 75,
 			"name": "Flaminator",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2883,6 +2958,7 @@
 			}
 		},
 		{
+			"id": 76,
 			"name": "Hybrid Heat Cannon",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2915,6 +2991,7 @@
 			}
 		},
 		{
+			"id": 77,
 			"name": "Explosive Retreat",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -2952,6 +3029,7 @@
 			}
 		},
 		{
+			"id": 78,
 			"name": "Magma Recoiler",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3001,6 +3079,7 @@
 			}
 		},
 		{
+			"id": 79,
 			"name": "Shadow Wolf",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3038,6 +3117,7 @@
 			}
 		},
 		{
+			"id": 80,
 			"name": "Broken Devourer",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3088,6 +3168,7 @@
 			}
 		},
 		{
+			"id": 81,
 			"name": "Overcooking Oven",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3125,6 +3206,7 @@
 			}
 		},
 		{
+			"id": 82,
 			"name": "Supreme Cannon",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3173,6 +3255,7 @@
 			}
 		},
 		{
+			"id": 83,
 			"name": "Vandal Rage",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3220,6 +3303,7 @@
 			}
 		},
 		{
+			"id": 84,
 			"name": "Desolation",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3264,6 +3348,7 @@
 			}
 		},
 		{
+			"id": 85,
 			"name": "Iron Frenzy",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3298,6 +3383,7 @@
 			}
 		},
 		{
+			"id": 86,
 			"name": "Desert Snake",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3333,6 +3419,7 @@
 			}
 		},
 		{
+			"id": 87,
 			"name": "Savagery",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3378,6 +3465,7 @@
 			}
 		},
 		{
+			"id": 88,
 			"name": "Flaming Scope",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3413,6 +3501,7 @@
 			}
 		},
 		{
+			"id": 89,
 			"name": "Burning Shower",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3449,6 +3538,7 @@
 			}
 		},
 		{
+			"id": 90,
 			"name": "Red Rain",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3485,6 +3575,7 @@
 			}
 		},
 		{
+			"id": 91,
 			"name": "Frantic Flame",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3531,6 +3622,7 @@
 			}
 		},
 		{
+			"id": 92,
 			"name": "Space Invader",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -3566,6 +3658,7 @@
 			}
 		},
 		{
+			"id": 93,
 			"name": "Clash",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3607,6 +3700,7 @@
 			}
 		},
 		{
+			"id": 94,
 			"name": "Nemo",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3648,6 +3742,7 @@
 			}
 		},
 		{
+			"id": 95,
 			"name": "Swoop",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3681,6 +3776,7 @@
 			}
 		},
 		{
+			"id": 96,
 			"name": "Murmur",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3712,6 +3808,7 @@
 			}
 		},
 		{
+			"id": 97,
 			"name": "FlameWave",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3742,6 +3839,7 @@
 			}
 		},
 		{
+			"id": 98,
 			"name": "HeatPoint",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3784,6 +3882,7 @@
 			}
 		},
 		{
+			"id": 99,
 			"name": "FireFly",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3826,6 +3925,7 @@
 			}
 		},
 		{
+			"id": 100,
 			"name": "Flame Spear",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -3858,6 +3958,7 @@
 			}
 		},
 		{
+			"id": 101,
 			"name": "Flaming Grappling Hook",
 			"type": "HOOK",
 			"element": "EXPLOSIVE",
@@ -3888,6 +3989,7 @@
 			}
 		},
 		{
+			"id": 102,
 			"name": "Heat Engine",
 			"type": "MODULE",
 			"element": "EXPLOSIVE",
@@ -3923,6 +4025,7 @@
 			}
 		},
 		{
+			"id": 103,
 			"name": "Cooling Mass Booster",
 			"type": "MODULE",
 			"element": "EXPLOSIVE",
@@ -3951,6 +4054,7 @@
 			}
 		},
 		{
+			"id": 104,
 			"name": "Heat Storage Unit",
 			"type": "MODULE",
 			"element": "EXPLOSIVE",
@@ -3973,6 +4077,7 @@
 			}
 		},
 		{
+			"id": 105,
 			"name": "Ultrahot Protector",
 			"type": "MODULE",
 			"element": "EXPLOSIVE",
@@ -3995,6 +4100,7 @@
 			}
 		},
 		{
+			"id": 106,
 			"name": "Heat Protector",
 			"type": "MODULE",
 			"element": "EXPLOSIVE",
@@ -4014,6 +4120,7 @@
 			}
 		},
 		{
+			"id": 107,
 			"name": "Sith",
 			"type": "TORSO",
 			"element": "ELECTRIC",
@@ -4100,6 +4207,7 @@
 			}
 		},
 		{
+			"id": 108,
 			"name": "Naga",
 			"type": "TORSO",
 			"element": "ELECTRIC",
@@ -4158,6 +4266,7 @@
 			}
 		},
 		{
+			"id": 109,
 			"name": "GrimReaper",
 			"type": "TORSO",
 			"element": "ELECTRIC",
@@ -4232,6 +4341,7 @@
 			}
 		},
 		{
+			"id": 110,
 			"name": "Lightning Platinum Vest",
 			"type": "TORSO",
 			"element": "ELECTRIC",
@@ -4274,6 +4384,7 @@
 			}
 		},
 		{
+			"id": 111,
 			"name": "Charged Walkers",
 			"type": "LEGS",
 			"element": "ELECTRIC",
@@ -4340,6 +4451,7 @@
 			}
 		},
 		{
+			"id": 112,
 			"name": "Dynamic Stompers",
 			"type": "LEGS",
 			"element": "ELECTRIC",
@@ -4396,6 +4508,7 @@
 			}
 		},
 		{
+			"id": 113,
 			"name": "Sparked Runners",
 			"type": "LEGS",
 			"element": "ELECTRIC",
@@ -4431,6 +4544,7 @@
 			}
 		},
 		{
+			"id": 114,
 			"name": "Lightning Supporters",
 			"type": "LEGS",
 			"element": "ELECTRIC",
@@ -4477,6 +4591,7 @@
 			}
 		},
 		{
+			"id": 115,
 			"name": "Recoil Stompers",
 			"type": "LEGS",
 			"element": "ELECTRIC",
@@ -4523,6 +4638,7 @@
 			}
 		},
 		{
+			"id": 116,
 			"name": "StormWeaver",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4558,6 +4674,7 @@
 			}
 		},
 		{
+			"id": 117,
 			"name": "Viking Hammer",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4604,6 +4721,7 @@
 			}
 		},
 		{
+			"id": 118,
 			"name": "BrightRoar",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4638,6 +4756,7 @@
 			}
 		},
 		{
+			"id": 119,
 			"name": "BigDaddy",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4671,6 +4790,7 @@
 			}
 		},
 		{
+			"id": 120,
 			"name": "Ash Creator",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4706,6 +4826,7 @@
 			}
 		},
 		{
+			"id": 121,
 			"name": "BullDog",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4740,6 +4861,7 @@
 			}
 		},
 		{
+			"id": 122,
 			"name": "Rusty Energy Armor",
 			"type": "TORSO",
 			"element": "ELECTRIC",
@@ -4777,6 +4899,7 @@
 			}
 		},
 		{
+			"id": 123,
 			"name": "Blizzard Dissolver",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4817,6 +4940,7 @@
 			}
 		},
 		{
+			"id": 124,
 			"name": "EMP",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4860,6 +4984,7 @@
 			}
 		},
 		{
+			"id": 125,
 			"name": "Mortal Bullet",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4892,6 +5017,7 @@
 			}
 		},
 		{
+			"id": 126,
 			"name": "Last Words",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4940,6 +5066,7 @@
 			}
 		},
 		{
+			"id": 127,
 			"name": "Bunker Shell",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -4978,6 +5105,7 @@
 			}
 		},
 		{
+			"id": 128,
 			"name": "Malice Beam",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5033,6 +5161,7 @@
 			}
 		},
 		{
+			"id": 129,
 			"name": "UltraBright",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5078,6 +5207,7 @@
 			}
 		},
 		{
+			"id": 130,
 			"name": "Hot Flash",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5130,6 +5260,7 @@
 			}
 		},
 		{
+			"id": 131,
 			"name": "Hybrid Energy Cannon",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5162,6 +5293,7 @@
 			}
 		},
 		{
+			"id": 132,
 			"name": "Evac Spark",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5199,6 +5331,7 @@
 			}
 		},
 		{
+			"id": 133,
 			"name": "Lightning Recoiler",
 			"width": 193,
 			"height": 76,
@@ -5250,6 +5383,7 @@
 			}
 		},
 		{
+			"id": 134,
 			"name": "Piercing Fox",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5287,6 +5421,7 @@
 			}
 		},
 		{
+			"id": 135,
 			"name": "Unstable Power Cell",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -5324,6 +5459,7 @@
 			}
 		},
 		{
+			"id": 136,
 			"name": "Grim Cobra",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5372,6 +5508,7 @@
 			}
 		},
 		{
+			"id": 137,
 			"name": "Hysteria",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5417,6 +5554,7 @@
 			}
 		},
 		{
+			"id": 138,
 			"name": "Valiant Sniper",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5452,6 +5590,7 @@
 			}
 		},
 		{
+			"id": 139,
 			"name": "SpineFall",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5487,6 +5626,7 @@
 			}
 		},
 		{
+			"id": 140,
 			"name": "Delerium",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5521,6 +5661,7 @@
 			}
 		},
 		{
+			"id": 141,
 			"name": "Lightning Scope",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5556,6 +5697,7 @@
 			}
 		},
 		{
+			"id": 142,
 			"name": "Frantic Lightning",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5602,6 +5744,7 @@
 			}
 		},
 		{
+			"id": 143,
 			"name": "Party Crasher",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -5637,6 +5780,7 @@
 			}
 		},
 		{
+			"id": 144,
 			"name": "Snack",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5678,6 +5822,7 @@
 			}
 		},
 		{
+			"id": 145,
 			"name": "Torment",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5719,6 +5864,7 @@
 			}
 		},
 		{
+			"id": 146,
 			"name": "WindForge",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5750,6 +5896,7 @@
 			}
 		},
 		{
+			"id": 147,
 			"name": "Anguish",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5781,6 +5928,7 @@
 			}
 		},
 		{
+			"id": 148,
 			"name": "Shockwave",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5811,6 +5959,7 @@
 			}
 		},
 		{
+			"id": 149,
 			"name": "Face Shocker",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5853,6 +6002,7 @@
 			}
 		},
 		{
+			"id": 150,
 			"name": "Electrolyte",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5895,6 +6045,7 @@
 			}
 		},
 		{
+			"id": 151,
 			"name": "Rail Gun",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -5927,6 +6078,7 @@
 			}
 		},
 		{
+			"id": 152,
 			"name": "Advanced Teleporter",
 			"type": "TELEPORTER",
 			"element": "ELECTRIC",
@@ -5957,6 +6109,7 @@
 			}
 		},
 		{
+			"id": 153,
 			"name": "Double Teleporter",
 			"type": "TELEPORTER",
 			"element": "ELECTRIC",
@@ -5968,6 +6121,7 @@
 			}
 		},
 		{
+			"id": 154,
 			"name": "Shocking Grappling Hook",
 			"type": "HOOK",
 			"element": "ELECTRIC",
@@ -5998,6 +6152,7 @@
 			}
 		},
 		{
+			"id": 155,
 			"name": "Energy Engine",
 			"type": "MODULE",
 			"element": "ELECTRIC",
@@ -6033,6 +6188,7 @@
 			}
 		},
 		{
+			"id": 156,
 			"name": "Energy Mass Booster",
 			"type": "MODULE",
 			"element": "ELECTRIC",
@@ -6061,6 +6217,7 @@
 			}
 		},
 		{
+			"id": 157,
 			"name": "Energy Storage Unit",
 			"type": "MODULE",
 			"element": "ELECTRIC",
@@ -6083,6 +6240,7 @@
 			}
 		},
 		{
+			"id": 158,
 			"name": "SuperCharge Protector",
 			"type": "MODULE",
 			"element": "ELECTRIC",
@@ -6105,6 +6263,7 @@
 			}
 		},
 		{
+			"id": 159,
 			"name": "Energy Protector",
 			"type": "MODULE",
 			"element": "ELECTRIC",
@@ -6124,6 +6283,7 @@
 			}
 		},
 		{
+			"id": 160,
 			"name": "Hardened Platinum Vest",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -6166,6 +6326,7 @@
 			}
 		},
 		{
+			"id": 161,
 			"name": "Unreliable Guardian",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -6199,6 +6360,7 @@
 			}
 		},
 		{
+			"id": 162,
 			"name": "Backstabbing Guardian",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -6232,6 +6394,7 @@
 			}
 		},
 		{
+			"id": 163,
 			"name": "Selfish Guardian",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -6262,6 +6425,7 @@
 			}
 		},
 		{
+			"id": 164,
 			"name": "Selfish Protector",
 			"type": "DRONE",
 			"element": "PHYSICAL",
@@ -6302,6 +6466,7 @@
 			}
 		},
 		{
+			"id": 165,
 			"name": "Backstabbing Protector",
 			"type": "DRONE",
 			"element": "EXPLOSIVE",
@@ -6346,6 +6511,7 @@
 			}
 		},
 		{
+			"id": 166,
 			"name": "Unreliable Protector",
 			"type": "DRONE",
 			"element": "ELECTRIC",
@@ -6390,6 +6556,7 @@
 			}
 		},
 		{
+			"id": 167,
 			"name": "Lazy Falcon",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -6417,6 +6584,7 @@
 			}
 		},
 		{
+			"id": 168,
 			"name": "Half Burnt Scope",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -6451,6 +6619,7 @@
 			}
 		},
 		{
+			"id": 169,
 			"name": "Rusty Heat Blaster",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -6486,6 +6655,7 @@
 			}
 		},
 		{
+			"id": 170,
 			"name": "Malfunctioning Blaster",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -6515,6 +6685,7 @@
 			}
 		},
 		{
+			"id": 171,
 			"name": "Last Resort Vulcan",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -6545,6 +6716,7 @@
 			}
 		},
 		{
+			"id": 172,
 			"name": "Disintegration",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -6573,6 +6745,7 @@
 			}
 		},
 		{
+			"id": 173,
 			"name": "Distance Controller",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -6607,6 +6780,7 @@
 			}
 		},
 		{
+			"id": 174,
 			"name": "Distance Generator",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -6641,6 +6815,7 @@
 			}
 		},
 		{
+			"id": 175,
 			"name": "Cockpit Piercer",
 			"type": "TOP_WEAPON",
 			"element": "PHYSICAL",
@@ -6672,6 +6847,7 @@
 			}
 		},
 		{
+			"id": 176,
 			"name": "Cockpit Burner",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -6708,6 +6884,7 @@
 			}
 		},
 		{
+			"id": 177,
 			"name": "Cockpit Electrocuter",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -6744,6 +6921,7 @@
 			}
 		},
 		{
+			"id": 178,
 			"name": "Scrapped Energy Blaster",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -6779,6 +6957,7 @@
 			}
 		},
 		{
+			"id": 179,
 			"name": "Electrocuted Scope",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -6813,6 +6992,7 @@
 			}
 		},
 		{
+			"id": 180,
 			"name": "Unrepaired Laser Cannon",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -6852,6 +7032,7 @@
 			}
 		},
 		{
+			"id": 181,
 			"name": "Energy Battery Armor",
 			"width": 222,
 			"height": 226,
@@ -6913,6 +7094,7 @@
 			}
 		},
 		{
+			"id": 182,
 			"name": "Drunk Lightning",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -6963,6 +7145,7 @@
 			}
 		},
 		{
+			"id": 183,
 			"name": "Superb Charge Engine",
 			"type": "CHARGE",
 			"element": "PHYSICAL",
@@ -6986,6 +7169,7 @@
 			}
 		},
 		{
+			"id": 184,
 			"name": "Misguided Rocket Battery",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7023,6 +7207,7 @@
 			}
 		},
 		{
+			"id": 185,
 			"name": "Cracked Plasma Cannon",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7069,6 +7254,7 @@
 			}
 		},
 		{
+			"id": 186,
 			"name": "Obsolete Energy Cannon",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -7115,6 +7301,7 @@
 			}
 		},
 		{
+			"id": 187,
 			"name": "Overcharged Rocket Battery",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7152,6 +7339,7 @@
 			}
 		},
 		{
+			"id": 188,
 			"name": "Rock Polisher",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -7181,6 +7369,7 @@
 			}
 		},
 		{
+			"id": 189,
 			"name": "Combined Storage Unit",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -7216,6 +7405,7 @@
 			}
 		},
 		{
+			"id": 190,
 			"name": "Combined Engine Unit",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -7243,6 +7433,7 @@
 			}
 		},
 		{
+			"id": 191,
 			"name": "Basalt Polisher",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7277,6 +7468,7 @@
 			}
 		},
 		{
+			"id": 192,
 			"name": "Overload Preventor",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -7304,6 +7496,7 @@
 			}
 		},
 		{
+			"id": 193,
 			"name": "Lightning Cutter",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -7338,6 +7531,7 @@
 			}
 		},
 		{
+			"id": 194,
 			"name": "Massive Stone Feet",
 			"type": "LEGS",
 			"element": "PHYSICAL",
@@ -7381,6 +7575,7 @@
 			}
 		},
 		{
+			"id": 195,
 			"name": "Massive Lava Feet",
 			"type": "LEGS",
 			"element": "EXPLOSIVE",
@@ -7431,6 +7626,7 @@
 			}
 		},
 		{
+			"id": 196,
 			"name": "Massive Shocker Feet",
 			"type": "LEGS",
 			"element": "ELECTRIC",
@@ -7481,6 +7677,7 @@
 			}
 		},
 		{
+			"id": 197,
 			"name": "Quad Core Booster",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -7518,6 +7715,7 @@
 			}
 		},
 		{
+			"id": 198,
 			"name": "Energy Fortress",
 			"type": "MODULE",
 			"element": "ELECTRIC",
@@ -7545,6 +7743,7 @@
 			}
 		},
 		{
+			"id": 199,
 			"name": "Plasma Fortress",
 			"type": "MODULE",
 			"element": "EXPLOSIVE",
@@ -7572,6 +7771,7 @@
 			}
 		},
 		{
+			"id": 200,
 			"name": "Platinum Fortress",
 			"type": "MODULE",
 			"element": "PHYSICAL",
@@ -7599,6 +7799,7 @@
 			}
 		},
 		{
+			"id": 201,
 			"name": "Defence Matrix",
 			"type": "MODULE",
 			"element": "COMBINED",
@@ -7636,6 +7837,7 @@
 			}
 		},
 		{
+			"id": 202,
 			"name": "Damaged Armor Annihilator",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -7664,6 +7866,7 @@
 			}
 		},
 		{
+			"id": 203,
 			"name": "Fractured Basalt Annihilator",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7697,6 +7900,7 @@
 			}
 		},
 		{
+			"id": 204,
 			"name": "Broken Blizzard Annihilator",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -7730,6 +7934,7 @@
 			}
 		},
 		{
+			"id": 205,
 			"name": "Damaged Armor Dissolver",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -7766,6 +7971,7 @@
 			}
 		},
 		{
+			"id": 206,
 			"name": "Fructured Basalt Dissolver",
 			"type": "SIDE_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7809,6 +8015,7 @@
 			}
 		},
 		{
+			"id": 207,
 			"name": "Broken Blizzard Dissolver",
 			"type": "SIDE_WEAPON",
 			"element": "ELECTRIC",
@@ -7852,6 +8059,7 @@
 			}
 		},
 		{
+			"id": 208,
 			"name": "Overheated Heat Bomb",
 			"type": "TOP_WEAPON",
 			"element": "EXPLOSIVE",
@@ -7888,6 +8096,7 @@
 			}
 		},
 		{
+			"id": 209,
 			"name": "Overloaded EMP",
 			"type": "TOP_WEAPON",
 			"element": "ELECTRIC",
@@ -7924,6 +8133,7 @@
 			}
 		},
 		{
+			"id": 210,
 			"name": "Fractured Cyber Armor",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
@@ -7961,6 +8171,7 @@
 			}
 		},
 		{
+			"id": 211,
 			"name": "Rusty Cyber Armor",
 			"type": "TORSO",
 			"element": "ELECTRIC",
@@ -7999,6 +8210,7 @@
 			}
 		},
 		{
+			"id": 212,
 			"name": "Hollow Cyber Armor",
 			"type": "TORSO",
 			"element": "PHYSICAL",
@@ -8035,6 +8247,7 @@
 			}
 		},
 		{
+			"id": 213,
 			"name": "Repulser",
 			"type": "SIDE_WEAPON",
 			"element": "PHYSICAL",
@@ -8059,6 +8272,7 @@
 			}
 		},
 		{
+			"id": 214,
 			"name": "Basic Teleporter",
 			"type": "TELEPORTER",
 			"element": "ELECTRIC",
@@ -8090,34 +8304,6 @@
 			"max_epic": {
 				"eleDmg": [null, null],
 				"eneDmg": null
-			}
-		},
-		{
-			"name": "BFG 20000",
-			"type": "SIDE_WEAPON",
-			"element": "EXPLOSIVE",
-			"transform_range": "M-D",
-			"mythical": {
-				"weight": 30,
-				"expDmg": [550, 700],
-				"heaDmg": 320,
-				"heaCapDmg": 69,
-				"heaColDmg": 25,
-				"expResDmg": 40,
-				"range": [7, 9],
-				"push": 2,
-				"recoil": 1,
-				"uses": 3,
-				"backfire": 255,
-				"heaCost": 155
-			},
-			"max_mythical": {
-				"expDmg": [715, 920],
-				"heaDmg": 420
-			},
-			"divine": {
-				"expDmg": [755, 972],
-				"heaDmg": 444
 			}
 		}
 	]
