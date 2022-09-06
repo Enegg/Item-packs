@@ -1,5 +1,5 @@
 {
-	"version": "standalone",
+	"version": "3",
 	"key": "@Eneg",
 	"name": "SuperMechs",
 	"description": "Item pack with stats at all tiers",
@@ -996,11 +996,11 @@
 				"phyDmg": [null, null]
 			},
 			"legendary": {
-				"phyDmg": [null, null],
-				"phyResDmg": null,
-				"backfire": null,
-				"eneCost": null,
-				"heaCost": null
+				"phyDmg": [106, 260],
+				"phyResDmg": 8,
+				"backfire": 84,
+				"eneCost": 20,
+				"heaCost": 20
 			},
 			"max_legendary": {
 				"phyDmg": [null, null]
@@ -1394,11 +1394,11 @@
 			"transform_range": "E-D",
 			"epic": {
 				"weight": 28,
-				"phyDmg": [null, null],
-				"heaCapDmg": null,
-				"eneCapDmg": null,
-				"eneCost": null,
-				"heaCost": null
+				"phyDmg": [43, 61],
+				"heaCapDmg": 1,
+				"eneCapDmg": 1,
+				"eneCost": 6,
+				"heaCost": 6
 			},
 			"max_epic": {
 				"phyDmg": [null, null]
@@ -3589,8 +3589,8 @@
 				"expResDmg": null,
 				"range": [3, 6],
 				"uses": 2,
-				"eneCost": null,
-				"heaCost": null
+				"eneCost": 5,
+				"heaCost": 29
 			},
 			"max_epic": {
 				"expDmg": [null, null],
@@ -4290,20 +4290,20 @@
 				"heaCap": 70
 			},
 			"epic": {
-				"health": null,
-				"eneCap": null,
-				"eneReg": null,
-				"heaCap": null,
-				"heaCol": null,
-				"phyRes": null,
-				"expRes": null,
-				"eleRes": null
+				"health": 277,
+				"eneCap": 124,
+				"eneReg": 49,
+				"heaCap": 64,
+				"heaCol": 28,
+				"phyRes": 7,
+				"expRes": 7,
+				"eleRes": 5
 
 			},
 			"max_epic": {
-				"health": null,
-				"eneCap": null,
-				"heaCap": null
+				"health": 395,
+				"eneCap": 171,
+				"heaCap": 92
 			},
 			"legendary": {
 				"health": 430,
@@ -5216,15 +5216,14 @@
 			"transform_range": "R-D",
 			"rare": {
 				"weight": 66,
-				"eleDmg": [null, null],
-				"eneDmg": null,
-				"eneCapDmg": null,
+				"eleDmg": [29, 42],
+				"eneDmg": 27,
 				"range": [3, 6],
-				"heaCost": null
+				"heaCost": 20
 			},
 			"max_rare": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [47, 71],
+				"eneDmg": 44
 			},
 			"epic": {
 				"eleDmg": [48, 71],
@@ -5706,13 +5705,13 @@
 			"transform_range": "E-D",
 			"epic": {
 				"weight": 50,
-				"eleDmg": [null, null],
-				"eneDmg": null,
-				"eleResDmg": null,
+				"eleDmg": [25, 124],
+				"eneDmg": 31,
+				"eleResDmg": 3,
 				"range": [3, 6],
 				"uses": 2,
-				"eneCost": null,
-				"heaCost": null
+				"eneCost": 29,
+				"heaCost": 5
 			},
 			"max_epic": {
 				"eleDmg": [null, null],
@@ -8256,7 +8255,7 @@
 			"transform_range": "R-E",
 			"rare": {
 				"weight": 18,
-				"phyDmg": [null, null],
+				"phyDmg": [8, 10],
 				"push": 3,
 				"range": [2, 4],
 				"heaCost": 11,
