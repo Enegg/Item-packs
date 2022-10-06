@@ -2081,10 +2081,10 @@
 				"heaCap": 193
 			},
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 815,
+				"eneCap": 136,
 				"eneReg": 64,
-				"heaCap": null,
+				"heaCap": 204,
 				"heaCol": 96,
 				"phyRes": 55,
 				"expRes": 16,
@@ -4365,10 +4365,10 @@
 				"heaCap": 141
 			},
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 815,
+				"eneCap": 204,
 				"eneReg": 96,
-				"heaCap": null,
+				"heaCap": 136,
 				"heaCol": 64,
 				"phyRes": 55,
 				"expRes": 22,
