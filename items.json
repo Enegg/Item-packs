@@ -3850,13 +3850,13 @@
 				"weight": 51,
 				"expDmg": [161, 211],
 				"heaDmg": 48,
-				"expResDmg": 6,
+				"expResDmg": 2,
 				"uses": 3,
 				"heaCost": 50
 			},
 			"max_epic": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [71, 89],
+				"heaDmg": 22
 			},
 			"legendary": {
 				"expDmg": [82, 106],
