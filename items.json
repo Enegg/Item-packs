@@ -517,14 +517,14 @@
 				"heaCost": 11
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [101, 173]
 			},
 			"legendary": {
-				"phyDmg": [null, null],
-				"heaColDmg": null,
-				"eneRegDmg": null,
-				"eneCost": null,
-				"heaCost": null
+				"phyDmg": [116, 204],
+				"heaColDmg": 5,
+				"eneRegDmg": 5,
+				"eneCost": 20,
+				"heaCost": 20
 			},
 			"max_legendary": {
 				"phyDmg": [156, 274]
