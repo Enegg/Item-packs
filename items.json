@@ -2626,7 +2626,7 @@
 				"uses": 1
 			},
 			"max_epic": {
-				"expDmg": [null, null],
+				"expDmg": [14, 28],
 				"heaDmg": 21
 			},
 			"legendary": {
