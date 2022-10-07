@@ -5151,7 +5151,7 @@
 				"eneDmg": 104,
 				"eneCapDmg": 24,
 				"eneCost": 47,
-				"heaCost": 12
+				"heaCost": 16
 			},
 			"max_mythical": {
 				"eleDmg": [140, 236],
