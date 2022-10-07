@@ -3,7 +3,7 @@ import json
 import operator
 import typing as t
 from collections import Counter
-from itertools import compress
+from itertools import compress, chain
 from typing import TypedDict
 
 from typing_extensions import Required
@@ -37,12 +37,15 @@ with open("items.json") as file:
     data: ItemPack = json.load(file)
 
 items = data["items"]
+tiers = ("common", "rare", "epic", "legendary", "mythical", "divine")
+types_order = ("TORSO", "LEGS", "DRONE", "SIDE_WEAPON", "TOP_WEAPON", "MODULE")
 
 types_missing_stats = Counter[str]()
 types_finished_stats = Counter[str]()
-items_with_missing_tiers = list[tuple[str, list[bool]]]()
 
-tiers = ("common", "rare", "epic", "legendary", "mythical", "divine")
+# list[<0: TORSO>list[tuple[<name>str, <selectors>list[bool]]], ...]
+items_with_missing_tiers_ordered_by_type: list[list[tuple[str, list[bool]]]] = [[] for _ in range(len(types_order) + 1)]
+
 tiers_with_max = tuple(
     key for tier in tiers for key in ((tier, "max_" + tier) if tier != "divine" else (tier,))
 )
@@ -57,18 +60,17 @@ for item in items:
             continue
 
         for stat, value in tier.items():
-            if value is None:
-                missing_tier_selectors[n] = True
-                break
-
-            elif isinstance(value, list) and any(x is None for x in value):
+            if value is None or isinstance(value, list) and any(x is None for x in value):
                 missing_tier_selectors[n] = True
                 break
 
     if any(missing_tier_selectors):
         types_missing_stats[item["type"]] += 1
+
+        index = -1 if item["type"] not in types_order else types_order.index(item["type"])
+
         bisect.insort(
-            items_with_missing_tiers,
+            items_with_missing_tiers_ordered_by_type[index],
             (item["name"], missing_tier_selectors),
             key=operator.itemgetter(0),
         )
@@ -76,6 +78,7 @@ for item in items:
     else:
         types_finished_stats[item["type"]] += 1
 
+items_with_missing_tiers = list(chain.from_iterable(items_with_missing_tiers_ordered_by_type))
 sorted_item_names = [item_name for item_name, _ in items_with_missing_tiers]
 longest_name_length = max(map(len, sorted_item_names))
 
@@ -86,19 +89,20 @@ column_exists = [
 
 lines = [
     header := " | ".join(
-        (f"{'item name':<{longest_name_length}}", *compress(tiers_with_max, column_exists))
+        chain((f"{'item name':<{longest_name_length}}",), compress(tiers_with_max, column_exists))
     ),
-    "-" * len(header),
+    spacer := "-" * len(header),
 ]
 
-for item_name, selectors in items_with_missing_tiers:
-    string = f"{item_name:<{longest_name_length}} | "
-    string += " | ".join(
-        f"{'-' * exists:<{len(tier)}}"
-        for tier, exists in compress(zip(tiers_with_max, selectors), column_exists)
-    )
-    lines.append(string)
-
+for type_list in items_with_missing_tiers_ordered_by_type:
+    for item_name, selectors in type_list:
+        string = f"{item_name:<{longest_name_length}} | "
+        string += " | ".join(
+            f"{'-' * exists:<{len(tier)}}"
+            for tier, exists in compress(zip(tiers_with_max, selectors), column_exists)
+        )
+        lines.append(string)
+    lines.append(spacer)
 
 def join_dict(mapping: t.Mapping[t.Any, t.Any]) -> str:
     return ", ".join(f"{key}: {val}" for key, val in mapping.items())
