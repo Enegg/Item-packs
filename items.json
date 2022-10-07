@@ -5352,12 +5352,12 @@
 				"heaCost": 9
 			},
 			"max_epic": {
-				"eleDmg": [null, null],
+				"eleDmg": [76, 148],
 				"eneDmg": 31
 			},
 			"legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [88, 175],
+				"eneDmg": 35,
 				"eleResDmg": 6,
 				"uses": 3,
 				"eneCost": 36,
