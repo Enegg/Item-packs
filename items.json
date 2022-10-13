@@ -8305,8 +8305,8 @@
 				"eneDmg": 15
 			},
 			"epic": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [32, 40],
+				"eneDmg": 16
 			},
 			"max_epic": {
 				"eleDmg": [44, 55],
