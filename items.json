@@ -2557,12 +2557,12 @@
 				"heaCost": 59
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [112, 145],
+				"heaDmg": 96
 			},
 			"mythical": {
-				"expDmg": [null, null],
-				"heaDmg": null,
+				"expDmg": [124, 162],
+				"heaDmg": 103,
 				"heaCapDmg": 48,
 				"eneCost": 31,
 				"heaCost": 93
