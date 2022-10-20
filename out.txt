@@ -38,12 +38,12 @@ Scorching Feet               |      | -        | -         | -             | -  
 Sparked Runners              |      |          |           | -             |          |             
 The Claw                     |      |          |           | -             | -        |             
 ----------------------------------------------------------------------------------------------------
-Anguish                      |      |          |           | -             | -        | -           
+Anguish                      |      |          |           | -             |          | -           
 Backstabber                  |      |          | -         | -             |          |             
 Backstabbing Guardian        |      |          | -         | -             | -        |             
 Backstabbing Protector       |      | -        |           | -             | -        |             
 Clash                        |      | -        |           | -             | -        |             
-DustMaker                    |      |          |           | -             | -        |             
+DustMaker                    |      |          |           | -             |          |             
 Electrolyte                  |      | -        | -         | -             | -        |             
 Face Shocker                 |      |          |           | -             | -        |             
 FireFly                      |      | -        |           | -             |          |             
@@ -94,7 +94,7 @@ Evac Spark                   |      |          |           | -             |    
 Explosive Retreat            |      |          | -         | -             |          |             
 Flaming Hammer               |      | -        |           | -             | -        |             
 Fractured Basalt Annihilator |      |          | -         | -             | -        |             
-Fractured Basalt Dissolver   |      | -        |           | -             | -        | -           
+Fractured Basalt Dissolver   |      |          |           | -             | -        | -           
 Heat Bomb                    |      | -        |           |               |          |             
 HeronMark                    |      |          | -         | -             | -        |             
 Hot Flash                    |      |          | -         | -             | -        |             
@@ -102,7 +102,7 @@ Hybrid Energy Cannon         |      |          |           | -             | -  
 Hybrid Heat Cannon           |      |          | -         | -             |          |             
 Last Resort Vulcan           |      |          |           | -             | -        |             
 Last Words                   |      | -        | -         | -             | -        |             
-Lightning Cutter             |      |          | -         | -             | -        |             
+Lightning Cutter             |      |          | -         | -             |          |             
 Magma Blast                  |      |          | -         |               |          |             
 Malfunctioning Blaster       |      |          |           | -             | -        |             
 Mercy                        |      |          |           | -             | -        |             
@@ -112,7 +112,7 @@ NightFall                    |      | -        |           | -             | -  
 Obsolete Energy Cannon       |      | -        | -         | -             | -        |             
 Overcharged Rocket Battery   |      |          | -         |               |          |             
 Overcooking Oven             |      |          | -         | -             | -        |             
-Perimeter Protector          |      |          |           | -             | -        |             
+Perimeter Protector          |      |          |           | -             |          |             
 Piercing Fox                 |      |          | -         | -             | -        |             
 Purifier                     |      |          |           | -             | -        |             
 Reckoning                    |      |          |           | -             | -        |             
@@ -130,7 +130,7 @@ Terror Cry                   |      | -        |           | -             | -  
 TerrorBlade                  |      |          | -         | -             | -        |             
 UltraBright                  |      |          |           | -             | -        |             
 Unrepaired Laser Cannon      |      | -        |           | -             | -        |             
-Unstable Power Cell          |      |          | -         | -             | -        |             
+Unstable Power Cell          |      |          | -         | -             |          |             
 Viking Hammer                |      | -        |           | -             | -        |             
 War Hammer                   | -    | -        | -         | -             |          |             
 ----------------------------------------------------------------------------------------------------

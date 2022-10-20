@@ -7987,13 +7987,13 @@
 				"weight": 16,
 				"expDmg": [44, 77],
 				"heaDmg": 26,
-				"expResDmg": 30,
+				"expResDmg": 15,
 				"range": [2, 4],
 				"uses": 1,
 				"backfire": 123
 			},
 			"max_epic": {
-				"expDmg": [null, null],
+				"expDmg": [38, 65],
 				"heaDmg": 35
 			},
 			"legendary": {
