@@ -20,7 +20,7 @@ Rusty Energy Armor           |      |          |           | -             |    
 Sabretooth                   |      |          |           |               | -        |             
 Sith                         | -    | -        | -         | -             | -        | -           
 Windigo                      |      |          |           |               | -        | -           
-Zarkares                     | -    | -        | -         | -             | -        |             
+Zarkares                     |      |          |           |               | -        |             
 ----------------------------------------------------------------------------------------------------
 Charged Walkers              |      | -        | -         | -             | -        |             
 Devouring Paws               |      | -        |           | -             | -        |             
@@ -32,7 +32,7 @@ Lightning Supporters         |      | -        |           | -             | -  
 Massive Lava Feet            |      | -        |           |               |          |             
 Massive Shocker Feet         |      | -        |           | -             | -        |             
 Massive Stone Feet           |      | -        | -         | -             |          |             
-Recoil Stompers              |      | -        | -         | -             | -        |             
+Recoil Stompers              |      |          |           | -             | -        |             
 Rolling Beasts               |      |          |           | -             | -        |             
 Scorching Feet               |      | -        | -         | -             | -        |             
 Sparked Runners              |      |          |           | -             |          |             
@@ -50,7 +50,7 @@ FireFly                      |      | -        |           | -             |    
 Flame Spear                  |      |          |           | -             |          |             
 FlameWave                    |      |          | -         |               |          |             
 Greedy                       |      |          |           | -             | -        |             
-HurlBat                      |      | -        | -         | -             | -        |             
+HurlBat                      |      |          |           | -             | -        |             
 Murmur                       |      |          |           |               | -        |             
 Nemo                         |      | -        | -         | -             | -        |             
 Selfish Guardian             |      |          |           | -             | -        |             
@@ -94,7 +94,7 @@ Evac Spark                   |      |          |           | -             |    
 Explosive Retreat            |      |          | -         | -             |          |             
 Flaming Hammer               |      | -        |           | -             | -        |             
 Fractured Basalt Annihilator |      |          | -         | -             | -        |             
-Fractured Basalt Dissolver   |      |          |           | -             | -        | -           
+Fractured Basalt Dissolver   |      |          |           |               |          | -           
 Heat Bomb                    |      | -        |           |               |          |             
 HeronMark                    |      |          | -         | -             | -        |             
 Hot Flash                    |      |          | -         | -             | -        |             
