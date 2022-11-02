@@ -155,7 +155,6 @@ Night Eagle                  |      | -        |           | -             | -  
 Overloaded EMP               |      |          | -         | -             | -        |             
 Reckless Beam                |      | -        | -         | -             | -        |             
 Red Rain                     |      |          | -         | -             |          |             
-Savagery                     |      | -        |           |               |          |             
 Space Invader                |      |          | -         | -             | -        |             
 Spartan Carnage              |      |          |           | -             | -        |             
 SpineFall                    |      |          |           | -             | -        |             
