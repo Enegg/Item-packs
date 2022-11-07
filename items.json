@@ -447,12 +447,12 @@
 				"phyDmg": [64, 85]
 			},
 			"max_epic": {
-				"health": null,
-				"phyDmg": [null, null]
+				"health": 135,
+				"phyDmg": [88, 117]
 			},
 			"legendary": {
-				"health": null,
-				"phyDmg": [null, null]
+				"health": 152,
+				"phyDmg": [103, 141]
 			},
 			"max_legendary": {
 				"health": null,
@@ -3225,8 +3225,8 @@
 				"heaCost": 16
 			},
 			"max_epic": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [90, 133],
+				"heaDmg": 33
 			},
 			"legendary": {
 				"expDmg": [104, 157],
