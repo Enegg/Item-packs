@@ -7599,9 +7599,9 @@
 				"jump": 2
 			},
 			"max_epic": {
-				"health": null,
-				"expDmg": [null, null],
-				"heaDmg": null
+				"health": 210,
+				"expDmg": [55, 87],
+				"heaDmg": 17
 			},
 			"legendary": {
 				"health": 228,
