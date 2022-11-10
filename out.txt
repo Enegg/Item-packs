@@ -1,6 +1,6 @@
 item name                    | epic | max_epic | legendary | max_legendary | mythical | max_mythical
 ----------------------------------------------------------------------------------------------------
-Avenger                      |      |          | -         | -             | -        |             
+Avenger                      |      |          |           |               | -        |             
 Battery Armor                |      |          |           |               | -        |             
 Brutality                    |      |          |           |               | -        |             
 Energy Battery Armor         |      |          | -         | -             | -        |             
@@ -24,12 +24,11 @@ Zarkares                     |      |          |           |               | -  
 ----------------------------------------------------------------------------------------------------
 Charged Walkers              |      | -        | -         | -             | -        |             
 Devouring Paws               |      | -        |           | -             | -        |             
-Dynamic Stompers             |      | -        |           | -             | -        |             
+Dynamic Stompers             |      |          |           | -             | -        |             
 Dynamite Boots               |      | -        |           | -             | -        |             
-Grave Diggers                |      | -        | -         | -             | -        |             
+Grave Diggers                |      |          |           | -             | -        |             
 Iron Boots                   |      | -        | -         | -             | -        |             
 Lightning Supporters         |      | -        |           | -             | -        |             
-Massive Lava Feet            |      | -        |           |               |          |             
 Massive Shocker Feet         |      | -        |           | -             | -        |             
 Massive Stone Feet           |      | -        | -         | -             |          |             
 Recoil Stompers              |      |          |           | -             | -        |             
@@ -158,7 +157,7 @@ Red Rain                     |      |          | -         | -             |    
 Space Invader                |      |          | -         | -             | -        |             
 Spartan Carnage              |      |          |           | -             | -        |             
 SpineFall                    |      |          |           | -             | -        |             
-Supreme Cannon               |      | -        |           | -             | -        |             
+Supreme Cannon               |      |          |           | -             | -        |             
 Valiant Sniper               |      |          | -         | -             |          |             
 Vandal Rage                  |      | -        |           |               |          |             
 ----------------------------------------------------------------------------------------------------
