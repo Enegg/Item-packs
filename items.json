@@ -8013,8 +8013,8 @@
 				"backfire": 180
 			},
 			"max_mythical": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [86, 153],
+				"heaDmg": 50
 			},
 			"divine": {
 				"expDmg": [88, 157],

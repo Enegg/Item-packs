@@ -93,7 +93,6 @@ Evac Spark                   |      |          |           | -             |    
 Explosive Retreat            |      |          | -         | -             |          |             
 Flaming Hammer               |      | -        |           | -             | -        |             
 Fractured Basalt Annihilator |      |          | -         | -             | -        |             
-Fractured Basalt Dissolver   |      |          |           |               |          | -           
 Heat Bomb                    |      | -        |           |               |          |             
 HeronMark                    |      |          | -         | -             | -        |             
 Hot Flash                    |      |          | -         | -             | -        |             
