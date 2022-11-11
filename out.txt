@@ -29,7 +29,7 @@ Dynamite Boots               |      | -        |           | -             | -  
 Grave Diggers                |      |          |           | -             | -        |             
 Iron Boots                   |      | -        | -         | -             | -        |             
 Lightning Supporters         |      | -        |           | -             | -        |             
-Massive Shocker Feet         |      | -        |           | -             | -        |             
+Massive Shocker Feet         |      |          |           | -             | -        |             
 Massive Stone Feet           |      | -        | -         | -             |          |             
 Recoil Stompers              |      |          |           | -             | -        |             
 Rolling Beasts               |      |          |           | -             | -        |             
@@ -58,7 +58,7 @@ Snack                        |      |          |           | -             | -  
 Solar Torch                  |      |          | -         | -             |          |             
 Swoop                        |      |          | -         | -             |          |             
 Tonto                        | -    | -        |           | -             | -        |             
-Torment                      |      | -        | -         | -             | -        |             
+Torment                      |      |          |           | -             | -        |             
 Unreliable Guardian          |      |          |           | -             | -        |             
 Unreliable Protector         |      | -        |           | -             |          |             
 Void                         |      | -        | -         | -             | -        |             
@@ -141,8 +141,8 @@ Electrocuted Scope           |      |          |           | -             | -  
 Falcon                       |      |          | -         |               |          |             
 Flaming Scope                |      |          |           | -             |          |             
 Frantic Brute                |      | -        |           | -             | -        | -           
-Frantic Flame                |      |          |           | -             | -        |             
-Frantic Lightning            |      | -        | -         | -             | -        | -           
+Frantic Flame                |      |          |           | -             |          |             
+Frantic Lightning            |      |          |           | -             | -        | -           
 Grim Cobra                   |      | -        |           | -             |          |             
 Half Burnt Scope             |      |          |           | -             | -        |             
 Hysteria                     |      |          |           | -             | -        |             
