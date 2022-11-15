@@ -102,7 +102,7 @@ for type_list in items_with_missing_tiers_ordered_by_type:
         string += " | ".join(
             f"{'-' * exists:<{len(tier)}}"
             for tier, exists in compress(zip(tiers_with_max, selectors), column_exists)
-        )
+        ).rstrip()
         lines.append(string)
     lines.append(spacer)
 
