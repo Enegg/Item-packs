@@ -42,6 +42,7 @@ types_order = ("TORSO", "LEGS", "DRONE", "SIDE_WEAPON", "TOP_WEAPON", "MODULE")
 
 types_missing_stats = Counter[str]()
 types_finished_stats = Counter[str]()
+tiers_missing_stats = Counter[str]()
 
 # list[<0: TORSO>list[tuple[<name>str, <selectors>list[bool]]], ...]
 items_with_missing_tiers_ordered_by_type: list[list[tuple[str, list[bool]]]] = [[] for _ in range(len(types_order) + 1)]
@@ -66,6 +67,7 @@ for item in items:
 
     if any(missing_tier_selectors):
         types_missing_stats[item["type"]] += 1
+        tiers_missing_stats.update(compress(tiers_with_max, missing_tier_selectors))
 
         index = -1 if item["type"] not in types_order else types_order.index(item["type"])
 
@@ -105,7 +107,7 @@ for type_list in items_with_missing_tiers_ordered_by_type:
     lines.append(spacer)
 
 def join_dict(mapping: t.Mapping[t.Any, t.Any]) -> str:
-    return ", ".join(f"{key}: {val}" for key, val in mapping.items())
+    return ", ".join(f"{key}: {value}" for key, value in mapping.items())
 
 
 with open("out.txt", "w") as file:
@@ -113,6 +115,7 @@ with open("out.txt", "w") as file:
         f"Total items: {len(items)}",
         f"Done: {join_dict(types_finished_stats)}",
         f"Pending: {join_dict(types_missing_stats)}",
+        f"Missing tiers: {join_dict(tiers_missing_stats)}",
         sep="\n",
     )
     file.write("\n".join(lines))
