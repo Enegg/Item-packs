@@ -30,7 +30,7 @@ Grave Diggers                |      |          |           | -             | -  
 Iron Boots                   |      | -        | -         | -             | -        |             
 Lightning Supporters         |      | -        |           | -             | -        |             
 Massive Shocker Feet         |      |          |           | -             | -        |             
-Massive Stone Feet           |      | -        | -         | -             |          |             
+Massive Stone Feet           |      |          |           | -             |          |             
 Recoil Stompers              |      |          |           | -             | -        |             
 Rolling Beasts               |      |          |           | -             | -        |             
 Scorching Feet               |      | -        | -         | -             | -        |             
@@ -45,13 +45,13 @@ Clash                        |      | -        |           | -             | -  
 DustMaker                    |      |          |           | -             |          |             
 Electrolyte                  |      | -        | -         | -             | -        |             
 Face Shocker                 |      |          |           | -             | -        |             
-FireFly                      |      | -        |           | -             |          |             
+FireFly                      |      |          |           | -             |          |             
 Flame Spear                  |      |          |           | -             |          |             
 FlameWave                    |      |          | -         |               |          |             
 Greedy                       |      |          |           | -             | -        |             
 HurlBat                      |      |          |           | -             | -        |             
 Murmur                       |      |          |           |               | -        |             
-Nemo                         |      | -        | -         | -             | -        |             
+Nemo                         |      | -        |           | -             | -        |             
 Selfish Guardian             |      |          |           | -             | -        |             
 Selfish Protector            |      | -        |           | -             | -        |             
 Snack                        |      |          |           | -             | -        |             
