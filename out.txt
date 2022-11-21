@@ -99,7 +99,7 @@ Hot Flash                    |      |          | -         | -             | -  
 Hybrid Energy Cannon         |      |          |           | -             | -        |
 Hybrid Heat Cannon           |      |          | -         | -             |          |
 Last Resort Vulcan           |      |          |           | -             | -        |
-Last Words                   |      | -        | -         | -             | -        |
+Last Words                   |      |          |           | -             | -        |
 Lightning Cutter             |      |          | -         | -             |          |
 Magma Blast                  |      |          | -         |               |          |
 Malfunctioning Blaster       |      |          |           | -             | -        |
