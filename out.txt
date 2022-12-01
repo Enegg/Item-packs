@@ -41,7 +41,7 @@ Anguish                      |      |          |           | -             |    
 Backstabber                  |      |          | -         | -             |          |
 Backstabbing Guardian        |      |          | -         | -             | -        |
 Backstabbing Protector       |      | -        |           | -             | -        |
-Clash                        |      | -        |           | -             | -        |
+Clash                        |      |          |           | -             | -        |
 DustMaker                    |      |          |           | -             |          |
 Electrolyte                  |      | -        | -         | -             | -        |
 Face Shocker                 |      |          |           | -             | -        |
