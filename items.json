@@ -214,10 +214,10 @@
 				"heaCap": null
 			},
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 1214,
+				"eneCap": 170,
 				"eneReg": 80,
-				"heaCap": null,
+				"heaCap": 170,
 				"heaCol": 80
 			},
 			"max_mythical": {
@@ -747,7 +747,7 @@
 				"uses": 2
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 162]
 			},
 			"mythical": {
 				"phyDmg": [null, null]
@@ -1362,16 +1362,16 @@
 				"heaCost": 6
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [62, 79]
 			},
 			"legendary": {
-				"phyDmg": [null, null],
+				"phyDmg": [73, 94],
 				"phyResDmg": 4,
-				"eneCost": null,
-				"heaCost": null
+				"eneCost": 10,
+				"heaCost": 10
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 127]
 			},
 			"mythical": {
 				"phyDmg": [null, null],
@@ -2187,8 +2187,8 @@
 			},
 			"max_epic": {
 				"health": 511,
-				"eneCap": null,
-				"heaCap": null
+				"eneCap": 149,
+				"heaCap": 198
 			},
 			"legendary": {
 				"health": 556,
@@ -2593,7 +2593,7 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
+				"expDmg": [null, 274],
 				"heaDmg": 35
 			},
 			"mythical": {
@@ -3331,8 +3331,8 @@
 				"heaCost": 36
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [null, 209],
+				"heaDmg": 34
 			},
 			"mythical": {
 				"expDmg": [null, null],
@@ -3604,7 +3604,7 @@
 				"heaCost": 51
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
+				"expDmg": [null, 304],
 				"heaDmg": 54
 			},
 			"mythical": {
@@ -4317,9 +4317,9 @@
 
 			},
 			"max_legendary": {
-				"health": null,
-				"eneCap": null,
-				"heaCap": null
+				"health": 625,
+				"eneCap": 249,
+				"heaCap": 140
 			},
 			"mythical": {
 				"health": null,
@@ -4489,9 +4489,9 @@
 				"eneDmg": 30
 			},
 			"max_legendary": {
-				"health": null,
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"health": 265,
+				"eleDmg": [null, 148],
+				"eneDmg": 41
 			},
 			"mythical": {
 				"health": null,
@@ -4619,9 +4619,9 @@
 				"eneDmg": 20
 			},
 			"max_legendary": {
-				"health": null,
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"health": 294,
+				"eleDmg": [null, 146],
+				"eneDmg": 27
 			},
 			"mythical": {
 				"health": null,
@@ -6676,7 +6676,7 @@
 				"heaCost": 102
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 264]
 			},
 			"mythical": {
 				"phyDmg": [null, null],
@@ -6707,7 +6707,7 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 321]
 			},
 			"mythical": {
 				"phyDmg": [null, null],
@@ -6737,7 +6737,7 @@
 				"backfire": 68
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 243]
 			},
 			"mythical": {
 				"phyDmg": [null, null],
@@ -7661,9 +7661,9 @@
 				"eleResDmg": 6
 			},
 			"max_legendary": {
-				"health": null,
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"health": 331,
+				"eleDmg": [null, 138],
+				"eneDmg": 34
 			},
 			"mythical": {
 				"health": null,
@@ -8144,21 +8144,7 @@
 			"name": "Fractured Cyber Armor",
 			"type": "TORSO",
 			"element": "EXPLOSIVE",
-			"transform_range": "L-D",
-			"legendary": {
-				"weight": 370,
-				"health": null,
-				"eneCap": null,
-				"eneReg": null,
-				"heaCap": null,
-				"heaCol": null
-
-			},
-			"max_legendary": {
-				"health": null,
-				"eneCap": null,
-				"heaCap": null
-			},
+			"transform_range": "M-D",
 			"mythical": {
 				"health": 1176,
 				"eneCap": 136,
@@ -8182,21 +8168,7 @@
 			"name": "Rusty Cyber Armor",
 			"type": "TORSO",
 			"element": "ELECTRIC",
-			"transform_range": "L-D",
-			"legendary": {
-				"weight": 370,
-				"health": null,
-				"eneCap": null,
-				"eneReg": null,
-				"heaCap": null,
-				"heaCol": null
-
-			},
-			"max_legendary": {
-				"health": null,
-				"eneCap": null,
-				"heaCap": null
-			},
+			"transform_range": "M-D",
 			"mythical": {
 				"health": 1176,
 				"eneCap": 204,
@@ -8221,25 +8193,12 @@
 			"name": "Hollow Cyber Armor",
 			"type": "TORSO",
 			"element": "PHYSICAL",
-			"transform_range": "L-D",
-			"legendary": {
-				"weight": 370,
-				"health": 840,
-				"eneCap": 120,
-				"eneReg": 55,
-				"heaCap": 120,
-				"heaCol": 55
-			},
-			"max_legendary": {
-				"health": null,
-				"eneCap": null,
-				"heaCap": null
-			},
+			"transform_range": "M-D",
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 1214,
+				"eneCap": 170,
 				"eneReg": 80,
-				"heaCap": null,
+				"heaCap": 170,
 				"heaCol": 80
 			},
 			"max_mythical": {

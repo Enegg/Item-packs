@@ -5,17 +5,14 @@ Battery Armor                |      |          |           |               | -  
 Brutality                    |      |          |           |               | -        |
 Energy Battery Armor         |      |          | -         | -             | -        |
 Energy Free Armor            |      |          |           |               | -        |
-Flame Battery Armor          | -    | -        |           |               | -        |
-Fractured Cyber Armor        |      |          | -         | -             |          |
+Flame Battery Armor          | -    |          |           |               | -        |
 Fractured Heat Armor         |      |          | -         | -             |          |
-GrimReaper                   |      |          |           | -             | -        |
+GrimReaper                   |      |          |           |               | -        |
 Hardened Platinum Vest       |      |          |           | -             | -        |
-Hollow Cyber Armor           |      |          |           | -             | -        |
-Hollow Spectral Armor        |      |          |           | -             | -        |
+Hollow Spectral Armor        |      |          |           | -             |          |
 Interceptor                  | -    | -        | -         | -             |          |
 Naga                         |      |          |           |               | -        | -
 Nightmare                    | -    | -        | -         | -             | -        |
-Rusty Cyber Armor            |      |          | -         | -             |          |
 Rusty Energy Armor           |      |          |           | -             |          |
 Sabretooth                   |      |          |           |               | -        |
 Sith                         | -    | -        | -         | -             | -        | -
@@ -61,7 +58,7 @@ Tonto                        | -    | -        |           | -             | -  
 Torment                      |      |          |           | -             | -        |
 Unreliable Guardian          |      |          |           | -             | -        |
 Unreliable Protector         |      | -        |           | -             |          |
-Void                         |      | -        | -         | -             | -        |
+Void                         |      |          |           | -             | -        |
 WindForge                    |      |          |           | -             | -        |
 ----------------------------------------------------------------------------------------------------
 Abomination                  |      |          |           | -             | -        |
