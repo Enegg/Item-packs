@@ -1596,7 +1596,7 @@
 				"uses": 1
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [56, 71]
 			},
 			"legendary": {
 				"phyDmg": [62, 80]

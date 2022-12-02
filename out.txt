@@ -168,7 +168,6 @@ Platinum Fortress            |      |          | -         |               |    
 Quad Core Booster            |      |          | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
 Advanced Teleporter          |      |          | -         |               |          |
-Charge Engine                |      | -        |           |               |          |
 Flaming Grappling Hook       |      |          | -         | -             |          |
 Platinum Grappling Hook      |      |          |           | -             | -        |
 Shocking Grappling Hook      |      |          |           | -             | -        |
