@@ -2,59 +2,48 @@ item name                    | epic | max_epic | legendary | max_legendary | myt
 ----------------------------------------------------------------------------------------------------
 Avenger                      |      |          |           |               | -        |
 Battery Armor                |      |          |           |               | -        |
-Brutality                    |      |          |           |               | -        |
 Energy Battery Armor         |      |          | -         | -             | -        |
-Energy Free Armor            |      |          |           |               | -        |
-Flame Battery Armor          | -    |          |           |               | -        |
+Flame Battery Armor          |      |          |           |               | -        |
 Fractured Heat Armor         |      |          | -         | -             |          |
-GrimReaper                   |      |          |           |               | -        |
 Hardened Platinum Vest       |      |          |           | -             | -        |
 Hollow Spectral Armor        |      |          |           | -             |          |
-Interceptor                  | -    | -        | -         | -             |          |
-Naga                         |      |          |           |               | -        | -
-Nightmare                    | -    | -        | -         | -             | -        |
-Rusty Energy Armor           |      |          |           | -             |          |
-Sabretooth                   |      |          |           |               | -        |
-Sith                         | -    | -        | -         | -             | -        | -
+Interceptor                  | -    | -        | -         |               |          |
+Nightmare                    |      |          | -         | -             | -        |
+Sith                         |      |          | -         | -             | -        | -
 Windigo                      |      |          |           |               | -        | -
-Zarkares                     |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Charged Walkers              |      | -        | -         | -             | -        |
-Devouring Paws               |      | -        |           | -             | -        |
-Dynamic Stompers             |      |          |           | -             | -        |
-Dynamite Boots               |      | -        |           | -             | -        |
-Grave Diggers                |      |          |           | -             | -        |
-Iron Boots                   |      | -        | -         | -             | -        |
-Lightning Supporters         |      | -        |           | -             | -        |
-Massive Shocker Feet         |      |          |           | -             | -        |
+Devouring Paws               |      |          |           |               | -        |
+Dynamic Stompers             |      |          |           |               | -        |
+Grave Diggers                |      |          |           | -             |          |
+Iron Boots                   |      |          | -         |               | -        |
+Lightning Supporters         |      |          |           |               | -        |
 Massive Stone Feet           |      |          |           | -             |          |
 Recoil Stompers              |      |          |           | -             | -        |
-Rolling Beasts               |      |          |           | -             | -        |
-Scorching Feet               |      | -        | -         | -             | -        |
+Rolling Beasts               |      |          |           |               | -        |
+Scorching Feet               |      | -        |           | -             | -        |
 Sparked Runners              |      |          |           | -             |          |
-The Claw                     |      |          |           | -             | -        |
+The Claw                     |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Anguish                      |      |          |           | -             |          | -
 Backstabber                  |      |          | -         | -             |          |
 Backstabbing Guardian        |      |          | -         | -             | -        |
 Backstabbing Protector       |      | -        |           | -             | -        |
-Clash                        |      |          |           | -             | -        |
 DustMaker                    |      |          |           | -             |          |
 Electrolyte                  |      | -        | -         | -             | -        |
 Face Shocker                 |      |          |           | -             | -        |
-FireFly                      |      |          |           | -             |          |
 Flame Spear                  |      |          |           | -             |          |
 FlameWave                    |      |          | -         |               |          |
 Greedy                       |      |          |           | -             | -        |
 HurlBat                      |      |          |           | -             | -        |
 Murmur                       |      |          |           |               | -        |
-Nemo                         |      | -        |           | -             | -        |
+Nemo                         |      | -        |           |               | -        |
 Selfish Guardian             |      |          |           | -             | -        |
 Selfish Protector            |      | -        |           | -             | -        |
 Snack                        |      |          |           | -             | -        |
-Solar Torch                  |      |          | -         | -             |          |
+Solar Torch                  |      |          |           | -             |          |
 Swoop                        |      |          | -         | -             |          |
-Tonto                        | -    | -        |           | -             | -        |
+Tonto                        | -    | -        |           | -             |          |
 Torment                      |      |          |           | -             | -        |
 Unreliable Guardian          |      |          |           | -             | -        |
 Unreliable Protector         |      | -        |           | -             |          |
@@ -63,7 +52,7 @@ WindForge                    |      |          |           | -             | -  
 ----------------------------------------------------------------------------------------------------
 Abomination                  |      |          |           | -             | -        |
 Advanced Repulser            |      |          | -         | -             | -        |
-Annihilation                 |      | -        | -         | -             | -        |
+Annihilation                 |      | -        | -         | -             |          |
 Ash Creator                  |      |          |           | -             |          |
 Basalt Polisher              |      |          | -         | -             | -        |
 BigDaddy                     |      |          | -         | -             | -        |
@@ -79,7 +68,7 @@ Chaos Bringer                |      |          | -         | -             | -  
 Cracked Plasma Cannon        |      | -        | -         | -             |          |
 Damaged Armor Dissolver      | -    | -        | -         | -             |          |
 Dark Eagle                   |      |          |           | -             | -        |
-DawnBlaze                    |      | -        |           | -             | -        |
+DawnBlaze                    |      | -        |           | -             |          |
 Disintegration               |      |          |           | -             | -        |
 Distance Controller          |      |          | -         | -             | -        |
 Distance Generator           |      |          |           | -             | -        |
@@ -88,7 +77,7 @@ EMP                          |      | -        |           |               |    
 Ejection Blast               |      |          | -         | -             | -        |
 Evac Spark                   |      |          |           | -             |          |
 Explosive Retreat            |      |          | -         | -             |          |
-Flaming Hammer               |      | -        |           | -             | -        |
+Flaming Hammer               |      | -        |           |               | -        |
 Fractured Basalt Annihilator |      |          | -         | -             | -        |
 Heat Bomb                    |      | -        |           |               |          |
 HeronMark                    |      |          | -         | -             | -        |
@@ -103,7 +92,7 @@ Malfunctioning Blaster       |      |          |           | -             | -  
 Mercy                        |      |          |           | -             | -        |
 Misguided Rocket Battery     |      |          | -         | -             | -        |
 Mortal Bullet                |      |          | -         | -             | -        |
-NightFall                    |      | -        |           | -             | -        |
+NightFall                    |      | -        |           |               |          |
 Obsolete Energy Cannon       |      | -        | -         | -             | -        |
 Overcharged Rocket Battery   |      |          | -         |               |          |
 Overcooking Oven             |      |          | -         | -             | -        |
@@ -120,25 +109,24 @@ SeraphBlade                  |      |          | -         | -             | -  
 Shadow Wolf                  |      |          | -         | -             |          |
 Sorrow                       |      |          |           | -             | -        |
 StormWeaver                  |      |          |           | -             | -        |
-Sweetie                      |      |          | -         | -             | -        |
-Terror Cry                   |      | -        |           | -             | -        |
+Sweetie                      |      |          |           | -             | -        |
+Terror Cry                   |      | -        |           |               | -        |
 TerrorBlade                  |      |          | -         | -             | -        |
 UltraBright                  |      |          |           | -             | -        |
 Unrepaired Laser Cannon      |      | -        |           | -             | -        |
 Unstable Power Cell          |      |          | -         | -             |          |
 Viking Hammer                |      | -        |           | -             | -        |
-War Hammer                   | -    | -        | -         | -             |          |
+War Hammer                   |      | -        | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
 Cockpit Burner               |      |          |           | -             | -        |
 Cockpit Piercer              |      |          | -         | -             | -        |
 Delerium                     |      |          |           | -             | -        |
 Desert Snake                 |      |          |           | -             |          |
-Desolation                   |      |          |           | -             | -        |
+Desolation                   |      |          |           |               | -        |
 Electrocuted Scope           |      |          |           | -             | -        |
 Falcon                       |      |          | -         |               |          |
 Flaming Scope                |      |          |           | -             |          |
 Frantic Brute                |      | -        |           | -             | -        | -
-Frantic Flame                |      |          |           | -             |          |
 Frantic Lightning            |      |          |           | -             | -        | -
 Grim Cobra                   |      | -        |           | -             |          |
 Half Burnt Scope             |      |          |           | -             | -        |
@@ -153,7 +141,6 @@ Red Rain                     |      |          | -         | -             |    
 Space Invader                |      |          | -         | -             | -        |
 Spartan Carnage              |      |          |           | -             | -        |
 SpineFall                    |      |          |           | -             | -        |
-Supreme Cannon               |      |          |           | -             | -        |
 Valiant Sniper               |      |          | -         | -             |          |
 Vandal Rage                  |      | -        |           |               |          |
 ----------------------------------------------------------------------------------------------------
