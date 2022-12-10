@@ -3274,7 +3274,7 @@
 				"heaCost": 9
 			},
 			"max_epic": {
-				"expDmg": [null, null],
+				"expDmg": [62, 79],
 				"heaDmg": 21
 			},
 			"legendary": {

@@ -142,7 +142,6 @@ Space Invader                |      |          | -         | -             | -  
 Spartan Carnage              |      |          |           | -             | -        |
 SpineFall                    |      |          |           | -             | -        |
 Valiant Sniper               |      |          | -         | -             |          |
-Vandal Rage                  |      | -        |           |               |          |
 ----------------------------------------------------------------------------------------------------
 Combined Storage Unit        |      |          | -         | -             | -        |
 Energy Fortress              |      |          | -         |               |          |
