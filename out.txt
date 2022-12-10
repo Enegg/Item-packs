@@ -5,7 +5,7 @@ Battery Armor                |      |          |           |               | -  
 Energy Battery Armor         |      |          | -         | -             | -        |
 Flame Battery Armor          |      |          |           |               | -        |
 Fractured Heat Armor         |      |          | -         | -             |          |
-Hardened Platinum Vest       |      |          |           | -             | -        |
+Hardened Platinum Vest       |      |          |           |               | -        |
 Hollow Spectral Armor        |      |          |           | -             |          |
 Interceptor                  | -    | -        | -         |               |          |
 Nightmare                    |      |          | -         | -             | -        |
@@ -30,7 +30,7 @@ Backstabber                  |      |          | -         | -             |    
 Backstabbing Guardian        |      |          | -         | -             | -        |
 Backstabbing Protector       |      | -        |           | -             | -        |
 DustMaker                    |      |          |           | -             |          |
-Electrolyte                  |      | -        | -         | -             | -        |
+Electrolyte                  |      |          |           | -             | -        |
 Face Shocker                 |      |          |           | -             | -        |
 Flame Spear                  |      |          |           | -             |          |
 FlameWave                    |      |          | -         |               |          |
@@ -81,7 +81,7 @@ Flaming Hammer               |      | -        |           |               | -  
 Fractured Basalt Annihilator |      |          | -         | -             | -        |
 Heat Bomb                    |      | -        |           |               |          |
 HeronMark                    |      |          | -         | -             | -        |
-Hot Flash                    |      |          | -         | -             | -        |
+Hot Flash                    |      |          |           |               | -        |
 Hybrid Energy Cannon         |      |          |           | -             | -        |
 Hybrid Heat Cannon           |      |          | -         | -             |          |
 Last Resort Vulcan           |      |          |           | -             | -        |
@@ -116,7 +116,7 @@ UltraBright                  |      |          |           | -             | -  
 Unrepaired Laser Cannon      |      | -        |           | -             | -        |
 Unstable Power Cell          |      |          | -         | -             |          |
 Viking Hammer                |      | -        |           | -             | -        |
-War Hammer                   |      | -        | -         | -             |          |
+War Hammer                   |      | -        |           | -             |          |
 ----------------------------------------------------------------------------------------------------
 Cockpit Burner               |      |          |           | -             | -        |
 Cockpit Piercer              |      |          | -         | -             | -        |
@@ -143,15 +143,14 @@ Spartan Carnage              |      |          |           | -             | -  
 SpineFall                    |      |          |           | -             | -        |
 Valiant Sniper               |      |          | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
-Combined Storage Unit        |      |          | -         | -             | -        |
+Combined Storage Unit        |      |          |           |               | -        |
 Energy Fortress              |      |          | -         |               |          |
 Energy Storage Unit          |      |          |           |               | -        |
 Plasma Fortress              |      |          | -         |               |          |
 Platinum Fortress            |      |          | -         |               |          |
 Quad Core Booster            |      |          | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
-Advanced Teleporter          |      |          | -         |               |          |
-Flaming Grappling Hook       |      |          | -         | -             |          |
+Flaming Grappling Hook       |      |          |           | -             |          |
 Platinum Grappling Hook      |      |          |           | -             | -        |
 Shocking Grappling Hook      |      |          |           | -             | -        |
 Superb Charge Engine         |      |          | -         | -             |          |
