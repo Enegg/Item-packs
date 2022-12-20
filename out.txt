@@ -125,7 +125,7 @@ Desolation                   |      |          |           |               | -  
 Electrocuted Scope           |      |          |           | -             | -        |
 Falcon                       |      |          | -         |               |          |
 Flaming Scope                |      |          |           | -             |          |
-Frantic Brute                |      | -        |           | -             | -        | -
+Frantic Brute                |      |          |           | -             | -        | -
 Frantic Lightning            |      |          |           | -             | -        | -
 Grim Cobra                   |      | -        |           | -             |          |
 Half Burnt Scope             |      |          |           | -             | -        |
