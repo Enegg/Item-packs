@@ -4,14 +4,13 @@ import operator
 import typing as t
 from collections import Counter
 from itertools import compress, chain
-from typing import TypedDict
 
 from typing_extensions import Required
 
 StatDict = dict[str, int | None | list[int] | list[None]]
 
 
-class ItemDict(TypedDict, total=False):
+class ItemDict(t.TypedDict, total=False):
     name: Required[str]
     type: Required[str]
     element: Required[str]

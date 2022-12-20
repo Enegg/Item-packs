@@ -1,0 +1,215 @@
+name,type,element,common,max_common,rare,max_rare,epic,max_epic,legendary,max_legendary,mythical,max_mythical,divine
+Archimonde,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Avenger,TORSO,PHYSICAL,?,?,?,?,+,+,+,+,-,+,+
+Battery Armor,TORSO,PHYSICAL,?,?,?,?,+,+,+,+,-,+,+
+Brutality,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Energy Battery Armor,TORSO,ELECTRIC,?,?,?,?,+,+,-,-,-,+,+
+Energy Free Armor,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Flame Battery Armor,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,-,+,+
+Fractured Cyber Armor,TORSO,EXPLOSIVE,?,?,?,?,?,?,?,?,+,+,+
+Fractured Heat Armor,TORSO,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+GrimReaper,TORSO,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
+Hardened Platinum Vest,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,-,+,+
+Hollow Cyber Armor,TORSO,PHYSICAL,?,?,?,?,?,?,?,?,+,+,+
+Hollow Spectral Armor,TORSO,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Interceptor,TORSO,PHYSICAL,+,+,+,+,-,-,-,+,+,+,+
+Lightning Platinum Vest,TORSO,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Molten Platinum Vest,TORSO,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
+Naga,TORSO,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
+Nightmare,TORSO,EXPLOSIVE,+,+,+,+,+,+,-,-,-,+,+
+Rusty Cyber Armor,TORSO,ELECTRIC,?,?,?,?,?,?,?,?,+,+,+
+Rusty Energy Armor,TORSO,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Sabretooth,TORSO,EXPLOSIVE,?,?,?,?,?,?,?,?,+,+,+
+Sith,TORSO,ELECTRIC,+,+,+,+,+,+,-,-,-,-,+
+Windigo,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,-,-,+
+Zarkares,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Charged Walkers,LEGS,ELECTRIC,+,+,+,+,+,-,-,-,-,+,+
+Devouring Paws,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,-,+,+
+Dynamic Stompers,LEGS,ELECTRIC,?,?,+,+,+,+,+,+,-,+,+
+Dynamite Boots,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Grave Diggers,LEGS,PHYSICAL,?,?,+,+,+,+,+,-,+,+,+
+Iron Boots,LEGS,PHYSICAL,+,+,+,+,+,+,-,+,-,+,+
+Lightning Supporters,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,-,+,+
+Massive Lava Feet,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Massive Shocker Feet,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
+Massive Stone Feet,LEGS,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
+Recoil Stompers,LEGS,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Rolling Beasts,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,-,+,+
+Scorching Feet,LEGS,EXPLOSIVE,+,+,+,+,+,-,+,-,-,+,+
+Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+The Claw,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,-,+,+
+Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,+,-,+
+Backstabber,DRONE,PHYSICAL,?,?,?,?,?,?,-,-,+,+,+
+Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,-,-,+,+
+Clash,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Electrolyte,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+FlameWave,DRONE,EXPLOSIVE,?,?,?,?,?,?,-,+,+,+,+
+Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+HeatPoint,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+HurlBat,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,-,+,+
+Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+
+Nemo,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,+,-,+,+
+Rail Gun,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Selfish Guardian,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Selfish Protector,DRONE,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Shockwave,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Snack,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Solar Torch,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Swoop,DRONE,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Tonto,DRONE,PHYSICAL,?,?,?,?,-,-,+,-,+,+,+
+Torment,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Unreliable Guardian,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Unreliable Protector,DRONE,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
+Void,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,-,+,+
+WindForge,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Abomination,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Advanced Repulser,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,-,-,-,+,+
+Annihilation,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,-,-,+,+,+
+Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Ash Creator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+BackBreaker,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
+Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Basalt Polisher,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+BigDaddy,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,-,-,-,+,+
+BloodWeep,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+BrightRoar,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
+Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,-,+
+Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,-,-,+
+Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,-,+,+,+,+
+BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+Chaos Bringer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Corrupt Light,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
+Cracked Plasma Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,-,-,+,+,+
+Crimson Rapture,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
+Damaged Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,-,-,-,-,+,+,+
+Dark Eagle,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+DawnBlaze,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,-,+,+,+
+Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Distance Controller,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Distance Generator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Drunk Lightning,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,-,-,-,+,+
+EMP,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,+,+,+,+
+Ejection Blast,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,-,-,-,+,+
+Evac Spark,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+Explosive Retreat,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Flaminator,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
+Flaming Hammer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,-,+,+
+Fractured Basalt Annihilator,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Fractured Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Heat Bomb,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
+HeronMark,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Hot Flash,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,-,+,+
+Hybrid Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Hybrid Heat Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Last Resort Vulcan,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Last Words,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Lightning Cutter,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
+Lightning Recoiler,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
+Magma Blast,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,+,+,+,+
+Magma Recoiler,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
+Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+NightFall,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
+Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,-,-,-,+,+
+Overcharged Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,+,+,+,+
+Overcooking Oven,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Perimeter Protector,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Piercing Fox,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+Purifier,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Reckoning,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Repulser,SIDE_WEAPON,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
+Rock Polisher,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,-,-,+,+,+
+Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,-,-,-,+,+
+Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+StormWeaver,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,-,+,+
+TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
+Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,-,+,+
+War Hammer,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
+Burning Shower,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
+Cockpit Burner,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Cockpit Electrocuter,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Cockpit Piercer,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,-,-,-,+,+
+Delerium,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Desert Fury,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Desert Snake,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Desolation,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,-,+,+
+Distance Shredder,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Electrocuted Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,-,+,+,+,+
+Flaming Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Frantic Brute,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,-,-,+
+Frantic Flame,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,-,+
+Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
+Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Hysteria,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Lazy Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Lightning Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+Mighty Cannon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Night Eagle,TOP_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Overheated Heat Bomb,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
+Overloaded EMP,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+Party Crasher,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Reckless Beam,TOP_WEAPON,PHYSICAL,?,?,?,?,+,-,-,-,-,+,+
+Red Rain,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Savagery,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Space Invader,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Spartan Carnage,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+SpineFall,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Supreme Cannon,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Valiant Sniper,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
+Vandal Rage,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Combined Engine Unit,MODULE,COMBINED,?,?,?,?,?,?,+,+,+,+,+
+Combined Storage Unit,MODULE,COMBINED,?,?,?,?,+,+,+,+,-,+,+
+Cooling Mass Booster,MODULE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Defence Matrix,MODULE,COMBINED,?,?,?,?,?,?,+,+,+,+,+
+Energy Engine,MODULE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
+Energy Fortress,MODULE,ELECTRIC,?,?,?,?,?,?,-,+,+,+,+
+Energy Mass Booster,MODULE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
+Energy Protector,MODULE,ELECTRIC,?,?,+,+,+,+,?,?,?,?,?
+Energy Storage Unit,MODULE,ELECTRIC,?,?,?,?,?,?,+,+,-,+,+
+Heat Engine,MODULE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
+Heat Protector,MODULE,EXPLOSIVE,?,?,+,+,+,+,?,?,?,?,?
+Heat Storage Unit,MODULE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
+Iron Plating,MODULE,PHYSICAL,+,+,+,+,+,+,?,?,?,?,?
+Maximum Protector,MODULE,COMBINED,?,?,?,?,?,?,+,+,+,+,+
+Mighty Protector,MODULE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Overload Preventor,MODULE,COMBINED,?,?,?,?,?,?,+,+,+,+,+
+Physical Protector,MODULE,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
+Plasma Fortress,MODULE,EXPLOSIVE,?,?,?,?,?,?,-,+,+,+,+
+Platinum Fortress,MODULE,PHYSICAL,?,?,?,?,?,?,-,+,+,+,+
+Platinum Plating,MODULE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
+Quad Core Booster,MODULE,COMBINED,?,?,?,?,?,?,-,-,+,+,+
+Savior Resistance,MODULE,COMBINED,?,?,+,+,+,+,?,?,?,?,?
+SuperCharge Protector,MODULE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Ultrahot Protector,MODULE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
+Advanced Teleporter,TELEPORTER,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Basic Teleporter,TELEPORTER,ELECTRIC,+,+,+,+,+,+,?,?,?,?,?
+Charge Engine,CHARGE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
+Double Teleporter,TELEPORTER,ELECTRIC,?,?,?,?,?,?,+,?,?,?,?
+Flaming Grappling Hook,HOOK,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Platinum Grappling Hook,HOOK,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Shocking Grappling Hook,HOOK,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Superb Charge Engine,CHARGE,PHYSICAL,?,?,?,?,?,?,-,-,+,+,+
