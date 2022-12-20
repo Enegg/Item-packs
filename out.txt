@@ -92,7 +92,6 @@ Malfunctioning Blaster       |      |          |           | -             | -  
 Mercy                        |      |          |           | -             | -        |
 Misguided Rocket Battery     |      |          | -         | -             | -        |
 Mortal Bullet                |      |          | -         | -             | -        |
-NightFall                    |      | -        |           |               |          |
 Obsolete Energy Cannon       |      | -        | -         | -             | -        |
 Overcharged Rocket Battery   |      |          | -         |               |          |
 Overcooking Oven             |      |          | -         | -             | -        |

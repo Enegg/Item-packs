@@ -775,7 +775,7 @@
 				"heaCost": 11
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [104, 150]
 			},
 			"legendary": {
 				"phyDmg": [121, 178],
