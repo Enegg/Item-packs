@@ -63,7 +63,7 @@ Broken Blizzard Annihilator  |      |          | -         | -             |    
 Broken Blizzard Dissolver    |      | -        |           | -             | -        | -
 Broken Devourer              |      | -        | -         |               |          |
 BullDog                      |      |          |           | -             |          |
-Bunker Shell                 |      |          | -         | -             | -        |
+Bunker Shell                 |      |          |           | -             | -        |
 Chaos Bringer                |      |          | -         | -             | -        |
 Cracked Plasma Cannon        |      | -        | -         | -             |          |
 Damaged Armor Dissolver      | -    | -        | -         | -             |          |

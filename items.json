@@ -4808,8 +4808,8 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 145],
+				"eneDmg": 126
 			},
 			"mythical": {
 				"eleDmg": [124, 162],
@@ -5075,19 +5075,19 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 50,
-				"eleDmg": [null, null],
-				"eneDmg": null,
-				"eleResDmg": null,
-				"eneCapDmg": null,
-				"eneRegDmg": null,
+				"eleDmg": [124, 232],
+				"eneDmg": 64,
+				"eleResDmg": 8,
+				"eneCapDmg": 15,
+				"eneRegDmg": 9,
 				"push": 1,
 				"range": [2, 4],
 				"uses": 1,
-				"eneCost": null
+				"eneCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 311],
+				"eneDmg": 86
 			},
 			"mythical": {
 				"eleDmg": [null, null],
@@ -5681,8 +5681,8 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 497],
+				"eneDmg": 197
 			},
 			"mythical": {
 				"eleDmg": [434, 566],
