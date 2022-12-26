@@ -13,7 +13,7 @@
         },
         "type": {
             "description": "The type of the item",
-            "enum": ["TORSO", "LEGS", "DRONE", "SIDE_WEAPON", "TOP_WEAPON", "CHARGE", "TELEPORTER", "HOOK", "MODULE"]
+            "enum": ["TORSO", "LEGS", "DRONE", "SIDE_WEAPON", "TOP_WEAPON", "CHARGE", "CHARGE_ENGINE", "TELEPORTER", "HOOK", "GRAPPLING_HOOK", "MODULE"]
         },
         "element": {
             "description": "The element of the item",
