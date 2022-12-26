@@ -1,0 +1,116 @@
+{
+    "description": "Data representing an item",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "The ID of the item",
+            "type": "integer",
+            "exclusiveMinimum": 0
+        },
+        "name": {
+            "description": "The full name of the item",
+            "type": "string"
+        },
+        "type": {
+            "description": "The type of the item",
+            "enum": ["TORSO", "LEGS", "DRONE", "SIDE_WEAPON", "TOP_WEAPON", "CHARGE", "TELEPORTER", "HOOK", "MODULE"]
+        },
+        "element": {
+            "description": "The element of the item",
+            "enum": ["PHYSICAL", "EXPLOSIVE", "ELECTRIC", "COMBINED"]
+        },
+        "transform_range": {
+            "description": "The transformation range of the item in the form of \"X-Y\", where X and Y are the capitalized first letters of the lowest and highest tier the item can reach, respectively",
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 3
+        },
+        "width": {
+            "description": "If present, overrides the width of the item's image",
+            "type": "integer"
+        },
+        "height": {
+            "description": "If present, overrides the height of the item's image",
+            "type": "integer"
+        },
+        "tags": {
+            "description": "The tags that apply to the item",
+            "type": "array",
+            "items": {
+                "enum": ["melee", "roller", "sword"]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "attachment": {
+            "oneOf": [
+                { "$ref": "#/$defs/point2D" },
+                {
+                    "description": "A mapping of item slots to their attachment points",
+                    "type": "object",
+                    "properties": {
+                        "leg1": { "$ref": "#/$defs/point2D" },
+                        "leg2": { "$ref": "#/$defs/point2D" },
+                        "side1": { "$ref": "#/$defs/point2D" },
+                        "side2": { "$ref": "#/$defs/point2D" },
+                        "side3": { "$ref": "#/$defs/point2D" },
+                        "side4": { "$ref": "#/$defs/point2D" },
+                        "top1": { "$ref": "#/$defs/point2D" },
+                        "top2": { "$ref": "#/$defs/point2D" }
+                    },
+                    "required": ["leg1", "leg2", "side1", "side2", "side3", "side4", "top1", "top2"]
+                }
+            ]
+        },
+        "common": { "$ref": "./stat-schema.json" },
+        "max_common": { "$ref": "./stat-schema.json" },
+        "rare": { "$ref": "./stat-schema.json" },
+        "max_rare": { "$ref": "./stat-schema.json" },
+        "epic": { "$ref": "./stat-schema.json" },
+        "max_epic": { "$ref": "./stat-schema.json" },
+        "legendary": { "$ref": "./stat-schema.json" },
+        "max_legendary": { "$ref": "./stat-schema.json" },
+        "mythical": { "$ref": "./stat-schema.json" },
+        "max_mythical": { "$ref": "./stat-schema.json" },
+        "divine": { "$ref": "./stat-schema.json" },
+        "stats": { "$ref": "./stat-schema.json" }
+    },
+    "defaultSnippets": [
+        {
+            "label": "New item",
+            "description": "Creates an item with all required fields",
+            "body": {
+                "id": 0,
+                "name": "$1",
+                "type": "${2|TORSO,LEGS,DRONE,SIDE_WEAPON,TOP_WEAPON,CHARGE,TELEPORTER,HOOK,MODULE|}",
+                "element": "${3|PHYSICAL,EXPLOSIVE,ELECTRIC,COMBINED|}",
+                "transform_range": "${4|C,R,E,L,M,D|}-${5|C,R,E,L,M,D|}"
+            }
+        }
+    ],
+    "required": ["id", "name", "type", "element", "transform_range"],
+    "dependentRequired": {
+        "width": ["height"],
+        "height": ["width"],
+        "max_common": ["common"],
+        "max_rare": ["rare"],
+        "max_epic": ["epic"],
+        "max_legendary": ["legendary"],
+        "max_mythical": ["mythical", "divine"]
+    },
+    "$defs": {
+        "point2D": {
+            "description": "An attachment point",
+            "type": "object",
+            "properties": {
+                "x": {
+                    "type": "integer"
+                },
+                "y": {
+                    "type": "integer"
+                }
+            },
+            "required": ["x", "y"]
+        }
+    }
+}

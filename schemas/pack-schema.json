@@ -1,0 +1,68 @@
+{
+    "title": "Item pack",
+    "description": "An item pack compliant with WU",
+    "type": "object",
+    "properties": {
+        "version": {
+            "description": "The version of the pack",
+            "type": "string"
+        },
+        "key": {
+            "description": "An unique identifier of the pack",
+            "type": "string"
+        },
+        "name": {
+            "description": "The name of the pack",
+            "type": "string"
+        },
+        "description": {
+            "description": "The description of the pack",
+            "type": "string"
+        },
+        "spritesSheet": {
+            "description": "An URL to a sprites sheet with item images",
+            "type": "string"
+        },
+        "spritesMap": {
+            "description": "A mapping of item names to their position and size on the sheet",
+            "type": "object",
+            "minProperties": 1,
+            "patternProperties": {
+                "^\\w+$": {
+                    "description": "Sprite position",
+                    "type": "object",
+                    "properties": {
+                        "width": {
+                            "description": "The width of the image",
+                            "type": "integer"
+                        },
+                        "height": {
+                            "description": "the height of the image",
+                            "type": "integer"
+                        },
+                        "x": {
+                            "description": "The x coord of the upper left corner of the image",
+                            "type": "integer"
+                        },
+                        "y": {
+                            "description": "The y coord of the upper left corner of the image",
+                            "type": "integer"
+                        }
+                    },
+                    "required": ["width", "height", "x", "y"]
+                }
+            }
+        },
+        "items": {
+            "description": "An array of all the items in the pack",
+            "type": "array",
+            "uniqueItems": true,
+            "items": { "$ref": "./item-schema.json" }
+        }
+    },
+    "required": ["version", "key", "name", "description", "items"],
+    "dependentRequired": {
+        "spritesSheet": ["spritesMap"],
+        "spritesMap": ["spritesSheet"]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "title": "Item stats",
+    "description": "Item stats at concrete tier",
+    "type": "object",
+    "minProperties": 1,
+    "properties": {
+        "weight": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "health": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eneCap": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eneReg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "heaCap": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "heaCol": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "bulletsCap": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "rocketsCap": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "phyRes": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "expRes": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eleRes": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "phyDmg": {
+            "$ref": "#/$defs/damageRange"
+        },
+        "phyResDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "expDmg": {
+            "$ref": "#/$defs/damageRange"
+        },
+        "heaDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "heaCapDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "heaColDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "expResDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eleDmg": {
+            "$ref": "#/$defs/damageRange"
+        },
+        "eneDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eneCapDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eneRegDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eleResDmg": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "range": {
+            "$ref": "#/$defs/range"
+        },
+        "push": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "pull": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "recoil": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "retreat": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "advance": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "walk": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "jump": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "uses": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "backfire": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "heaCost": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "eneCost": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "bulletsCost": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        },
+        "rocketsCost": {
+            "$ref": "#/$defs/positiveIntegerOrNull"
+        }
+    },
+    "$defs": {
+        "positiveInteger": {
+            "type": "integer",
+            "exclusiveMinimum": 0
+        },
+        "positiveIntegerOrNull": {
+            "oneOf": [
+                { "$ref": "#/$defs/positiveInteger" },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "range": {
+            "type": "array",
+            "items": {
+                "type": "integer",
+                "exclusiveMinimum": 0,
+                "maximum": 10
+            }
+        },
+        "damageRange": {
+            "type": "array",
+            "items": { "$ref": "#/$defs/positiveIntegerOrNull" }
+        }
+    }
+}

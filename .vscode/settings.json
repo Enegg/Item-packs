@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "items.json"
+            ],
+            "url": "./schemas/pack-schema.json"
+        }
+    ]
+}
