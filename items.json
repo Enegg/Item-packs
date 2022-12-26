@@ -2660,8 +2660,8 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 55,
-				"expDmg": [null, null],
-				"heaDmg": null,
+				"expDmg": [107, 201],
+				"heaDmg": 41,
 				"expResDmg": 8,
 				"heaCapDmg": 15,
 				"heaColDmg": 9,

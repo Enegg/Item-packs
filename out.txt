@@ -85,7 +85,6 @@ Hybrid Heat Cannon           |      |          | -         | -             |    
 Last Resort Vulcan           |      |          |           | -             | -        |
 Last Words                   |      |          |           | -             | -        |
 Lightning Cutter             |      |          | -         | -             |          |
-Magma Blast                  |      |          | -         |               |          |
 Malfunctioning Blaster       |      |          |           | -             | -        |
 Mercy                        |      |          |           | -             | -        |
 Misguided Rocket Battery     |      |          | -         | -             | -        |
