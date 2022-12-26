@@ -4956,7 +4956,7 @@
 				"eneCost": 107
 			},
 			"max_epic": {
-				"eleDmg": [null, 27],
+				"eleDmg": [17, 27],
 				"eneDmg": 152,
 				"eneCost": 147
 			},

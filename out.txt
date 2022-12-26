@@ -71,7 +71,6 @@ Disintegration               |      |          |           | -             | -  
 Distance Controller          |      |          | -         | -             | -        |
 Distance Generator           |      |          |           | -             | -        |
 Drunk Lightning              |      | -        | -         | -             | -        |
-EMP                          |      | -        |           |               |          |
 Ejection Blast               |      |          | -         | -             | -        |
 Evac Spark                   |      |          |           | -             |          |
 Explosive Retreat            |      |          | -         | -             |          |
