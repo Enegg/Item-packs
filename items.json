@@ -630,15 +630,15 @@
 				"uses": 2
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [88, 143]
 			},
 			"legendary": {
-				"phyDmg": [null, null],
-				"phyResDmg": null,
+				"phyDmg": [103, 170],
+				"phyResDmg": 9,
 				"uses": 3
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 228]
 			},
 			"mythical": {
 				"phyDmg": [155, 260],
@@ -816,7 +816,7 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 142]
 			},
 			"mythical": {
 				"phyDmg": [112, 159],
@@ -847,7 +847,7 @@
 				"heaCost": 9
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [null, 152]
 			},
 			"legendary": {
 				"phyDmg": [122, 178],
@@ -2706,12 +2706,12 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
+				"expDmg": [null, 145],
 				"heaDmg": 66
 			},
 			"mythical": {
 				"expDmg": [null, null],
-				"heaDmg": null,
+				"heaDmg": 71,
 				"heaCapDmg": 12,
 				"heaCost": 31
 			},
@@ -6371,15 +6371,15 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 48,
-				"expDmg": [null, null],
-				"heaDmg": null,
-				"expResDmg": null,
-				"backfire": null,
-				"heaCost": null
+				"expDmg": [68, 123],
+				"heaDmg": 30,
+				"expResDmg": 4,
+				"backfire": 69,
+				"heaCost": 39
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [null, 166],
+				"heaDmg": 41
 			},
 			"mythical": {
 				"expDmg": [null, null],
@@ -7278,15 +7278,15 @@
 				"eneDmg": 43
 			},
 			"legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
-				"backfire": null,
-				"eneCost": null,
-				"heaCost": null
+				"eleDmg": [92, 145],
+				"eneDmg": 49,
+				"backfire": 49,
+				"eneCost": 30,
+				"heaCost": 10
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 195],
+				"eneDmg": 66
 			},
 			"mythical": {
 				"eleDmg": [null, null],
@@ -8044,8 +8044,8 @@
 				"backfire": 123
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 104],
+				"eneDmg": 47
 			},
 			"mythical": {
 				"eleDmg": [null, null],

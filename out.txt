@@ -26,7 +26,7 @@ The Claw                     |      |          |           |               | -  
 ----------------------------------------------------------------------------------------------------
 Anguish                      |      |          |           | -             |          | -
 Backstabber                  |      |          | -         | -             |          |
-Backstabbing Guardian        |      |          | -         | -             | -        |
+Backstabbing Guardian        |      |          |           | -             | -        |
 Backstabbing Protector       |      | -        |           | -             | -        |
 DustMaker                    |      |          |           | -             |          |
 Electrolyte                  |      |          |           | -             | -        |
@@ -51,7 +51,7 @@ WindForge                    |      |          |           | -             | -  
 ----------------------------------------------------------------------------------------------------
 Abomination                  |      |          |           | -             | -        |
 Advanced Repulser            |      |          | -         | -             | -        |
-Annihilation                 |      | -        | -         | -             |          |
+Annihilation                 |      |          |           | -             |          |
 Ash Creator                  |      |          |           | -             |          |
 Basalt Polisher              |      |          | -         | -             | -        |
 BigDaddy                     |      |          | -         | -             | -        |
@@ -89,7 +89,7 @@ Malfunctioning Blaster       |      |          |           | -             | -  
 Mercy                        |      |          |           | -             | -        |
 Misguided Rocket Battery     |      |          | -         | -             | -        |
 Mortal Bullet                |      |          | -         | -             | -        |
-Obsolete Energy Cannon       |      | -        | -         | -             | -        |
+Obsolete Energy Cannon       |      | -        |           | -             | -        |
 Overcharged Rocket Battery   |      |          | -         |               |          |
 Overcooking Oven             |      |          | -         | -             | -        |
 Perimeter Protector          |      |          |           | -             |          |

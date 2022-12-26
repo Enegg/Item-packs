@@ -11,7 +11,7 @@ Fractured Heat Armor,TORSO,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
 GrimReaper,TORSO,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Hardened Platinum Vest,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,-,+,+
 Hollow Cyber Armor,TORSO,PHYSICAL,?,?,?,?,?,?,?,?,+,+,+
-Hollow Spectral Armor,TORSO,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Hollow Spectral Armor,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Interceptor,TORSO,PHYSICAL,+,+,+,+,-,-,-,+,+,+,+
 Lightning Platinum Vest,TORSO,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Molten Platinum Vest,TORSO,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -40,7 +40,7 @@ Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 The Claw,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,-,+,+
 Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,+,-,+
 Backstabber,DRONE,PHYSICAL,?,?,?,?,?,?,-,-,+,+,+
-Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
+Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,-,-,+,+
 Clash,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
@@ -69,7 +69,7 @@ Void,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,-,+,+
 WindForge,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
 Abomination,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Advanced Repulser,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,-,-,-,+,+
-Annihilation,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,-,-,+,+,+
+Annihilation,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Ash Creator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 BackBreaker,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
@@ -83,7 +83,7 @@ Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,-,+
 Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,-,-,+
 Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,-,+,+,+,+
 BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
-Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
+Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Chaos Bringer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
 Corrupt Light,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
 Cracked Plasma Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,-,-,+,+,+
@@ -113,7 +113,7 @@ Last Resort Vulcan,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Last Words,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Lightning Cutter,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
 Lightning Recoiler,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Magma Blast,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,+,+,+,+
+Magma Blast,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Magma Recoiler,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
@@ -121,7 +121,7 @@ Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
 Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,-,+,+
 NightFall,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
-Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,-,-,-,+,+
+Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,-,+,+
 Overcharged Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,+,+,+,+
 Overcooking Oven,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
 Perimeter Protector,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
