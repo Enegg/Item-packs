@@ -59,7 +59,7 @@ Blizzard Dissolver           |      | -        | -         | -             | -  
 BloodWeep                    |      |          |           | -             |          |
 BrightRoar                   |      |          | -         | -             |          |
 Broken Blizzard Annihilator  |      |          | -         | -             |          | -
-Broken Blizzard Dissolver    |      | -        |           | -             | -        | -
+Broken Blizzard Dissolver    |      |          |           | -             | -        | -
 Broken Devourer              |      | -        | -         |               |          |
 BullDog                      |      |          |           | -             |          |
 Chaos Bringer                |      |          | -         | -             | -        |
@@ -77,7 +77,7 @@ Explosive Retreat            |      |          | -         | -             |    
 Flaming Hammer               |      | -        |           |               | -        |
 Fractured Basalt Annihilator |      |          | -         | -             | -        |
 Heat Bomb                    |      | -        |           |               |          |
-HeronMark                    |      |          | -         | -             | -        |
+HeronMark                    |      |          | -         | -             |          |
 Hot Flash                    |      |          |           |               | -        |
 Hybrid Energy Cannon         |      |          |           | -             | -        |
 Hybrid Heat Cannon           |      |          | -         | -             |          |
@@ -101,7 +101,7 @@ Rusty Heat Blaster           |      |          |           | -             | -  
 Sacrifice Cannon             |      | -        |           | -             | -        |
 Scrapped Energy Blaster      |      |          | -         | -             | -        |
 SeraphBlade                  |      |          | -         | -             | -        |
-Shadow Wolf                  |      |          | -         | -             |          |
+Shadow Wolf                  |      |          |           | -             |          |
 Sorrow                       |      |          |           | -             | -        |
 StormWeaver                  |      |          |           | -             | -        |
 Sweetie                      |      |          |           | -             | -        |
@@ -148,5 +148,5 @@ Quad Core Booster            |      |          | -         | -             |    
 Flaming Grappling Hook       |      |          |           | -             |          |
 Platinum Grappling Hook      |      |          |           | -             | -        |
 Shocking Grappling Hook      |      |          |           | -             | -        |
-Superb Charge Engine         |      |          | -         | -             |          |
+Superb Charge Engine         |      |          |           | -             |          |
 ----------------------------------------------------------------------------------------------------
