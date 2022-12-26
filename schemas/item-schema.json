@@ -103,12 +103,8 @@
             "description": "An attachment point",
             "type": "object",
             "properties": {
-                "x": {
-                    "type": "integer"
-                },
-                "y": {
-                    "type": "integer"
-                }
+                "x": { "type": "integer" },
+                "y": { "type": "integer" }
             },
             "required": ["x", "y"]
         }

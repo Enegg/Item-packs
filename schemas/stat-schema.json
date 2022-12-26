@@ -139,7 +139,9 @@
         },
         "damageRange": {
             "type": "array",
-            "items": { "$ref": "#/$defs/positiveIntegerOrNull" }
+            "items": { "$ref": "#/$defs/positiveIntegerOrNull" },
+            "minItems": 2,
+            "maxItems": 2
         }
     }
 }
