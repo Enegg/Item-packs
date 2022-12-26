@@ -209,9 +209,9 @@
 				"heaCol": 55
 			},
 			"max_legendary": {
-				"health": null,
-				"eneCap": null,
-				"heaCap": null
+				"health": 1125,
+				"eneCap": 175,
+				"heaCap": 175
 			},
 			"mythical": {
 				"health": 1214,

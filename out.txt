@@ -6,7 +6,6 @@ Energy Battery Armor         |      |          | -         | -             | -  
 Flame Battery Armor          |      |          |           |               | -        |
 Fractured Heat Armor         |      |          | -         | -             |          |
 Hardened Platinum Vest       |      |          |           |               | -        |
-Hollow Spectral Armor        |      |          |           | -             |          |
 Interceptor                  | -    | -        | -         |               |          |
 Nightmare                    |      |          | -         | -             | -        |
 Sith                         |      |          | -         | -             | -        | -
