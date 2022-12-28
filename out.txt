@@ -7,9 +7,9 @@ Flame Battery Armor          |      |          |           |               | -  
 Fractured Heat Armor         |      |          | -         | -             |          |
 Hardened Platinum Vest       |      |          |           |               | -        |
 Interceptor                  | -    | -        | -         |               |          |
-Nightmare                    |      |          | -         | -             | -        |
-Sith                         |      |          | -         | -             | -        | -
-Windigo                      |      |          |           |               | -        | -
+Nightmare                    |      |          | -         | -             |          |
+Sith                         |      |          |           | -             | -        | -
+Windigo                      |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Charged Walkers              |      | -        | -         | -             | -        |
 Devouring Paws               |      |          |           |               | -        |
@@ -25,7 +25,7 @@ Sparked Runners              |      |          |           | -             |    
 The Claw                     |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Anguish                      |      |          |           | -             |          | -
-Backstabber                  |      |          | -         | -             |          |
+Backstabber                  |      |          |           | -             |          |
 Backstabbing Guardian        |      |          |           | -             | -        |
 Backstabbing Protector       |      | -        |           | -             | -        |
 DustMaker                    |      |          |           | -             |          |
@@ -42,7 +42,7 @@ Selfish Protector            |      | -        |           | -             | -  
 Snack                        |      |          |           | -             | -        |
 Solar Torch                  |      |          |           | -             |          |
 Swoop                        |      |          | -         | -             |          |
-Tonto                        | -    | -        |           | -             |          |
+Tonto                        |      | -        |           | -             |          |
 Torment                      |      |          |           | -             | -        |
 Unreliable Guardian          |      |          |           | -             | -        |
 Unreliable Protector         |      | -        |           | -             |          |
@@ -58,13 +58,13 @@ BigDaddy                     |      |          | -         | -             | -  
 Blizzard Dissolver           |      | -        | -         | -             |          |
 BloodWeep                    |      |          |           | -             |          |
 BrightRoar                   |      |          | -         | -             |          |
-Broken Blizzard Annihilator  |      |          | -         | -             |          | -
-Broken Blizzard Dissolver    |      |          |           | -             | -        | -
+Broken Blizzard Annihilator  |      |          | -         | -             |          |
+Broken Blizzard Dissolver    |      |          |           |               |          | -
 Broken Devourer              |      | -        | -         |               |          |
 BullDog                      |      |          |           | -             |          |
 Chaos Bringer                |      |          |           | -             | -        |
 Cracked Plasma Cannon        |      | -        | -         | -             |          |
-Damaged Armor Dissolver      | -    | -        | -         | -             |          |
+Damaged Armor Dissolver      |      | -        | -         | -             |          |
 Dark Eagle                   |      |          |           | -             | -        |
 DawnBlaze                    |      | -        |           | -             |          |
 Disintegration               |      |          |           | -             | -        |
@@ -76,6 +76,7 @@ Evac Spark                   |      |          |           | -             |    
 Explosive Retreat            |      |          |           | -             |          |
 Flaming Hammer               |      | -        |           |               | -        |
 Fractured Basalt Annihilator |      |          | -         | -             | -        |
+Fractured Basalt Dissolver   | -    |          |           |               |          |
 Heat Bomb                    |      | -        |           |               |          |
 HeronMark                    |      |          | -         | -             |          |
 Hot Flash                    |      |          |           |               | -        |
@@ -121,7 +122,7 @@ Desolation                   |      |          |           |               | -  
 Electrocuted Scope           |      |          |           | -             | -        |
 Falcon                       |      |          | -         |               |          |
 Flaming Scope                |      |          |           | -             |          |
-Frantic Brute                |      |          |           | -             | -        | -
+Frantic Brute                |      |          |           | -             | -        |
 Frantic Lightning            |      |          |           | -             | -        | -
 Grim Cobra                   |      | -        |           | -             |          |
 Half Burnt Scope             |      |          |           | -             | -        |
@@ -139,13 +140,10 @@ SpineFall                    |      |          |           | -             | -  
 Valiant Sniper               |      |          | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
 Combined Storage Unit        |      |          |           |               | -        |
-Energy Fortress              |      |          | -         |               |          |
 Energy Storage Unit          |      |          |           |               | -        |
-Plasma Fortress              |      |          | -         |               |          |
-Quad Core Booster            |      |          | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
 Flaming Grappling Hook       |      |          |           | -             |          |
 Platinum Grappling Hook      |      |          |           | -             | -        |
-Shocking Grappling Hook      |      |          |           | -             | -        |
+Shocking Grappling Hook      |      |          |           | -             |          |
 Superb Charge Engine         |      |          |           | -             |          |
 ----------------------------------------------------------------------------------------------------
