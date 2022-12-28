@@ -47,7 +47,7 @@ Torment                      |      |          |           | -             | -  
 Unreliable Guardian          |      |          |           | -             | -        |
 Unreliable Protector         |      | -        |           | -             |          |
 Void                         |      |          |           | -             | -        |
-WindForge                    |      |          |           | -             | -        |
+WindForge                    |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Abomination                  |      |          |           | -             | -        |
 Advanced Repulser            |      |          | -         | -             | -        |
@@ -55,25 +55,25 @@ Annihilation                 |      |          |           | -             |    
 Ash Creator                  |      |          |           | -             |          |
 Basalt Polisher              |      |          | -         | -             | -        |
 BigDaddy                     |      |          | -         | -             | -        |
-Blizzard Dissolver           |      | -        | -         | -             | -        |
+Blizzard Dissolver           |      | -        | -         | -             |          |
 BloodWeep                    |      |          |           | -             |          |
 BrightRoar                   |      |          | -         | -             |          |
 Broken Blizzard Annihilator  |      |          | -         | -             |          | -
 Broken Blizzard Dissolver    |      |          |           | -             | -        | -
 Broken Devourer              |      | -        | -         |               |          |
 BullDog                      |      |          |           | -             |          |
-Chaos Bringer                |      |          | -         | -             | -        |
+Chaos Bringer                |      |          |           | -             | -        |
 Cracked Plasma Cannon        |      | -        | -         | -             |          |
 Damaged Armor Dissolver      | -    | -        | -         | -             |          |
 Dark Eagle                   |      |          |           | -             | -        |
 DawnBlaze                    |      | -        |           | -             |          |
 Disintegration               |      |          |           | -             | -        |
-Distance Controller          |      |          | -         | -             | -        |
+Distance Controller          |      |          |           | -             | -        |
 Distance Generator           |      |          |           | -             | -        |
 Drunk Lightning              |      | -        | -         | -             | -        |
 Ejection Blast               |      |          | -         | -             | -        |
 Evac Spark                   |      |          |           | -             |          |
-Explosive Retreat            |      |          | -         | -             |          |
+Explosive Retreat            |      |          |           | -             |          |
 Flaming Hammer               |      | -        |           |               | -        |
 Fractured Basalt Annihilator |      |          | -         | -             | -        |
 Heat Bomb                    |      | -        |           |               |          |
@@ -83,11 +83,11 @@ Hybrid Energy Cannon         |      |          |           | -             | -  
 Hybrid Heat Cannon           |      |          | -         | -             |          |
 Last Resort Vulcan           |      |          |           | -             | -        |
 Last Words                   |      |          |           | -             | -        |
-Lightning Cutter             |      |          | -         | -             |          |
+Lightning Cutter             |      |          |           | -             |          |
 Malfunctioning Blaster       |      |          |           | -             | -        |
 Mercy                        |      |          |           | -             | -        |
 Misguided Rocket Battery     |      |          | -         | -             | -        |
-Mortal Bullet                |      |          | -         | -             | -        |
+Mortal Bullet                |      |          |           | -             | -        |
 Obsolete Energy Cannon       |      | -        |           | -             | -        |
 Overcharged Rocket Battery   |      |          | -         |               |          |
 Overcooking Oven             |      |          | -         | -             | -        |
@@ -100,7 +100,7 @@ Rock Recoiler                |      | -        |           | -             | -  
 Rusty Heat Blaster           |      |          |           | -             | -        |
 Sacrifice Cannon             |      | -        |           | -             | -        |
 Scrapped Energy Blaster      |      |          | -         | -             | -        |
-SeraphBlade                  |      |          | -         | -             | -        |
+SeraphBlade                  |      |          |           | -             | -        |
 Shadow Wolf                  |      |          |           | -             |          |
 Sorrow                       |      |          |           | -             | -        |
 StormWeaver                  |      |          |           | -             | -        |
@@ -130,9 +130,9 @@ Iron Frenzy                  |      |          |           | -             | -  
 Lazy Falcon                  |      |          |           | -             | -        |
 Lightning Scope              |      |          |           | -             |          |
 Night Eagle                  |      | -        |           | -             | -        |
-Overloaded EMP               |      |          | -         | -             | -        |
+Overloaded EMP               |      |          |           | -             | -        |
 Reckless Beam                |      | -        | -         | -             | -        |
-Red Rain                     |      |          | -         | -             |          |
+Red Rain                     |      |          |           | -             |          |
 Space Invader                |      |          | -         | -             | -        |
 Spartan Carnage              |      |          |           | -             | -        |
 SpineFall                    |      |          |           | -             | -        |
@@ -142,7 +142,6 @@ Combined Storage Unit        |      |          |           |               | -  
 Energy Fortress              |      |          | -         |               |          |
 Energy Storage Unit          |      |          |           |               | -        |
 Plasma Fortress              |      |          | -         |               |          |
-Platinum Fortress            |      |          | -         |               |          |
 Quad Core Booster            |      |          | -         | -             |          |
 ----------------------------------------------------------------------------------------------------
 Flaming Grappling Hook       |      |          |           | -             |          |
