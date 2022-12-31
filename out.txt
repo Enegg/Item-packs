@@ -7,7 +7,7 @@ Flame Battery Armor          |      |          |           |               | -  
 Fractured Heat Armor         |      |          | -         | -             |          |
 Hardened Platinum Vest       |      |          |           |               | -        |
 Interceptor                  | -    | -        | -         |               |          |
-Nightmare                    |      |          | -         | -             |          |
+Nightmare                    |      |          |           | -             |          |
 Sith                         |      |          |           | -             | -        | -
 Windigo                      |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Scorching Feet               |      | -        |           | -             | -  
 Sparked Runners              |      |          |           | -             |          |
 The Claw                     |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
-Anguish                      |      |          |           | -             |          | -
+Anguish                      |      |          |           | -             |          |
 Backstabber                  |      |          |           | -             |          |
 Backstabbing Guardian        |      |          |           | -             | -        |
 Backstabbing Protector       |      | -        |           | -             | -        |
@@ -50,14 +50,14 @@ Void                         |      |          |           | -             | -  
 WindForge                    |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Abomination                  |      |          |           | -             | -        |
-Advanced Repulser            |      |          | -         | -             | -        |
+Advanced Repulser            |      |          | -         |               | -        |
 Annihilation                 |      |          |           | -             |          |
 Ash Creator                  |      |          |           | -             |          |
 Basalt Polisher              |      |          | -         | -             | -        |
-BigDaddy                     |      |          | -         | -             | -        |
+BigDaddy                     |      |          |           | -             | -        |
 Blizzard Dissolver           |      | -        | -         | -             |          |
 BloodWeep                    |      |          |           | -             |          |
-BrightRoar                   |      |          | -         | -             |          |
+BrightRoar                   |      |          |           | -             |          |
 Broken Blizzard Annihilator  |      |          | -         | -             |          |
 Broken Blizzard Dissolver    |      |          |           |               |          | -
 Broken Devourer              |      | -        | -         |               |          |
@@ -91,7 +91,7 @@ Misguided Rocket Battery     |      |          | -         | -             | -  
 Mortal Bullet                |      |          |           | -             | -        |
 Obsolete Energy Cannon       |      | -        |           | -             | -        |
 Overcharged Rocket Battery   |      |          | -         |               |          |
-Overcooking Oven             |      |          | -         | -             | -        |
+Overcooking Oven             |      |          | -         | -             |          |
 Perimeter Protector          |      |          |           | -             |          |
 Piercing Fox                 |      |          | -         | -             | -        |
 Purifier                     |      |          |           | -             | -        |
@@ -137,7 +137,7 @@ Red Rain                     |      |          |           | -             |    
 Space Invader                |      |          | -         | -             | -        |
 Spartan Carnage              |      |          |           | -             | -        |
 SpineFall                    |      |          |           | -             | -        |
-Valiant Sniper               |      |          | -         | -             |          |
+Valiant Sniper               |      |          |           | -             |          |
 ----------------------------------------------------------------------------------------------------
 Combined Storage Unit        |      |          |           |               | -        |
 Energy Storage Unit          |      |          |           |               | -        |
