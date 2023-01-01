@@ -1,2 +1,2 @@
-﻿python count_missing_data.py
-python new.py
+﻿python scripts/count_missing_data.py
+python scripts/new.py
