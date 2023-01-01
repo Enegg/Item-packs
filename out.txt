@@ -134,7 +134,7 @@ Overloaded EMP               |      |          |           | -             | -  
 Reckless Beam                |      | -        | -         | -             | -        |
 Red Rain                     |      |          |           | -             |          |
 Space Invader                |      |          | -         | -             | -        |
-Spartan Carnage              |      |          |           | -             | -        |
+Spartan Carnage              |      |          |           | -             |          |
 SpineFall                    |      |          |           | -             | -        |
 Valiant Sniper               |      |          |           | -             |          |
 ----------------------------------------------------------------------------------------------------

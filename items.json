@@ -1140,7 +1140,7 @@
 				"phyDmg": [null, null]
 			},
 			"mythical": {
-				"phyDmg": [null, null],
+				"phyDmg": [172, 295],
 				"phyResDmg": 15,
 				"eneCost": 31,
 				"heaCost": 31

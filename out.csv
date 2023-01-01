@@ -176,7 +176,7 @@ Reckless Beam,TOP_WEAPON,PHYSICAL,?,?,?,?,+,-,-,-,-,+,+
 Red Rain,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Savagery,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Space Invader,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,-,+,+
-Spartan Carnage,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Spartan Carnage,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 SpineFall,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
 Supreme Cannon,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Valiant Sniper,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
