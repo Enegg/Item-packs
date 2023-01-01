@@ -714,10 +714,10 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 18,
-				"phyDmg": [null, null],
+				"phyDmg": [37, 48],
 				"push": 4,
 				"range": [2, 4],
-				"heaCost": null,
+				"heaCost": 39,
 				"uses": 2
 			},
 			"max_legendary": {
@@ -5394,15 +5394,15 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 64,
-				"eleDmg": [null, null],
-				"eneDmg": null,
-				"eleResDmg": null,
+				"eleDmg": [75, 188],
+				"eneDmg": 35,
+				"eleResDmg": 6,
 				"range": [2, 4],
 				"push": 1,
 				"recoil": 1,
 				"uses": 3,
-				"eneCost": null,
-				"heaCost": null
+				"eneCost": 36,
+				"heaCost": 16
 			},
 			"max_legendary": {
 				"eleDmg": [null, null],
@@ -6415,7 +6415,7 @@
 				"phyDmg": [null, null]
 			},
 			"mythical": {
-				"phyDmg": [null, null],
+				"phyDmg": [164, 289],
 				"phyResDmg": 8,
 				"backfire": 130,
 				"eneCost": 16,
@@ -6932,13 +6932,13 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 42,
-				"eleDmg": [null, null],
-				"eneDmg": null,
-				"eleResDmg": null,
+				"eleDmg": [106, 168],
+				"eneDmg": 74,
+				"eleResDmg": 5,
 				"range": [3, 6],
 				"uses": 3,
-				"backfire": null,
-				"eneCost": null
+				"backfire": 118,
+				"eneCost": 90
 			},
 			"max_legendary": {
 				"eleDmg": [null, null],
@@ -7180,15 +7180,15 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 63,
-				"expDmg": [null, null],
-				"heaDmg": null,
-				"expResDmg": null,
+				"expDmg": [96, 188],
+				"heaDmg": 56,
+				"expResDmg": 9,
 				"range": [4, 8],
 				"push": 1,
 				"retreat": 1,
 				"uses": 3,
-				"backfire": null,
-				"heaCost": null
+				"backfire": 123,
+				"heaCost": 47
 			},
 			"max_legendary": {
 				"expDmg": [null, null],
@@ -7444,12 +7444,12 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 45,
-				"expDmg": [null, null],
-				"heaDmg": null,
-				"expResDmg": null,
+				"expDmg": [92, 181],
+				"heaDmg": 45,
+				"expResDmg": 6,
 				"range": [1, 2],
-				"backfire": null,
-				"heaCost": null
+				"backfire": 98,
+				"heaCost": 39
 			},
 			"max_legendary": {
 				"expDmg": [null, null],
@@ -7955,7 +7955,7 @@
 				"phyDmg": [null, null]
 			},
 			"legendary": {
-				"phyDmg": [null, null],
+				"phyDmg": [44, 77],
 				"phyResDmg": 30,
 				"backfire": 123
 			},

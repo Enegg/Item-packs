@@ -36,7 +36,7 @@ Greedy                       |      |          |           | -             | -  
 HurlBat                      |      |          |           | -             | -        |
 Murmur                       |      |          |           |               | -        |
 Nemo                         |      | -        |           |               | -        |
-Selfish Guardian             |      |          |           | -             | -        |
+Selfish Guardian             |      |          |           | -             |          |
 Selfish Protector            |      | -        |           | -             | -        |
 Snack                        |      |          |           | -             | -        |
 Solar Torch                  |      |          |           | -             |          |
@@ -49,10 +49,10 @@ Void                         |      |          |           | -             | -  
 WindForge                    |      |          |           |               | -        |
 ----------------------------------------------------------------------------------------------------
 Abomination                  |      |          |           | -             | -        |
-Advanced Repulser            |      |          | -         |               | -        |
+Advanced Repulser            |      |          |           |               | -        |
 Annihilation                 |      |          |           | -             |          |
 Ash Creator                  |      |          |           | -             |          |
-Basalt Polisher              |      |          | -         | -             | -        |
+Basalt Polisher              |      |          |           | -             | -        |
 BigDaddy                     |      |          |           | -             | -        |
 Blizzard Dissolver           |      | -        | -         | -             |          |
 BloodWeep                    |      |          |           | -             |          |
@@ -63,7 +63,7 @@ Broken Devourer              |      | -        | -         |               |    
 BullDog                      |      |          |           | -             |          |
 Chaos Bringer                |      |          |           | -             | -        |
 Cracked Plasma Cannon        |      | -        | -         | -             |          |
-Damaged Armor Dissolver      |      | -        | -         | -             |          |
+Damaged Armor Dissolver      |      | -        |           | -             |          |
 Dark Eagle                   |      |          |           | -             | -        |
 DawnBlaze                    |      | -        |           | -             |          |
 Disintegration               |      |          |           | -             | -        |
@@ -86,20 +86,20 @@ Last Words                   |      |          |           | -             | -  
 Lightning Cutter             |      |          |           | -             |          |
 Malfunctioning Blaster       |      |          |           | -             | -        |
 Mercy                        |      |          |           | -             | -        |
-Misguided Rocket Battery     |      |          | -         | -             | -        |
+Misguided Rocket Battery     |      |          |           | -             | -        |
 Mortal Bullet                |      |          |           | -             | -        |
 Obsolete Energy Cannon       |      | -        |           | -             | -        |
 Overcharged Rocket Battery   |      |          | -         |               |          |
 Overcooking Oven             |      |          | -         | -             |          |
 Perimeter Protector          |      |          |           | -             |          |
-Piercing Fox                 |      |          | -         | -             | -        |
+Piercing Fox                 |      |          |           | -             | -        |
 Purifier                     |      |          |           | -             | -        |
 Reckoning                    |      |          |           | -             | -        |
 Rock Polisher                |      |          | -         | -             |          |
 Rock Recoiler                |      | -        |           | -             | -        |
 Rusty Heat Blaster           |      |          |           | -             | -        |
 Sacrifice Cannon             |      | -        |           | -             | -        |
-Scrapped Energy Blaster      |      |          | -         | -             | -        |
+Scrapped Energy Blaster      |      |          |           | -             | -        |
 SeraphBlade                  |      |          |           | -             | -        |
 Shadow Wolf                  |      |          |           | -             |          |
 Sorrow                       |      |          |           | -             | -        |
