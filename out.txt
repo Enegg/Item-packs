@@ -3,7 +3,6 @@ item name                    | epic | max_epic | legendary | max_legendary | myt
 Avenger                      |      |          |           |               | -        |
 Battery Armor                |      |          |           |               | -        |
 Energy Battery Armor         |      |          | -         | -             | -        |
-Flame Battery Armor          |      |          |           |               | -        |
 Fractured Heat Armor         |      |          | -         | -             |          |
 Hardened Platinum Vest       |      |          |           |               | -        |
 Interceptor                  | -    | -        | -         |               |          |

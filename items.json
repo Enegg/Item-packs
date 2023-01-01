@@ -2207,10 +2207,10 @@
 				"heaCap": 290
 			},
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 803,
+				"eneCap": 221,
 				"eneReg": 24,
-				"heaCap": null,
+				"heaCap": 306,
 				"heaCol": 24,
 				"phyRes": 14,
 				"expRes": 14,
