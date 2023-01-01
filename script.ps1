@@ -1,2 +1,2 @@
-﻿python scripts/count_missing_data.py
-python scripts/new.py
+﻿python scripts/create_txt.py
+python scripts/create_csv.py
