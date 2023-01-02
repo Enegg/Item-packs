@@ -39,7 +39,6 @@ Torment                      |          |           | -             | -        |
 Unreliable Guardian          |          |           | -             | -        |
 Unreliable Protector         | -        |           | -             |          |
 Void                         |          |           | -             | -        |
-WindForge                    |          |           |               | -        |
 ---------------------------------------------------------------------------------------------
 Abomination                  |          |           | -             | -        |
 Annihilation                 |          |           | -             |          |

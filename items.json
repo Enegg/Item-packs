@@ -5885,8 +5885,8 @@
 				"eneDmg": 44
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [42, 68],
+				"eneDmg": 58,
 				"eleResDmg": 5,
 				"eneCost": 31
 			},

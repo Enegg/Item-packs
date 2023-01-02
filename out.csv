@@ -66,7 +66,7 @@ Torment,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unreliable Guardian,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
 Unreliable Protector,DRONE,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
 Void,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,-,+,+
-WindForge,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,-,+,+
+WindForge,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Abomination,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Advanced Repulser,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Annihilation,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
