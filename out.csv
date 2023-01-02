@@ -133,7 +133,7 @@ Rock Polisher,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
 Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
-Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+

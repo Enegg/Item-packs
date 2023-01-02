@@ -6941,12 +6941,12 @@
 				"eneCost": 90
 			},
 			"max_legendary": {
-				"eleDmg": [null, 225],
+				"eleDmg": [142, 225],
 				"eneDmg": 100
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [159, 256],
+				"eneDmg": 108,
 				"eleResDmg": 7,
 				"backfire": 173,
 				"eneCost": 143

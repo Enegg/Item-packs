@@ -87,7 +87,6 @@ Rock Polisher                |          |           | -             |          |
 Rock Recoiler                | -        |           | -             | -        |
 Rusty Heat Blaster           |          |           | -             |          |
 Sacrifice Cannon             | -        |           | -             | -        |
-Scrapped Energy Blaster      |          |           | -             | -        |
 SeraphBlade                  |          |           | -             | -        |
 Shadow Wolf                  |          |           | -             |          |
 StormWeaver                  |          |           | -             |          |
