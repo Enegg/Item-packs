@@ -7396,8 +7396,8 @@
 				"heaCap": 81
 			},
 			"mythical": {
-				"eneCap": null,
-				"heaCap": null
+				"eneCap": 85,
+				"heaCap": 85
 			},
 			"max_mythical": {
 				"eneCap": 121,

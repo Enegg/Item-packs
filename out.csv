@@ -182,7 +182,7 @@ Supreme Cannon,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Valiant Sniper,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Vandal Rage,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Combined Engine Unit,MODULE,COMBINED,?,?,?,?,?,?,+,+,+,+,+
-Combined Storage Unit,MODULE,COMBINED,?,?,?,?,+,+,+,+,-,+,+
+Combined Storage Unit,MODULE,COMBINED,?,?,?,?,+,+,+,+,+,+,+
 Cooling Mass Booster,MODULE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Defence Matrix,MODULE,COMBINED,?,?,?,?,?,?,+,+,+,+,+
 Energy Engine,MODULE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
