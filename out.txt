@@ -2,7 +2,7 @@ item name                    | max_epic | legendary | max_legendary | mythical |
 ---------------------------------------------------------------------------------------------
 Avenger                      |          |           |               | -        |
 Battery Armor                |          |           |               | -        |
-Energy Battery Armor         |          | -         | -             | -        |
+Energy Battery Armor         |          |           | -             | -        |
 Hardened Platinum Vest       |          |           |               | -        |
 Interceptor                  | -        | -         |               |          |
 Nightmare                    |          |           | -             |          |
@@ -10,13 +10,11 @@ Sith                         |          |           | -             | -        |
 Windigo                      |          |           |               | -        |
 ---------------------------------------------------------------------------------------------
 Charged Walkers              | -        | -         | -             | -        |
-Devouring Paws               |          |           |               | -        |
 Dynamic Stompers             |          |           |               | -        |
 Grave Diggers                |          |           | -             |          |
 Iron Boots                   |          | -         |               | -        |
 Recoil Stompers              |          |           | -             | -        |
 Scorching Feet               | -        |           |               |          |
-Sparked Runners              |          |           | -             |          |
 ---------------------------------------------------------------------------------------------
 Anguish                      |          |           | -             |          |
 Backstabber                  |          |           | -             |          |
@@ -27,7 +25,6 @@ Electrolyte                  |          |           | -             | -        |
 Face Shocker                 |          |           | -             | -        |
 Flame Spear                  |          |           | -             |          |
 Greedy                       |          |           | -             | -        |
-HurlBat                      |          |           | -             | -        |
 Murmur                       |          |           |               | -        |
 Nemo                         | -        |           |               | -        |
 Selfish Guardian             |          |           | -             |          |
@@ -41,12 +38,10 @@ Unreliable Protector         | -        |           | -             |          |
 Void                         |          |           | -             | -        |
 ---------------------------------------------------------------------------------------------
 Abomination                  |          |           | -             | -        |
-Annihilation                 |          |           | -             |          |
 Ash Creator                  |          |           | -             |          |
 Basalt Polisher              |          |           | -             | -        |
 Blizzard Dissolver           | -        |           | -             |          |
 BloodWeep                    |          |           | -             |          |
-BrightRoar                   |          |           | -             |          |
 Broken Blizzard Annihilator  |          | -         | -             |          |
 Broken Blizzard Dissolver    |          |           |               |          | -
 Broken Devourer              | -        | -         |               |          |
@@ -96,25 +91,20 @@ TerrorBlade                  |          |           | -             | -        |
 UltraBright                  |          |           | -             | -        |
 Unrepaired Laser Cannon      | -        |           | -             | -        |
 Unstable Power Cell          |          |           | -             |          |
-Viking Hammer                | -        |           | -             | -        |
+Viking Hammer                | -        |           |               |          |
 War Hammer                   | -        |           | -             |          |
 ---------------------------------------------------------------------------------------------
 Cockpit Burner               |          |           | -             | -        |
 Cockpit Piercer              |          |           | -             | -        |
-Delerium                     |          |           | -             | -        |
-Desert Snake                 |          |           | -             |          |
 Desolation                   |          |           |               | -        |
 Electrocuted Scope           |          |           | -             | -        |
 Falcon                       |          | -         |               |          |
-Flaming Scope                |          |           | -             |          |
 Frantic Brute                |          |           | -             | -        |
 Frantic Lightning            |          |           | -             | -        | -
-Grim Cobra                   | -        |           | -             |          |
+Grim Cobra                   |          |           | -             |          |
 Half Burnt Scope             |          |           | -             | -        |
-Hysteria                     |          |           | -             | -        |
 Iron Frenzy                  |          |           | -             | -        |
 Lazy Falcon                  |          |           | -             | -        |
-Lightning Scope              |          |           | -             |          |
 Night Eagle                  |          |           | -             | -        |
 Overloaded EMP               |          |           | -             | -        |
 Reckless Beam                |          |           | -             | -        |
