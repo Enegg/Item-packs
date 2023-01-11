@@ -5,7 +5,7 @@ Battery Armor                |          |           |               | -        |
 Energy Battery Armor         |          |           | -             | -        |
 Interceptor                  | -        | -         |               |          |
 Nightmare                    |          |           | -             |          |
-Sith                         |          |           | -             | -        | -
+Sith                         |          |           | -             | -        |
 ---------------------------------------------------------------------------------------------
 Charged Walkers              | -        | -         | -             | -        |
 Dynamic Stompers             |          |           |               | -        |
@@ -41,7 +41,6 @@ Basalt Polisher              |          |           | -             |          |
 Blizzard Dissolver           | -        |           | -             |          |
 BloodWeep                    |          |           | -             |          |
 Broken Blizzard Annihilator  |          | -         | -             |          |
-Broken Blizzard Dissolver    |          |           |               |          | -
 Broken Devourer              | -        | -         |               |          |
 BullDog                      |          |           | -             |          |
 Cracked Plasma Cannon        | -        |           | -             |          |

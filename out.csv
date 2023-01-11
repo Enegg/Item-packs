@@ -20,7 +20,7 @@ Nightmare,TORSO,EXPLOSIVE,+,+,+,+,+,+,+,-,+,+,+
 Rusty Cyber Armor,TORSO,ELECTRIC,?,?,?,?,?,?,?,?,+,+,+
 Rusty Energy Armor,TORSO,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Sabretooth,TORSO,EXPLOSIVE,?,?,?,?,?,?,?,?,+,+,+
-Sith,TORSO,ELECTRIC,+,+,+,+,+,+,+,-,-,-,+
+Sith,TORSO,ELECTRIC,+,+,+,+,+,+,+,-,-,+,+
 Windigo,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Zarkares,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Charged Walkers,LEGS,ELECTRIC,+,+,+,+,+,-,-,-,-,+,+
@@ -80,7 +80,7 @@ Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
 BloodWeep,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 BrightRoar,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
-Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,-,+
+Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,-,+,+,+,+
 BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
