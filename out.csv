@@ -189,7 +189,7 @@ Energy Engine,MODULE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Energy Fortress,MODULE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Energy Mass Booster,MODULE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Energy Protector,MODULE,ELECTRIC,?,?,+,+,+,+,?,?,?,?,?
-Energy Storage Unit,MODULE,ELECTRIC,?,?,?,?,?,?,+,+,-,+,+
+Energy Storage Unit,MODULE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Heat Engine,MODULE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Heat Protector,MODULE,EXPLOSIVE,?,?,+,+,+,+,?,?,?,?,?
 Heat Storage Unit,MODULE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
