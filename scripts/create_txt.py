@@ -73,7 +73,9 @@ for type_list in items_with_missing_tiers_ordered_by_type:
             for tier, exists in compress(zip(TIER_KEYS, selectors), column_exists)
         ).rstrip()
         lines.append(string)
-    lines.append(spacer)
+
+    if type_list:
+        lines.append(spacer)
 
 
 def join_dict(mapping: t.Mapping[t.Any, t.Any]) -> str:
