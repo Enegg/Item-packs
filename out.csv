@@ -92,9 +92,9 @@ Damaged Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
 Dark Eagle,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 DawnBlaze,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,-,+,+,+
-Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Distance Controller,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
-Distance Generator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Distance Generator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Drunk Lightning,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
 EMP,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Ejection Blast,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
@@ -107,15 +107,15 @@ Fractured Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Heat Bomb,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
 HeronMark,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Hot Flash,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
-Hybrid Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Hybrid Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Hybrid Heat Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
-Last Resort Vulcan,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
-Last Words,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Last Resort Vulcan,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Last Words,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Lightning Cutter,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Lightning Recoiler,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Magma Blast,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Magma Recoiler,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
@@ -123,9 +123,9 @@ Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
 NightFall,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
 Overcharged Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
-Overcooking Oven,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Overcooking Oven,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Perimeter Protector,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Piercing Fox,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Piercing Fox,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Purifier,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Reckoning,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Repulser,SIDE_WEAPON,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
@@ -139,7 +139,7 @@ Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 StormWeaver,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
-Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,-,+,+
+Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
@@ -156,12 +156,12 @@ Desert Snake,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Desolation,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Distance Shredder,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Electrocuted Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
-Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,-,+,+,+,+
+Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Flaming Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Frantic Brute,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Frantic Flame,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,-,+
-Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,+,+,+
+Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Hysteria,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
@@ -177,7 +177,7 @@ Red Rain,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Savagery,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Space Invader,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Spartan Carnage,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-SpineFall,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+SpineFall,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Supreme Cannon,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Valiant Sniper,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Vandal Rage,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+

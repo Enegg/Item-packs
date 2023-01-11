@@ -47,9 +47,8 @@ Cracked Plasma Cannon        | -        |           | -             |          |
 Damaged Armor Dissolver      | -        |           | -             |          |
 Dark Eagle                   |          |           | -             |          |
 DawnBlaze                    | -        |           | -             |          |
-Disintegration               |          |           | -             | -        |
+Disintegration               |          |           | -             |          |
 Distance Controller          |          |           | -             | -        |
-Distance Generator           |          |           | -             | -        |
 Drunk Lightning              | -        |           | -             |          |
 Evac Spark                   |          |           | -             |          |
 Explosive Retreat            |          |           | -             |          |
@@ -57,18 +56,17 @@ Flaming Hammer               | -        |           |               |          |
 Fractured Basalt Annihilator |          | -         | -             |          |
 Heat Bomb                    | -        |           |               |          |
 HeronMark                    |          |           | -             |          |
-Hybrid Energy Cannon         |          |           | -             | -        |
+Hybrid Energy Cannon         |          |           | -             |          |
 Hybrid Heat Cannon           |          |           | -             |          |
-Last Resort Vulcan           |          |           | -             | -        |
-Last Words                   |          |           | -             | -        |
-Malfunctioning Blaster       |          |           | -             | -        |
+Last Resort Vulcan           |          |           | -             |          |
+Malfunctioning Blaster       |          |           | -             |          |
 Mercy                        |          |           | -             |          |
 Misguided Rocket Battery     |          |           | -             | -        |
 Mortal Bullet                |          |           | -             | -        |
 Obsolete Energy Cannon       | -        |           | -             |          |
-Overcooking Oven             |          | -         | -             |          |
+Overcooking Oven             |          |           | -             |          |
 Perimeter Protector          |          |           | -             |          |
-Piercing Fox                 |          |           | -             | -        |
+Piercing Fox                 |          |           | -             |          |
 Purifier                     |          |           | -             | -        |
 Reckoning                    |          |           | -             |          |
 Rock Polisher                |          |           | -             |          |
@@ -79,7 +77,7 @@ SeraphBlade                  |          |           | -             |          |
 Shadow Wolf                  |          |           | -             |          |
 StormWeaver                  |          |           | -             |          |
 Sweetie                      |          |           | -             | -        |
-Terror Cry                   | -        |           |               | -        |
+Terror Cry                   | -        |           |               |          |
 TerrorBlade                  |          |           | -             |          |
 UltraBright                  |          |           | -             | -        |
 Unrepaired Laser Cannon      | -        |           | -             | -        |
@@ -89,10 +87,8 @@ War Hammer                   | -        |           | -             |          |
 ---------------------------------------------------------------------------------------------
 Cockpit Burner               |          |           | -             |          |
 Electrocuted Scope           |          |           | -             | -        |
-Falcon                       |          | -         |               |          |
 Frantic Brute                |          |           | -             |          |
 Frantic Lightning            |          |           | -             | -        | -
-Grim Cobra                   |          |           | -             |          |
 Half Burnt Scope             |          |           | -             | -        |
 Iron Frenzy                  |          |           | -             | -        |
 Lazy Falcon                  |          |           | -             | -        |
@@ -101,7 +97,6 @@ Overloaded EMP               |          |           | -             |          |
 Reckless Beam                |          |           | -             | -        |
 Red Rain                     |          |           | -             |          |
 Space Invader                |          |           | -             |          |
-SpineFall                    |          |           | -             | -        |
 ---------------------------------------------------------------------------------------------
 Flaming Grappling Hook       |          |           | -             |          |
 Superb Charge Engine         |          |           | -             |          |
