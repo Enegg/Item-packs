@@ -41,7 +41,7 @@ Basalt Polisher              |          |           | -             |          |
 Blizzard Dissolver           | -        |           | -             |          |
 BloodWeep                    |          |           | -             |          |
 Broken Blizzard Annihilator  |          | -         | -             |          |
-Broken Devourer              | -        | -         |               |          |
+Broken Devourer              | -        |           |               |          |
 BullDog                      |          |           | -             |          |
 Cracked Plasma Cannon        | -        |           | -             |          |
 Damaged Armor Dissolver      | -        |           | -             |          |
@@ -98,6 +98,5 @@ Reckless Beam                |          |           | -             | -        |
 Red Rain                     |          |           | -             |          |
 Space Invader                |          |           | -             |          |
 ---------------------------------------------------------------------------------------------
-Flaming Grappling Hook       |          |           | -             |          |
 Superb Charge Engine         |          |           | -             |          |
 ---------------------------------------------------------------------------------------------

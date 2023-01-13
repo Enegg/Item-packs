@@ -81,7 +81,7 @@ BloodWeep,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 BrightRoar,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
 Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,-,+,+,+,+
+Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
 BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Chaos Bringer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -209,7 +209,7 @@ Advanced Teleporter,TELEPORTER,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Basic Teleporter,TELEPORTER,ELECTRIC,+,+,+,+,+,+,?,?,?,?,?
 Charge Engine,CHARGE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Double Teleporter,TELEPORTER,ELECTRIC,?,?,?,?,?,?,+,?,?,?,?
-Flaming Grappling Hook,HOOK,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Flaming Grappling Hook,HOOK,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Platinum Grappling Hook,HOOK,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Shocking Grappling Hook,HOOK,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Superb Charge Engine,CHARGE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
