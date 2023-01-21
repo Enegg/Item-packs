@@ -1,6 +1,6 @@
 name,type,element,common,max_common,rare,max_rare,epic,max_epic,legendary,max_legendary,mythical,max_mythical,divine
 Archimonde,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Avenger,TORSO,PHYSICAL,?,?,?,?,+,+,+,+,-,+,+
+Avenger,TORSO,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Battery Armor,TORSO,PHYSICAL,?,?,?,?,+,+,+,+,-,+,+
 Brutality,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Energy Battery Armor,TORSO,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
@@ -23,19 +23,19 @@ Sabretooth,TORSO,EXPLOSIVE,?,?,?,?,?,?,?,?,+,+,+
 Sith,TORSO,ELECTRIC,+,+,+,+,+,+,+,-,-,+,+
 Windigo,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Zarkares,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Charged Walkers,LEGS,ELECTRIC,+,+,+,+,+,-,-,-,-,+,+
+Charged Walkers,LEGS,ELECTRIC,+,+,+,+,+,+,+,+,+,+,+
 Devouring Paws,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Dynamic Stompers,LEGS,ELECTRIC,?,?,+,+,+,+,+,+,-,+,+
 Dynamite Boots,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Grave Diggers,LEGS,PHYSICAL,?,?,+,+,+,+,+,-,+,+,+
-Iron Boots,LEGS,PHYSICAL,+,+,+,+,+,+,-,+,-,+,+
+Iron Boots,LEGS,PHYSICAL,+,+,+,+,+,+,-,+,+,+,+
 Lightning Supporters,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Massive Lava Feet,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Massive Shocker Feet,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Massive Stone Feet,LEGS,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Recoil Stompers,LEGS,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Rolling Beasts,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Scorching Feet,LEGS,EXPLOSIVE,+,+,+,+,+,-,+,+,+,+,+
+Scorching Feet,LEGS,EXPLOSIVE,+,+,+,+,+,+,+,+,+,+,+
 Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 The Claw,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
@@ -49,7 +49,7 @@ Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 FlameWave,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
-Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 HeatPoint,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 HurlBat,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+
@@ -102,13 +102,13 @@ Evac Spark,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Explosive Retreat,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Flaminator,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
 Flaming Hammer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
-Fractured Basalt Annihilator,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,-,-,+,+,+
+Fractured Basalt Annihilator,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Fractured Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Heat Bomb,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
 HeronMark,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Hot Flash,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
-Hybrid Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
-Hybrid Heat Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Hybrid Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
+Hybrid Heat Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Last Resort Vulcan,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Last Words,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Lightning Cutter,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
@@ -162,7 +162,7 @@ Frantic Brute,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Frantic Flame,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,-,+
 Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Hysteria,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Lazy Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+

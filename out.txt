@@ -1,18 +1,15 @@
 item name                    | max_epic | legendary | max_legendary | mythical | max_mythical
 ---------------------------------------------------------------------------------------------
-Avenger                      |          |           |               | -        |
 Battery Armor                |          |           |               | -        |
 Energy Battery Armor         |          |           | -             | -        |
 Interceptor                  | -        | -         |               |          |
 Nightmare                    |          |           | -             |          |
 Sith                         |          |           | -             | -        |
 ---------------------------------------------------------------------------------------------
-Charged Walkers              | -        | -         | -             | -        |
 Dynamic Stompers             |          |           |               | -        |
 Grave Diggers                |          |           | -             |          |
-Iron Boots                   |          | -         |               | -        |
+Iron Boots                   |          | -         |               |          |
 Recoil Stompers              |          |           | -             | -        |
-Scorching Feet               | -        |           |               |          |
 ---------------------------------------------------------------------------------------------
 Anguish                      |          |           | -             |          |
 Backstabber                  |          |           | -             |          |
@@ -22,7 +19,7 @@ DustMaker                    |          |           | -             |          |
 Electrolyte                  |          |           | -             | -        |
 Face Shocker                 |          |           | -             | -        |
 Flame Spear                  |          |           | -             |          |
-Greedy                       |          |           | -             | -        |
+Greedy                       |          |           | -             |          |
 Murmur                       |          |           |               | -        |
 Nemo                         | -        |           |               |          |
 Selfish Guardian             |          |           | -             |          |
@@ -53,11 +50,9 @@ Drunk Lightning              | -        |           | -             |          |
 Evac Spark                   |          |           | -             |          |
 Explosive Retreat            |          |           | -             |          |
 Flaming Hammer               | -        |           |               |          |
-Fractured Basalt Annihilator |          | -         | -             |          |
+Fractured Basalt Annihilator |          |           | -             |          |
 Heat Bomb                    | -        |           |               |          |
 HeronMark                    |          |           | -             |          |
-Hybrid Energy Cannon         |          |           | -             |          |
-Hybrid Heat Cannon           |          |           | -             |          |
 Last Resort Vulcan           |          |           | -             |          |
 Malfunctioning Blaster       |          |           | -             |          |
 Mercy                        |          |           | -             |          |
@@ -89,7 +84,7 @@ Cockpit Burner               |          |           | -             |          |
 Electrocuted Scope           |          |           | -             | -        |
 Frantic Brute                |          |           | -             |          |
 Frantic Lightning            |          |           | -             | -        | -
-Half Burnt Scope             |          |           | -             | -        |
+Half Burnt Scope             |          |           | -             |          |
 Iron Frenzy                  |          |           | -             | -        |
 Lazy Falcon                  |          |           | -             | -        |
 Night Eagle                  |          |           | -             |          |
