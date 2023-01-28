@@ -32,9 +32,18 @@ class ItemPack(t.TypedDict):
     items: list[ItemDict]
 
 
-TIERS = ("common", "rare", "epic", "legendary", "mythical", "divine")
-TIER_KEYS = tuple(
-    key for tier in TIERS for key in ((tier, "max_" + tier) if tier != "divine" else (tier,))
+TIER_KEYS = (
+    "common",
+    "max_common",
+    "rare",
+    "max_rare",
+    "epic",
+    "max_epic",
+    "legendary",
+    "max_legendary",
+    "mythical",
+    "max_mythical",
+    "divine",
 )
 TYPE_ORDER = {"TORSO": 0, "LEGS": 1, "DRONE": 2, "SIDE_WEAPON": 3, "TOP_WEAPON": 4, "MODULE": 5}
 
