@@ -3,14 +3,15 @@ import csv
 import io
 import typing as t
 
-from shared import Element, ItemPack, Name, StatDict, Type, TIER_KEYS, TYPE_ORDER
+from shared import (TIER_KEYS, TYPE_ORDER, Element, ItemDict, ItemPack, Name, StatDict, Type,
+                    load_json)
+from typing_extensions import Self
 
-State = t.Literal[0, 1, 2]
+State = t.Literal["?", "-", "+"]
 
-STATES = ("?", "-", "+")
-NotPresent = 0
-Missing = 1
-Complete = 2
+NotPresent = "?"
+Missing = "-"
+Complete = "+"
 
 
 class ItemTuple(t.NamedTuple):
@@ -23,15 +24,11 @@ class ItemTuple(t.NamedTuple):
         yield self.name
         yield self.type
         yield self.element
+        yield from self.state
 
-        for s in self.state:
-            yield STATES[s]
-
-
-def load_json(file: io.TextIOWrapper) -> t.Any:
-    import json
-
-    return json.load(file)
+    @classmethod
+    def from_dict(cls, item_dict: ItemDict, state: list[State]) -> Self:
+        return cls(item_dict["name"], item_dict["type"], item_dict["element"], state)
 
 
 def dump_to_csv(
@@ -75,8 +72,8 @@ def main() -> None:
 
         bisect.insort_right(
             output,
-            ItemTuple(item_dict["name"], item_dict["type"], item_dict["element"], state),
-            key=lambda t: (TYPE_ORDER.get(t.type, 6), t.name, t.element),
+            ItemTuple.from_dict(item_dict, state),
+            key=lambda t: (TYPE_ORDER.get(t.type, len(TYPE_ORDER)), t.name, t.element),
         )
 
     with open("out.csv", "w") as file:
