@@ -7911,15 +7911,15 @@
 			"transform_range": "L-D",
 			"legendary": {
 				"weight": 8,
-				"eleDmg": [null, null],
+				"eleDmg": [47, 74],
 				"eneDmg": null,
-				"eleResDmg": null,
+				"eleResDmg": 36,
 				"range": [2, 4],
 				"uses": 1,
-				"backfire": null
+				"backfire": 123
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
+				"eleDmg": [null, 100],
 				"eneDmg": null
 			},
 			"mythical": {
@@ -7934,7 +7934,7 @@
 			},
 			"divine": {
 				"eleDmg": [96, 155],
-				"eneDmg": 40
+				"eneDmg": null
 			}
 		},
 		{
