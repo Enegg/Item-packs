@@ -79,7 +79,7 @@ BigDaddy,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
 BloodWeep,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 BrightRoar,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
-Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,+
+Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,-,-,+,+,-
 Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
 BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
