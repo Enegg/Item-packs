@@ -13,7 +13,7 @@ Recoil Stompers              |          |           | -             | -        |
 ---------------------------------------------------------------------------------------------
 Anguish                      |          |           | -             |          |
 Backstabber                  |          |           | -             |          |
-Backstabbing Guardian        |          |           | -             | -        |
+Backstabbing Guardian        |          |           | -             |          |
 Backstabbing Protector       | -        |           | -             | -        |
 DustMaker                    |          |           | -             |          |
 Electrolyte                  |          |           | -             | -        |
@@ -23,7 +23,7 @@ Greedy                       |          |           | -             |          |
 Murmur                       |          |           |               | -        |
 Nemo                         | -        |           |               |          |
 Selfish Guardian             |          |           | -             |          |
-Selfish Protector            | -        |           | -             | -        |
+Selfish Protector            |          |           | -             | -        |
 Snack                        |          |           | -             | -        |
 Swoop                        |          |           | -             |          |
 Tonto                        | -        |           | -             |          |
@@ -49,7 +49,6 @@ Distance Controller          |          |           | -             | -        |
 Drunk Lightning              | -        |           | -             |          |
 Evac Spark                   |          |           | -             |          |
 Explosive Retreat            |          |           | -             |          |
-Flaming Hammer               | -        |           |               |          |
 Fractured Basalt Annihilator |          |           | -             |          |
 Heat Bomb                    | -        |           |               |          |
 HeronMark                    |          |           | -             |          |
@@ -72,7 +71,6 @@ SeraphBlade                  |          |           | -             |          |
 Shadow Wolf                  |          |           | -             |          |
 StormWeaver                  |          |           | -             |          |
 Sweetie                      |          |           | -             | -        |
-Terror Cry                   | -        |           |               |          |
 TerrorBlade                  |          |           | -             |          |
 UltraBright                  |          |           | -             | -        |
 Unrepaired Laser Cannon      | -        |           | -             | -        |

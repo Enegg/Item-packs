@@ -40,7 +40,7 @@ Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 The Claw,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Backstabber,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,-,-,+,+
 Clash,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
@@ -56,7 +56,7 @@ Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+
 Nemo,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
 Rail Gun,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Selfish Guardian,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Selfish Protector,DRONE,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Selfish Protector,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,-,+,+
 Shockwave,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Snack,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Solar Torch,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
@@ -101,7 +101,7 @@ Ejection Blast,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Evac Spark,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Explosive Retreat,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Flaminator,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
-Flaming Hammer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
+Flaming Hammer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Fractured Basalt Annihilator,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Fractured Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Heat Bomb,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
@@ -139,7 +139,7 @@ Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 StormWeaver,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
-Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
+Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
