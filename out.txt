@@ -1,93 +1,93 @@
-item name                    | max_epic | legendary | max_legendary | mythical | max_mythical | divine
-------------------------------------------------------------------------------------------------------
-Battery Armor                |          |           |               | -        |              |
-Energy Battery Armor         |          |           | -             | -        |              |
-Nightmare                    |          |           | -             |          |              |
-Sith                         |          |           | -             | -        |              |
-------------------------------------------------------------------------------------------------------
-Dynamic Stompers             |          |           |               | -        |              |
-Grave Diggers                |          |           | -             |          |              |
-Iron Boots                   |          | -         |               |          |              |
-Recoil Stompers              |          |           | -             | -        |              |
-------------------------------------------------------------------------------------------------------
-Anguish                      |          |           | -             |          |              |
-Backstabber                  |          |           | -             |          |              |
-Backstabbing Guardian        |          |           | -             |          |              |
-Backstabbing Protector       | -        |           | -             | -        |              |
-DustMaker                    |          |           | -             |          |              |
-Electrolyte                  |          |           | -             | -        |              |
-Face Shocker                 |          |           | -             | -        |              |
-Flame Spear                  |          |           | -             |          |              |
-Murmur                       |          |           |               | -        |              |
-Nemo                         | -        |           |               |          |              |
-Selfish Guardian             |          |           | -             |          |              |
-Selfish Protector            |          |           | -             | -        |              |
-Snack                        |          |           | -             | -        |              |
-Swoop                        |          |           | -             |          |              |
-Tonto                        | -        |           | -             |          |              |
-Torment                      |          |           | -             | -        |              |
-Unreliable Guardian          |          |           | -             |          |              |
-Unreliable Protector         | -        |           | -             |          |              |
-Void                         |          |           | -             |          |              |
-------------------------------------------------------------------------------------------------------
-Abomination                  |          |           | -             |          |              |
-Ash Creator                  |          |           | -             |          |              |
-Basalt Polisher              |          |           | -             |          |              |
-Blizzard Dissolver           | -        |           | -             |          |              |
-BloodWeep                    |          |           | -             |          |              |
-Broken Blizzard Annihilator  |          | -         | -             |          |              | -
-Broken Devourer              | -        |           |               |          |              |
-BullDog                      |          |           | -             |          |              |
-Cracked Plasma Cannon        | -        |           | -             |          |              |
-Damaged Armor Dissolver      | -        |           | -             |          |              |
-Dark Eagle                   |          |           | -             |          |              |
-DawnBlaze                    | -        |           | -             |          |              |
-Disintegration               |          |           | -             |          |              |
-Distance Controller          |          |           | -             | -        |              |
-Drunk Lightning              | -        |           | -             |          |              |
-Evac Spark                   |          |           | -             |          |              |
-Explosive Retreat            |          |           | -             |          |              |
-Fractured Basalt Annihilator |          |           | -             |          |              |
-Heat Bomb                    | -        |           |               |          |              |
-HeronMark                    |          |           | -             |          |              |
-Last Resort Vulcan           |          |           | -             |          |              |
-Malfunctioning Blaster       |          |           | -             |          |              |
-Mercy                        |          |           | -             |          |              |
-Misguided Rocket Battery     |          |           | -             | -        |              |
-Mortal Bullet                |          |           | -             | -        |              |
-Obsolete Energy Cannon       | -        |           | -             |          |              |
-Overcooking Oven             |          |           | -             |          |              |
-Perimeter Protector          |          |           | -             |          |              |
-Piercing Fox                 |          |           | -             |          |              |
-Purifier                     |          |           | -             | -        |              |
-Reckoning                    |          |           | -             |          |              |
-Rock Polisher                |          |           | -             |          |              |
-Rock Recoiler                | -        |           | -             |          |              |
-Rusty Heat Blaster           |          |           | -             |          |              |
-Sacrifice Cannon             | -        |           | -             |          |              |
-SeraphBlade                  |          |           | -             |          |              |
-Shadow Wolf                  |          |           | -             |          |              |
-StormWeaver                  |          |           | -             |          |              |
-Sweetie                      |          |           | -             | -        |              |
-TerrorBlade                  |          |           | -             |          |              |
-UltraBright                  |          |           | -             | -        |              |
-Unrepaired Laser Cannon      | -        |           | -             | -        |              |
-Unstable Power Cell          |          |           | -             |          |              |
-Viking Hammer                | -        |           |               |          |              |
-War Hammer                   | -        |           | -             |          |              |
-------------------------------------------------------------------------------------------------------
-Cockpit Burner               |          |           | -             |          |              |
-Electrocuted Scope           |          |           | -             | -        |              |
-Frantic Brute                |          |           | -             |          |              |
-Frantic Lightning            |          |           | -             | -        | -            |
-Half Burnt Scope             |          |           | -             |          |              |
-Iron Frenzy                  |          |           | -             | -        |              |
-Lazy Falcon                  |          |           | -             | -        |              |
-Night Eagle                  |          |           | -             |          |              |
-Overloaded EMP               |          |           | -             |          |              |
-Reckless Beam                |          |           | -             | -        |              |
-Red Rain                     |          |           | -             |          |              |
-Space Invader                |          |           | -             |          |              |
-------------------------------------------------------------------------------------------------------
-Superb Charge Engine         |          |           | -             |          |              |
-------------------------------------------------------------------------------------------------------
+item name                    | max_epic | legendary | max_legendary | mythical | max_mythical
+---------------------------------------------------------------------------------------------
+Battery Armor                |          |           |               | -        |
+Energy Battery Armor         |          |           | -             | -        |
+Nightmare                    |          |           | -             |          |
+Sith                         |          |           | -             | -        |
+---------------------------------------------------------------------------------------------
+Dynamic Stompers             |          |           |               | -        |
+Grave Diggers                |          |           | -             |          |
+Iron Boots                   |          | -         |               |          |
+Recoil Stompers              |          |           | -             | -        |
+---------------------------------------------------------------------------------------------
+Anguish                      |          |           | -             |          |
+Backstabber                  |          |           | -             |          |
+Backstabbing Guardian        |          |           | -             |          |
+Backstabbing Protector       | -        |           | -             | -        |
+DustMaker                    |          |           | -             |          |
+Electrolyte                  |          |           | -             | -        |
+Face Shocker                 |          |           | -             | -        |
+Flame Spear                  |          |           | -             |          |
+Murmur                       |          |           |               | -        |
+Nemo                         | -        |           |               |          |
+Selfish Guardian             |          |           | -             |          |
+Selfish Protector            |          |           | -             | -        |
+Snack                        |          |           | -             | -        |
+Swoop                        |          |           | -             |          |
+Tonto                        | -        |           | -             |          |
+Torment                      |          |           | -             | -        |
+Unreliable Guardian          |          |           | -             |          |
+Unreliable Protector         | -        |           | -             |          |
+Void                         |          |           | -             |          |
+---------------------------------------------------------------------------------------------
+Abomination                  |          |           | -             |          |
+Ash Creator                  |          |           | -             |          |
+Basalt Polisher              |          |           | -             |          |
+Blizzard Dissolver           | -        |           | -             |          |
+BloodWeep                    |          |           | -             |          |
+Broken Blizzard Annihilator  |          | -         | -             |          |
+Broken Devourer              | -        |           |               |          |
+BullDog                      |          |           | -             |          |
+Cracked Plasma Cannon        | -        |           | -             |          |
+Damaged Armor Dissolver      | -        |           | -             |          |
+Dark Eagle                   |          |           | -             |          |
+DawnBlaze                    | -        |           | -             |          |
+Disintegration               |          |           | -             |          |
+Distance Controller          |          |           | -             | -        |
+Drunk Lightning              | -        |           | -             |          |
+Evac Spark                   |          |           | -             |          |
+Explosive Retreat            |          |           | -             |          |
+Fractured Basalt Annihilator |          |           | -             |          |
+Heat Bomb                    | -        |           |               |          |
+HeronMark                    |          |           | -             |          |
+Last Resort Vulcan           |          |           | -             |          |
+Malfunctioning Blaster       |          |           | -             |          |
+Mercy                        |          |           | -             |          |
+Misguided Rocket Battery     |          |           | -             | -        |
+Mortal Bullet                |          |           | -             | -        |
+Obsolete Energy Cannon       | -        |           | -             |          |
+Overcooking Oven             |          |           | -             |          |
+Perimeter Protector          |          |           | -             |          |
+Piercing Fox                 |          |           | -             |          |
+Purifier                     |          |           | -             | -        |
+Reckoning                    |          |           | -             |          |
+Rock Polisher                |          |           | -             |          |
+Rock Recoiler                | -        |           | -             |          |
+Rusty Heat Blaster           |          |           | -             |          |
+Sacrifice Cannon             | -        |           | -             |          |
+SeraphBlade                  |          |           | -             |          |
+Shadow Wolf                  |          |           | -             |          |
+StormWeaver                  |          |           | -             |          |
+Sweetie                      |          |           | -             | -        |
+TerrorBlade                  |          |           | -             |          |
+UltraBright                  |          |           | -             | -        |
+Unrepaired Laser Cannon      | -        |           | -             | -        |
+Unstable Power Cell          |          |           | -             |          |
+Viking Hammer                | -        |           |               |          |
+War Hammer                   | -        |           | -             |          |
+---------------------------------------------------------------------------------------------
+Cockpit Burner               |          |           | -             |          |
+Electrocuted Scope           |          |           | -             | -        |
+Frantic Brute                |          |           | -             |          |
+Frantic Lightning            |          |           | -             | -        | -
+Half Burnt Scope             |          |           | -             |          |
+Iron Frenzy                  |          |           | -             | -        |
+Lazy Falcon                  |          |           | -             | -        |
+Night Eagle                  |          |           | -             |          |
+Overloaded EMP               |          |           | -             |          |
+Reckless Beam                |          |           | -             | -        |
+Red Rain                     |          |           | -             |          |
+Space Invader                |          |           | -             |          |
+---------------------------------------------------------------------------------------------
+Superb Charge Engine         |          |           | -             |          |
+---------------------------------------------------------------------------------------------
