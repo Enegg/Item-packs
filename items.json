@@ -51,15 +51,15 @@
 				"eleRes": 7
 			},
 			"max_epic": {
-				"health": null,
+				"health": 403,
 				"eneCap": 92,
-				"heaCap": 115
+				"heaCap": 126
 			},
 			"legendary": {
-				"health": null,
+				"health": 455,
 				"eneCap": 96,
-				"eneReg": 44,
-				"heaCap": 120,
+				"eneReg": 39,
+				"heaCap": 132,
 				"heaCol": 55,
 				"phyRes": 10,
 				"expRes": 14,
@@ -1441,7 +1441,7 @@
 				"heaCost": 10
 			},
 			"max_legendary": {
-				"phyDmg": [null, 81]
+				"phyDmg": [51, 81]
 			},
 			"mythical": {
 				"phyDmg": [55, 89],

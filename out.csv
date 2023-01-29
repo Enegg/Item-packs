@@ -12,7 +12,7 @@ GrimReaper,TORSO,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Hardened Platinum Vest,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Hollow Cyber Armor,TORSO,PHYSICAL,?,?,?,?,?,?,?,?,+,+,+
 Hollow Spectral Armor,TORSO,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Interceptor,TORSO,PHYSICAL,+,+,+,+,+,-,-,+,+,+,+
+Interceptor,TORSO,PHYSICAL,+,+,+,+,+,+,+,+,+,+,+
 Lightning Platinum Vest,TORSO,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Molten Platinum Vest,TORSO,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Naga,TORSO,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
@@ -49,7 +49,7 @@ Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 FlameWave,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
-Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 HeatPoint,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 HurlBat,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+

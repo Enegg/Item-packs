@@ -2,7 +2,6 @@ item name                    | max_epic | legendary | max_legendary | mythical |
 ------------------------------------------------------------------------------------------------------
 Battery Armor                |          |           |               | -        |              |
 Energy Battery Armor         |          |           | -             | -        |              |
-Interceptor                  | -        | -         |               |          |              |
 Nightmare                    |          |           | -             |          |              |
 Sith                         |          |           | -             | -        |              |
 ------------------------------------------------------------------------------------------------------
@@ -19,7 +18,6 @@ DustMaker                    |          |           | -             |          |
 Electrolyte                  |          |           | -             | -        |              |
 Face Shocker                 |          |           | -             | -        |              |
 Flame Spear                  |          |           | -             |          |              |
-Greedy                       |          |           | -             |          |              |
 Murmur                       |          |           |               | -        |              |
 Nemo                         | -        |           |               |          |              |
 Selfish Guardian             |          |           | -             |          |              |
