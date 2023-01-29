@@ -27,7 +27,7 @@ Swoop                        |          |           | -             |          |
 Tonto                        | -        |           | -             |          |
 Torment                      |          |           | -             | -        |
 Unreliable Guardian          |          |           | -             |          |
-Unreliable Protector         | -        |           | -             |          |
+Unreliable Protector         |          |           | -             |          |
 Void                         |          |           | -             |          |
 ---------------------------------------------------------------------------------------------
 Abomination                  |          |           | -             |          |

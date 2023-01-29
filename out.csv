@@ -64,7 +64,7 @@ Swoop,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Tonto,DRONE,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
 Torment,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unreliable Guardian,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
-Unreliable Protector,DRONE,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
+Unreliable Protector,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,+,+,+
 Void,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 WindForge,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Abomination,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+

@@ -6529,7 +6529,7 @@
 				"eneCost": 18
 			},
 			"max_epic": {
-				"eleDmg": [null, 103],
+				"eleDmg": [60, 103],
 				"eneDmg": 35
 			},
 			"legendary": {
@@ -6540,8 +6540,8 @@
 				"eneCost": 32
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 162],
+				"eneDmg": 54
 			},
 			"mythical": {
 				"eleDmg": [102, 180],
