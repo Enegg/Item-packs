@@ -35,7 +35,7 @@ Ash Creator                  |          |           | -             |          |
 Basalt Polisher              |          |           | -             |          |
 Blizzard Dissolver           | -        |           | -             |          |
 BloodWeep                    |          |           | -             |          |
-Broken Blizzard Annihilator  |          | -         | -             |          |
+Broken Blizzard Annihilator  |          |           | -             |          |
 Broken Devourer              | -        |           |               |          |
 BullDog                      |          |           | -             |          |
 Cracked Plasma Cannon        | -        |           | -             |          |

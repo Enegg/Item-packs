@@ -7912,7 +7912,7 @@
 			"legendary": {
 				"weight": 8,
 				"eleDmg": [47, 74],
-				"eneDmg": null,
+				"eneDmg": 35,
 				"eleResDmg": 36,
 				"range": [2, 4],
 				"uses": 1,
@@ -7920,7 +7920,7 @@
 			},
 			"max_legendary": {
 				"eleDmg": [null, 100],
-				"eneDmg": null
+				"eneDmg": 47
 			},
 			"mythical": {
 				"eleDmg": [69, 111],
