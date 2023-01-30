@@ -372,8 +372,8 @@
 				"phyDmg": [72, 90]
 			},
 			"legendary": {
-				"health": null,
-				"phyDmg": [null, null]
+				"health": 253,
+				"phyDmg": [83, 107]
 			},
 			"max_legendary": {
 				"health": 339,
