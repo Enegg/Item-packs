@@ -5913,7 +5913,7 @@
 				"eneCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, 104],
+				"eleDmg": [59, 104],
 				"eneDmg": 31
 			},
 			"mythical": {

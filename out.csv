@@ -38,7 +38,7 @@ Rolling Beasts,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Scorching Feet,LEGS,EXPLOSIVE,+,+,+,+,+,+,+,+,+,+,+
 Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 The Claw,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Backstabber,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,-,-,+,+

@@ -7,7 +7,6 @@ Dynamic Stompers             |          |               | -        |
 Grave Diggers                |          | -             |          |
 Recoil Stompers              |          | -             | -        |
 ---------------------------------------------------------------------------------
-Anguish                      |          | -             |          |
 Backstabber                  |          | -             |          |
 Backstabbing Guardian        |          | -             |          |
 Backstabbing Protector       | -        | -             | -        |
