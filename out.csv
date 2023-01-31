@@ -126,7 +126,7 @@ Overcharged Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Overcooking Oven,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Perimeter Protector,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Piercing Fox,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
-Purifier,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Purifier,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Reckoning,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Repulser,SIDE_WEAPON,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
 Rock Polisher,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
@@ -162,7 +162,7 @@ Frantic Brute,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Frantic Flame,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,-,+
 Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Hysteria,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Lazy Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+

@@ -50,7 +50,6 @@ Obsolete Energy Cannon       | -        | -             |          |
 Overcooking Oven             |          | -             |          |
 Perimeter Protector          |          | -             |          |
 Piercing Fox                 |          | -             |          |
-Purifier                     |          | -             | -        |
 Reckoning                    |          | -             |          |
 Rock Polisher                |          | -             |          |
 Rock Recoiler                | -        | -             |          |
@@ -71,7 +70,6 @@ Cockpit Burner               |          | -             |          |
 Electrocuted Scope           |          | -             | -        |
 Frantic Brute                |          | -             |          |
 Frantic Lightning            |          | -             | -        | -
-Half Burnt Scope             |          | -             |          |
 Iron Frenzy                  |          | -             | -        |
 Lazy Falcon                  |          | -             | -        |
 Night Eagle                  |          | -             |          |
