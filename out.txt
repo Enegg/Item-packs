@@ -1,7 +1,5 @@
 item name                    | max_epic | max_legendary | mythical | max_mythical
 ---------------------------------------------------------------------------------
-Battery Armor                |          |               | -        |
-Energy Battery Armor         |          | -             | -        |
 Nightmare                    |          | -             |          |
 Sith                         |          | -             | -        |
 ---------------------------------------------------------------------------------

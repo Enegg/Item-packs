@@ -316,10 +316,10 @@
 				"heaCap": 241
 			},
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 876,
+				"eneCap": 255,
 				"eneReg": 24,
-				"heaCap": null,
+				"heaCap": 255,
 				"heaCol": 24,
 				"phyRes": 14,
 				"expRes": 14,
@@ -7073,14 +7073,14 @@
 			},
 			"max_legendary": {
 				"health": 808,
-				"eneCap": null,
-				"heaCap": null
+				"eneCap": 314,
+				"heaCap": 209
 			},
 			"mythical": {
-				"health": null,
-				"eneCap": null,
+				"health": 8003,
+				"eneCap": 306,
 				"eneReg": 24,
-				"heaCap": null,
+				"heaCap": 221,
 				"heaCol": 24,
 				"phyRes": 14,
 				"expRes": 14,
