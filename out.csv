@@ -52,7 +52,7 @@ FlameWave,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 HeatPoint,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 HurlBat,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
-Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+
+Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Nemo,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
 Rail Gun,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Selfish Guardian,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
@@ -90,7 +90,7 @@ Cracked Plasma Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,-,+,+,+
 Crimson Rapture,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
-Dark Eagle,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Dark Eagle,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 DawnBlaze,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,-,+,+,+
 Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Distance Controller,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+

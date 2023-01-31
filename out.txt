@@ -11,7 +11,6 @@ Backstabbing Protector       | -        | -             | -        |
 Electrolyte                  |          | -             | -        |
 Face Shocker                 |          | -             | -        |
 Flame Spear                  |          | -             |          |
-Murmur                       |          |               | -        |
 Nemo                         | -        |               |          |
 Selfish Guardian             |          | -             |          |
 Selfish Protector            |          | -             | -        |
@@ -33,7 +32,6 @@ Broken Devourer              | -        |               |          |
 BullDog                      |          | -             |          |
 Cracked Plasma Cannon        | -        | -             |          |
 Damaged Armor Dissolver      | -        | -             |          |
-Dark Eagle                   |          | -             |          |
 DawnBlaze                    | -        | -             |          |
 Disintegration               |          | -             |          |
 Distance Controller          |          | -             | -        |
