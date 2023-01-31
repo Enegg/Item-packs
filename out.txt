@@ -7,9 +7,7 @@ Dynamic Stompers             |          |               | -        |
 Grave Diggers                |          | -             |          |
 Recoil Stompers              |          | -             | -        |
 ---------------------------------------------------------------------------------
-Backstabber                  |          | -             |          |
 Backstabbing Protector       | -        | -             | -        |
-DustMaker                    |          | -             |          |
 Electrolyte                  |          | -             | -        |
 Face Shocker                 |          | -             | -        |
 Flame Spear                  |          | -             |          |

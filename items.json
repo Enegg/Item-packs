@@ -1471,7 +1471,7 @@
 				"heaCost": 10
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [82, 145]
 			},
 			"mythical": {
 				"phyDmg": [91, 162],
@@ -1501,7 +1501,7 @@
 				"heaCost": 10
 			},
 			"max_legendary": {
-				"phyDmg": [null, 178]
+				"phyDmg": [112, 178]
 			},
 			"mythical": {
 				"phyDmg": [124, 200],

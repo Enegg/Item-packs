@@ -39,11 +39,11 @@ Scorching Feet,LEGS,EXPLOSIVE,+,+,+,+,+,+,+,+,+,+,+
 Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 The Claw,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Anguish,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
-Backstabber,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Backstabber,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,-,-,+,+
 Clash,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Electrolyte,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
