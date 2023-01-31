@@ -8,7 +8,6 @@ Grave Diggers                |          | -             |          |
 Recoil Stompers              |          | -             | -        |
 ---------------------------------------------------------------------------------
 Backstabber                  |          | -             |          |
-Backstabbing Guardian        |          | -             |          |
 Backstabbing Protector       | -        | -             | -        |
 DustMaker                    |          | -             |          |
 Electrolyte                  |          | -             | -        |

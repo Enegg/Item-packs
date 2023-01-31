@@ -6378,7 +6378,7 @@
 				"heaCost": 39
 			},
 			"max_legendary": {
-				"expDmg": [null, 166],
+				"expDmg": [92, 166],
 				"heaDmg": 41
 			},
 			"mythical": {
