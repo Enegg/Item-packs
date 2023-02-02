@@ -7,37 +7,29 @@ Dynamic Stompers             |          |               | -        |
 Grave Diggers                |          | -             |          |
 Recoil Stompers              |          | -             | -        |
 ---------------------------------------------------------------------------------
-Backstabbing Protector       | -        | -             | -        |
 Electrolyte                  |          | -             | -        |
 Face Shocker                 |          | -             | -        |
 Flame Spear                  |          | -             |          |
 Nemo                         | -        |               |          |
 Selfish Guardian             |          | -             |          |
-Selfish Protector            |          | -             | -        |
 Snack                        |          | -             | -        |
 Swoop                        |          | -             |          |
 Tonto                        | -        | -             |          |
 Torment                      |          | -             | -        |
-Unreliable Guardian          |          | -             |          |
 Unreliable Protector         |          | -             |          |
 Void                         |          | -             |          |
 ---------------------------------------------------------------------------------
 Abomination                  |          | -             |          |
-Ash Creator                  |          | -             |          |
 Basalt Polisher              |          | -             |          |
 Blizzard Dissolver           | -        | -             |          |
-BloodWeep                    |          | -             |          |
 Broken Blizzard Annihilator  |          | -             |          |
 Broken Devourer              | -        |               |          |
 BullDog                      |          | -             |          |
 Cracked Plasma Cannon        | -        | -             |          |
 Damaged Armor Dissolver      | -        | -             |          |
-DawnBlaze                    | -        | -             |          |
 Disintegration               |          | -             |          |
 Distance Controller          |          | -             | -        |
 Drunk Lightning              | -        | -             |          |
-Evac Spark                   |          | -             |          |
-Explosive Retreat            |          | -             |          |
 Fractured Basalt Annihilator |          | -             |          |
 Heat Bomb                    | -        |               |          |
 HeronMark                    |          | -             |          |
@@ -46,13 +38,11 @@ Malfunctioning Blaster       |          | -             |          |
 Mercy                        |          | -             |          |
 Misguided Rocket Battery     |          | -             | -        |
 Mortal Bullet                |          | -             | -        |
-Obsolete Energy Cannon       | -        | -             |          |
-Overcooking Oven             |          | -             |          |
 Perimeter Protector          |          | -             |          |
 Piercing Fox                 |          | -             |          |
 Reckoning                    |          | -             |          |
 Rock Polisher                |          | -             |          |
-Rock Recoiler                | -        | -             |          |
+Rock Recoiler                | -        |               |          |
 Rusty Heat Blaster           |          | -             |          |
 Sacrifice Cannon             | -        | -             |          |
 SeraphBlade                  |          | -             |          |
@@ -64,16 +54,13 @@ UltraBright                  |          | -             | -        |
 Unrepaired Laser Cannon      | -        | -             | -        |
 Unstable Power Cell          |          | -             |          |
 Viking Hammer                | -        |               |          |
-War Hammer                   | -        | -             |          |
 ---------------------------------------------------------------------------------
-Cockpit Burner               |          | -             |          |
 Electrocuted Scope           |          | -             | -        |
 Frantic Brute                |          | -             |          |
 Frantic Lightning            |          | -             | -        | -
 Iron Frenzy                  |          | -             | -        |
 Lazy Falcon                  |          | -             | -        |
 Night Eagle                  |          | -             |          |
-Overloaded EMP               |          | -             |          |
 Reckless Beam                |          | -             | -        |
 Red Rain                     |          | -             |          |
 Space Invader                |          | -             |          |
