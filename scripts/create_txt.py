@@ -11,6 +11,11 @@ def join_dict(mapping: t.Mapping[t.Any, t.Any]) -> str:
     return ", ".join(f"{key}: {value}" for key, value in mapping.items())
 
 
+def iter_two_dicts(mapping1: t.Mapping[str, int], mapping2: t.Mapping[str, int]) -> t.Iterator[tuple[str, int, int]]:
+    for key, value in mapping1.items():
+        yield key, value, mapping2.get(key, 0)
+
+
 def main() -> None:
     with open("items.json") as file:
         data: ItemPack = load_json(file)
@@ -85,10 +90,13 @@ def main() -> None:
     with open("out.txt", "w") as file:
         file.write("\n".join(lines))
 
+    all_types = types_finished_stats.copy()
+    all_types.update(types_missing_stats)
+    stuff = iter_two_dicts(all_types, types_finished_stats)
+
     print(
         f"Total items: {len(items)}",
-        f"Done: {join_dict(types_finished_stats)}",
-        f"Pending: {join_dict(types_missing_stats)}",
+        ", ".join(f"{key}: {v2}/{v1}" for key, v1, v2 in stuff),
         f"Missing tiers: {join_dict(tiers_missing_stats)}",
         sep="\n",
     )
