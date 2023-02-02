@@ -33,7 +33,7 @@ Lightning Supporters,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Massive Lava Feet,LEGS,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Massive Shocker Feet,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Massive Stone Feet,LEGS,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
-Recoil Stompers,LEGS,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Recoil Stompers,LEGS,ELECTRIC,?,?,?,?,+,+,+,+,+,-,+
 Rolling Beasts,LEGS,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Scorching Feet,LEGS,EXPLOSIVE,+,+,+,+,+,+,+,+,+,+,+
 Sparked Runners,LEGS,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
@@ -44,7 +44,7 @@ Backstabbing Guardian,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Clash,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Electrolyte,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Electrolyte,DRONE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
@@ -53,7 +53,7 @@ Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 HeatPoint,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 HurlBat,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
-Nemo,DRONE,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
+Nemo,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Rail Gun,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Selfish Guardian,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Selfish Protector,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
@@ -74,7 +74,7 @@ Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Ash Creator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 BackBreaker,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Basalt Polisher,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Basalt Polisher,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 BigDaddy,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
 BloodWeep,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
@@ -86,7 +86,7 @@ BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Chaos Bringer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Corrupt Light,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
-Cracked Plasma Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,-,+,+,+
+Cracked Plasma Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Crimson Rapture,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
@@ -142,7 +142,7 @@ Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
-Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,-,+,+
+Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
 Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,+,+,+,+
 War Hammer,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
@@ -172,7 +172,7 @@ Night Eagle,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Overheated Heat Bomb,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Overloaded EMP,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Party Crasher,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
-Reckless Beam,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,-,+,+
+Reckless Beam,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Red Rain,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Savagery,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Space Invader,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+

@@ -5,12 +5,10 @@ Sith                         |          | -             | -        |
 ---------------------------------------------------------------------------------
 Dynamic Stompers             |          |               | -        |
 Grave Diggers                |          | -             |          |
-Recoil Stompers              |          | -             | -        |
+Recoil Stompers              |          |               |          | -
 ---------------------------------------------------------------------------------
-Electrolyte                  |          | -             | -        |
 Face Shocker                 |          | -             | -        |
 Flame Spear                  |          | -             |          |
-Nemo                         | -        |               |          |
 Selfish Guardian             |          | -             |          |
 Snack                        |          | -             | -        |
 Swoop                        |          | -             |          |
@@ -20,12 +18,10 @@ Unreliable Protector         |          | -             |          |
 Void                         |          | -             |          |
 ---------------------------------------------------------------------------------
 Abomination                  |          | -             |          |
-Basalt Polisher              |          | -             |          |
 Blizzard Dissolver           | -        | -             |          |
 Broken Blizzard Annihilator  |          | -             |          |
 Broken Devourer              | -        |               |          |
 BullDog                      |          | -             |          |
-Cracked Plasma Cannon        | -        | -             |          |
 Damaged Armor Dissolver      | -        | -             |          |
 Disintegration               |          | -             |          |
 Distance Controller          |          | -             | -        |
@@ -51,7 +47,7 @@ StormWeaver                  |          | -             |          |
 Sweetie                      |          | -             | -        |
 TerrorBlade                  |          | -             |          |
 UltraBright                  |          | -             | -        |
-Unrepaired Laser Cannon      | -        | -             | -        |
+Unrepaired Laser Cannon      | -        |               |          |
 Unstable Power Cell          |          | -             |          |
 Viking Hammer                | -        |               |          |
 ---------------------------------------------------------------------------------
@@ -61,7 +57,6 @@ Frantic Lightning            |          | -             | -        | -
 Iron Frenzy                  |          | -             | -        |
 Lazy Falcon                  |          | -             | -        |
 Night Eagle                  |          | -             |          |
-Reckless Beam                |          | -             | -        |
 Red Rain                     |          | -             |          |
 Space Invader                |          | -             |          |
 ---------------------------------------------------------------------------------

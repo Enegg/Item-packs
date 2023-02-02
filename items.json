@@ -1174,10 +1174,10 @@
 				"heaCost": 16
 			},
 			"max_legendary": {
-				"phyDmg": [null, 238]
+				"phyDmg": [160, 238]
 			},
 			"mythical": {
-				"phyDmg": [null, null],
+				"phyDmg": [179, 270],
 				"eneCost": 25,
 				"heaCost": 25
 			},
@@ -3715,7 +3715,7 @@
 				"heaCost": 11
 			},
 			"max_epic": {
-				"expDmg": [null, null],
+				"expDmg": [43, 60],
 				"heaDmg": 20
 			},
 			"legendary": {
@@ -4620,18 +4620,18 @@
 			},
 			"max_legendary": {
 				"health": 294,
-				"eleDmg": [null, 146],
+				"eleDmg": [96, 146],
 				"eneDmg": 27
 			},
 			"mythical": {
+				"health": 292,
+				"eleDmg": [107, 165],
+				"eneDmg": 29
+			},
+			"max_mythical": {
 				"health": null,
 				"eleDmg": [null, null],
 				"eneDmg": null
-			},
-			"max_mythical": {
-				"health": 413,
-				"eleDmg": [140, 216],
-				"eneDmg": 38
 			},
 			"divine": {
 				"health": 413,
@@ -6030,12 +6030,12 @@
 				"eneCost": 32
 			},
 			"max_legendary": {
-				"eleDmg": [null, 166],
+				"eleDmg": [92, 166],
 				"eneDmg": 54
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [102, 186],
+				"eneDmg": 58,
 				"eleResDmg": 6,
 				"eneCost": 50
 			},
@@ -7020,10 +7020,10 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [148, 234]
 			},
 			"mythical": {
-				"phyDmg": [null, null],
+				"phyDmg": [165, 265],
 				"backfire": 72,
 				"eneCost": 31,
 				"heaCost": 31
@@ -7227,7 +7227,7 @@
 				"heaCost": 17
 			},
 			"max_epic": {
-				"expDmg": [null, 122],
+				"expDmg": [79, 122],
 				"heaDmg": 33
 			},
 			"legendary": {
@@ -7238,8 +7238,8 @@
 				"heaCost": 30
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [124, 195],
+				"heaDmg": 50
 			},
 			"mythical": {
 				"expDmg": [138, 221],
@@ -7452,8 +7452,8 @@
 				"heaCost": 39
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [124, 244],
+				"heaDmg": 61
 			},
 			"mythical": {
 				"expDmg": [138, 276],
