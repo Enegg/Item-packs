@@ -23,7 +23,6 @@ Broken Blizzard Annihilator  |          | -             |          |
 Broken Devourer              | -        |               |          |
 BullDog                      |          | -             |          |
 Damaged Armor Dissolver      | -        | -             |          |
-Disintegration               |          | -             |          |
 Distance Controller          |          | -             | -        |
 Drunk Lightning              | -        | -             |          |
 Fractured Basalt Annihilator |          | -             |          |
@@ -49,9 +48,7 @@ TerrorBlade                  |          | -             |          |
 UltraBright                  |          | -             | -        |
 Unrepaired Laser Cannon      | -        |               |          |
 Unstable Power Cell          |          | -             |          |
-Viking Hammer                | -        |               |          |
 ---------------------------------------------------------------------------------
-Electrocuted Scope           |          | -             | -        |
 Frantic Brute                |          | -             |          |
 Frantic Lightning            |          | -             | -        | -
 Iron Frenzy                  |          | -             | -        |

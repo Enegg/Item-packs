@@ -92,7 +92,7 @@ Damaged Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
 Dark Eagle,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 DawnBlaze,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Distance Controller,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Distance Generator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Drunk Lightning,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,-,+,+,+
@@ -144,7 +144,7 @@ TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
 Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
-Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,-,+,+,+,+,+
+Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 War Hammer,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Burning Shower,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Cockpit Burner,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -155,7 +155,7 @@ Desert Fury,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Desert Snake,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Desolation,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Distance Shredder,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Electrocuted Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Electrocuted Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Flaming Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Frantic Brute,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
