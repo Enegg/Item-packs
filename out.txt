@@ -1,17 +1,16 @@
 item name                | max_epic | max_legendary | mythical | max_mythical
 -----------------------------------------------------------------------------
 Nightmare                |          | -             |          |
-Sith                     |          | -             | -        |
+Sith                     |          | -             |          |
 -----------------------------------------------------------------------------
 Dynamic Stompers         |          |               | -        |
 Grave Diggers            |          | -             |          |
 Recoil Stompers          |          |               |          | -
 -----------------------------------------------------------------------------
-Face Shocker             |          | -             | -        |
+Face Shocker             |          | -             |          |
 Flame Spear              |          | -             |          |
 Selfish Guardian         |          | -             |          |
 Snack                    |          | -             | -        |
-Swoop                    |          | -             |          |
 Tonto                    |          | -             |          |
 Torment                  |          | -             | -        |
 Unreliable Protector     |          | -             |          |
@@ -29,8 +28,8 @@ HeronMark                |          | -             |          |
 Last Resort Vulcan       |          | -             |          |
 Malfunctioning Blaster   |          | -             |          |
 Mercy                    |          | -             |          |
-Misguided Rocket Battery |          | -             | -        |
-Mortal Bullet            |          | -             | -        |
+Misguided Rocket Battery |          |               | -        |
+Mortal Bullet            |          | -             |          |
 Perimeter Protector      |          | -             |          |
 Piercing Fox             |          | -             |          |
 Reckoning                |          | -             |          |
@@ -45,13 +44,10 @@ Sweetie                  |          | -             | -        |
 TerrorBlade              |          | -             |          |
 UltraBright              |          | -             | -        |
 Unrepaired Laser Cannon  | -        |               |          |
-Unstable Power Cell      |          | -             |          |
 -----------------------------------------------------------------------------
 Frantic Brute            |          | -             |          |
-Frantic Lightning        |          | -             | -        |
 Iron Frenzy              |          | -             | -        |
 Lazy Falcon              |          | -             | -        |
-Night Eagle              |          | -             |          |
 Red Rain                 |          | -             |          |
 -----------------------------------------------------------------------------
 Superb Charge Engine     |          | -             |          |

@@ -1107,7 +1107,7 @@
 				"heaCost": 16
 			},
 			"max_legendary": {
-				"phyDmg": [null, null]
+				"phyDmg": [142, 225]
 			},
 			"mythical": {
 				"phyDmg": [159, 256],
@@ -3758,8 +3758,8 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [45, 68],
+				"heaDmg": 47
 			},
 			"mythical": {
 				"expDmg": [65, 91],
@@ -4188,7 +4188,7 @@
 				"heaCap": 140
 			},
 			"mythical": {
-				"health": null,
+				"health": 657,
 				"eneCap": 187,
 				"eneReg": 112,
 				"heaCap": 136,
@@ -5004,8 +5004,8 @@
 				"eneDmg": 93
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [128, 166],
+				"eneDmg": 101,
 				"eneCapDmg": 12,
 				"eneCost": 31
 			},
@@ -5405,7 +5405,7 @@
 				"heaCost": 16
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
+				"eleDmg": [null, 253],
 				"eneDmg": null
 			},
 			"mythical": {
@@ -5442,8 +5442,8 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [100, 158],
+				"eneDmg": 172
 			},
 			"mythical": {
 				"eleDmg": [110, 177],
@@ -5728,12 +5728,12 @@
 				"heaCost": 8
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [54, 291],
+				"eneDmg": 66
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [108, 294],
+				"eneDmg": 72,
 				"eleResDmg": 10,
 				"eneCost": 81,
 				"heaCost": 13
@@ -5991,8 +5991,8 @@
 				"eneDmg": null
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [124, 162],
+				"eneDmg": 58,
 				"eleResDmg": 6,
 				"eneCost": 50
 			},
@@ -7191,12 +7191,12 @@
 				"heaCost": 47
 			},
 			"max_legendary": {
-				"expDmg": [null, 253],
+				"expDmg": [129, 253],
 				"heaDmg": 75
 			},
 			"mythical": {
 				"expDmg": [null, null],
-				"heaDmg": null,
+				"heaDmg": 81,
 				"expResDmg": 14,
 				"backfire": 180,
 				"heaCost": 75

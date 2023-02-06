@@ -20,7 +20,7 @@ Nightmare,TORSO,EXPLOSIVE,+,+,+,+,+,+,+,-,+,+,+
 Rusty Cyber Armor,TORSO,ELECTRIC,?,?,?,?,?,?,?,?,+,+,+
 Rusty Energy Armor,TORSO,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Sabretooth,TORSO,EXPLOSIVE,?,?,?,?,?,?,?,?,+,+,+
-Sith,TORSO,ELECTRIC,+,+,+,+,+,+,+,-,-,+,+
+Sith,TORSO,ELECTRIC,+,+,+,+,+,+,+,-,+,+,+
 Windigo,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Zarkares,TORSO,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Charged Walkers,LEGS,ELECTRIC,+,+,+,+,+,+,+,+,+,+,+
@@ -45,7 +45,7 @@ Backstabbing Protector,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Clash,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Electrolyte,DRONE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,+,+,+
 FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 FlameWave,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -60,7 +60,7 @@ Selfish Protector,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Shockwave,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Snack,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Solar Torch,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Swoop,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Swoop,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Tonto,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Torment,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unreliable Guardian,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
@@ -118,8 +118,8 @@ Magma Recoiler,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
-Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,-,+,+
+Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+
+Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 NightFall,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Overcharged Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -143,7 +143,7 @@ Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
 Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
-Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 War Hammer,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Burning Shower,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -160,7 +160,7 @@ Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Flaming Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Frantic Brute,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Frantic Flame,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Hysteria,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
@@ -168,7 +168,7 @@ Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
 Lazy Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Lightning Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Mighty Cannon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Night Eagle,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
+Night Eagle,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Overheated Heat Bomb,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Overloaded EMP,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Party Crasher,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
