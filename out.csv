@@ -118,7 +118,7 @@ Magma Recoiler,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,-,+,+
+Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 NightFall,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+

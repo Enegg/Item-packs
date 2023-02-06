@@ -1,54 +1,53 @@
-item name                | max_epic | max_legendary | mythical | max_mythical
------------------------------------------------------------------------------
-Nightmare                |          | -             |          |
-Sith                     |          | -             |          |
------------------------------------------------------------------------------
-Dynamic Stompers         |          |               | -        |
-Grave Diggers            |          | -             |          |
-Recoil Stompers          |          |               |          | -
------------------------------------------------------------------------------
-Face Shocker             |          | -             |          |
-Flame Spear              |          | -             |          |
-Selfish Guardian         |          | -             |          |
-Snack                    |          | -             | -        |
-Tonto                    |          | -             |          |
-Torment                  |          | -             | -        |
-Unreliable Protector     |          | -             |          |
-Void                     |          | -             |          |
------------------------------------------------------------------------------
-Abomination              |          | -             |          |
-Blizzard Dissolver       | -        | -             |          |
-Broken Devourer          | -        |               |          |
-BullDog                  |          | -             |          |
-Damaged Armor Dissolver  | -        | -             |          |
-Distance Controller      |          | -             | -        |
-Drunk Lightning          | -        | -             |          |
-Heat Bomb                | -        |               |          |
-HeronMark                |          | -             |          |
-Last Resort Vulcan       |          | -             |          |
-Malfunctioning Blaster   |          | -             |          |
-Mercy                    |          | -             |          |
-Misguided Rocket Battery |          |               | -        |
-Mortal Bullet            |          | -             |          |
-Perimeter Protector      |          | -             |          |
-Piercing Fox             |          | -             |          |
-Reckoning                |          | -             |          |
-Rock Polisher            |          | -             |          |
-Rock Recoiler            | -        |               |          |
-Rusty Heat Blaster       |          | -             |          |
-Sacrifice Cannon         | -        | -             |          |
-SeraphBlade              |          | -             |          |
-Shadow Wolf              |          | -             |          |
-StormWeaver              |          | -             |          |
-Sweetie                  |          | -             | -        |
-TerrorBlade              |          | -             |          |
-UltraBright              |          | -             | -        |
-Unrepaired Laser Cannon  | -        |               |          |
------------------------------------------------------------------------------
-Frantic Brute            |          | -             |          |
-Iron Frenzy              |          | -             | -        |
-Lazy Falcon              |          | -             | -        |
-Red Rain                 |          | -             |          |
------------------------------------------------------------------------------
-Superb Charge Engine     |          | -             |          |
------------------------------------------------------------------------------
+item name               | max_epic | max_legendary | mythical | max_mythical
+----------------------------------------------------------------------------
+Nightmare               |          | -             |          |
+Sith                    |          | -             |          |
+----------------------------------------------------------------------------
+Dynamic Stompers        |          |               | -        |
+Grave Diggers           |          | -             |          |
+Recoil Stompers         |          |               |          | -
+----------------------------------------------------------------------------
+Face Shocker            |          | -             |          |
+Flame Spear             |          | -             |          |
+Selfish Guardian        |          | -             |          |
+Snack                   |          | -             | -        |
+Tonto                   |          | -             |          |
+Torment                 |          | -             | -        |
+Unreliable Protector    |          | -             |          |
+Void                    |          | -             |          |
+----------------------------------------------------------------------------
+Abomination             |          | -             |          |
+Blizzard Dissolver      | -        | -             |          |
+Broken Devourer         | -        |               |          |
+BullDog                 |          | -             |          |
+Damaged Armor Dissolver | -        | -             |          |
+Distance Controller     |          | -             | -        |
+Drunk Lightning         | -        | -             |          |
+Heat Bomb               | -        |               |          |
+HeronMark               |          | -             |          |
+Last Resort Vulcan      |          | -             |          |
+Malfunctioning Blaster  |          | -             |          |
+Mercy                   |          | -             |          |
+Mortal Bullet           |          | -             |          |
+Perimeter Protector     |          | -             |          |
+Piercing Fox            |          | -             |          |
+Reckoning               |          | -             |          |
+Rock Polisher           |          | -             |          |
+Rock Recoiler           | -        |               |          |
+Rusty Heat Blaster      |          | -             |          |
+Sacrifice Cannon        | -        | -             |          |
+SeraphBlade             |          | -             |          |
+Shadow Wolf             |          | -             |          |
+StormWeaver             |          | -             |          |
+Sweetie                 |          | -             | -        |
+TerrorBlade             |          | -             |          |
+UltraBright             |          | -             | -        |
+Unrepaired Laser Cannon | -        |               |          |
+----------------------------------------------------------------------------
+Frantic Brute           |          | -             |          |
+Iron Frenzy             |          | -             | -        |
+Lazy Falcon             |          | -             | -        |
+Red Rain                |          | -             |          |
+----------------------------------------------------------------------------
+Superb Charge Engine    |          | -             |          |
+----------------------------------------------------------------------------

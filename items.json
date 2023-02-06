@@ -7195,7 +7195,7 @@
 				"heaDmg": 75
 			},
 			"mythical": {
-				"expDmg": [null, null],
+				"expDmg": [144, 287],
 				"heaDmg": 81,
 				"expResDmg": 14,
 				"backfire": 180,
