@@ -18,12 +18,10 @@ Void                    |          | -             |          |
 ----------------------------------------------------------------------------
 Abomination             |          | -             |          |
 Blizzard Dissolver      | -        | -             |          |
-Broken Devourer         | -        |               |          |
 BullDog                 |          | -             |          |
 Damaged Armor Dissolver | -        | -             |          |
 Distance Controller     |          | -             | -        |
 Drunk Lightning         | -        | -             |          |
-Heat Bomb               | -        |               |          |
 HeronMark               |          | -             |          |
 Last Resort Vulcan      |          | -             |          |
 Malfunctioning Blaster  |          | -             |          |

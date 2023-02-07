@@ -81,7 +81,7 @@ BloodWeep,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 BrightRoar,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Broken Blizzard Annihilator,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Broken Blizzard Dissolver,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
+Broken Devourer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 BullDog,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Bunker Shell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Chaos Bringer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -104,7 +104,7 @@ Flaminator,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
 Flaming Hammer,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Fractured Basalt Annihilator,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Fractured Basalt Dissolver,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Heat Bomb,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,-,+,+,+,+,+
+Heat Bomb,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 HeronMark,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Hot Flash,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Hybrid Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
