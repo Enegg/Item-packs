@@ -135,7 +135,7 @@ Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
 Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 StormWeaver,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
@@ -164,7 +164,7 @@ Frantic Lightning,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Grim Cobra,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Half Burnt Scope,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Hysteria,TOP_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
-Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,-,+,+
+Iron Frenzy,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Lazy Falcon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Lightning Scope,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Mighty Cannon,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+

@@ -3099,7 +3099,7 @@
 				"heaCost": 36
 			},
 			"max_legendary": {
-				"expDmg": [null, 253],
+				"expDmg": [101, 253],
 				"heaDmg": 35
 			},
 			"mythical": {
@@ -3365,12 +3365,12 @@
 				"heaCost": 30
 			},
 			"max_legendary": {
-				"expDmg": [null, 177],
+				"expDmg": [138, 177],
 				"heaDmg": 50
 			},
 			"mythical": {
-				"expDmg": [null, null],
-				"heaDmg": null,
+				"expDmg": [155, 202],
+				"heaDmg": 54,
 				"expResDmg": 5,
 				"eneCost": 16,
 				"heaCost": 47

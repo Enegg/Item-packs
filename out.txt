@@ -35,7 +35,6 @@ Rock Recoiler           | -        |               |          |
 Rusty Heat Blaster      |          | -             |          |
 Sacrifice Cannon        | -        | -             |          |
 SeraphBlade             |          | -             |          |
-Shadow Wolf             |          | -             |          |
 StormWeaver             |          | -             |          |
 Sweetie                 |          | -             | -        |
 TerrorBlade             |          | -             |          |
@@ -43,7 +42,6 @@ UltraBright             |          | -             | -        |
 Unrepaired Laser Cannon | -        |               |          |
 ----------------------------------------------------------------------------
 Frantic Brute           |          | -             |          |
-Iron Frenzy             |          | -             | -        |
 Lazy Falcon             |          | -             | -        |
 Red Rain                |          | -             |          |
 ----------------------------------------------------------------------------
