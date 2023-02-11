@@ -47,7 +47,7 @@ DustMaker,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Electrolyte,DRONE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Face Shocker,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,+,+,+
 FireFly,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Flame Spear,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 FlameWave,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Greedy,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 HeatPoint,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
@@ -119,7 +119,7 @@ Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
-Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
+Mortal Bullet,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 NightFall,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Obsolete Energy Cannon,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Overcharged Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -132,7 +132,7 @@ Repulser,SIDE_WEAPON,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
 Rock Polisher,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
 Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
-Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
+Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -173,7 +173,7 @@ Overheated Heat Bomb,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Overloaded EMP,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Party Crasher,TOP_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Reckless Beam,TOP_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
-Red Rain,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Red Rain,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Savagery,TOP_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Space Invader,TOP_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Spartan Carnage,TOP_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+

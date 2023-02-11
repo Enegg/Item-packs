@@ -993,7 +993,7 @@
 				"heaCost": 11
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [93, 220]
 			},
 			"legendary": {
 				"phyDmg": [106, 260],
@@ -3557,7 +3557,7 @@
 				"heaCost": 51
 			},
 			"max_legendary": {
-				"expDmg": [null, 229],
+				"expDmg": [148, 229],
 				"heaDmg": 75
 			},
 			"mythical": {
@@ -3941,8 +3941,8 @@
 				"heaCost": 32
 			},
 			"max_legendary": {
-				"expDmg": [null, null],
-				"heaDmg": null
+				"expDmg": [97, 175],
+				"heaDmg": 38
 			},
 			"mythical": {
 				"expDmg": [108, 197],
@@ -5000,7 +5000,7 @@
 				"eneCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, 147],
+				"eleDmg": [114, 147],
 				"eneDmg": 93
 			},
 			"mythical": {

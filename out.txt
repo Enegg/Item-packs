@@ -8,7 +8,6 @@ Grave Diggers           |          | -             |          |
 Recoil Stompers         |          |               |          | -
 ----------------------------------------------------------------------------
 Face Shocker            |          | -             |          |
-Flame Spear             |          | -             |          |
 Selfish Guardian        |          | -             |          |
 Snack                   |          | -             | -        |
 Tonto                   |          | -             |          |
@@ -22,14 +21,13 @@ Damaged Armor Dissolver | -        | -             |          |
 Drunk Lightning         | -        | -             |          |
 HeronMark               |          | -             |          |
 Malfunctioning Blaster  |          | -             |          |
-Mortal Bullet           |          | -             |          |
 Perimeter Protector     |          | -             |          |
 Piercing Fox            |          | -             |          |
 Reckoning               |          | -             |          |
 Rock Polisher           |          | -             |          |
 Rock Recoiler           | -        |               |          |
 Rusty Heat Blaster      |          | -             |          |
-Sacrifice Cannon        | -        | -             |          |
+Sacrifice Cannon        |          | -             |          |
 SeraphBlade             |          | -             |          |
 StormWeaver             |          | -             |          |
 Sweetie                 |          | -             | -        |
@@ -38,7 +36,6 @@ UltraBright             |          | -             | -        |
 Unrepaired Laser Cannon | -        |               |          |
 ----------------------------------------------------------------------------
 Frantic Brute           |          | -             |          |
-Red Rain                |          | -             |          |
 ----------------------------------------------------------------------------
 Superb Charge Engine    |          | -             |          |
 ----------------------------------------------------------------------------
