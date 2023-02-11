@@ -18,14 +18,10 @@ Void                    |          | -             |          |
 ----------------------------------------------------------------------------
 Abomination             |          | -             |          |
 Blizzard Dissolver      | -        | -             |          |
-BullDog                 |          | -             |          |
 Damaged Armor Dissolver | -        | -             |          |
-Distance Controller     |          | -             | -        |
 Drunk Lightning         | -        | -             |          |
 HeronMark               |          | -             |          |
-Last Resort Vulcan      |          | -             |          |
 Malfunctioning Blaster  |          | -             |          |
-Mercy                   |          | -             |          |
 Mortal Bullet           |          | -             |          |
 Perimeter Protector     |          | -             |          |
 Piercing Fox            |          | -             |          |
@@ -42,7 +38,6 @@ UltraBright             |          | -             | -        |
 Unrepaired Laser Cannon | -        |               |          |
 ----------------------------------------------------------------------------
 Frantic Brute           |          | -             |          |
-Lazy Falcon             |          | -             | -        |
 Red Rain                |          | -             |          |
 ----------------------------------------------------------------------------
 Superb Charge Engine    |          | -             |          |
