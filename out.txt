@@ -23,9 +23,7 @@ HeronMark               |          | -             |          |
 Malfunctioning Blaster  |          | -             |          |
 Perimeter Protector     |          | -             |          |
 Piercing Fox            |          | -             |          |
-Reckoning               |          | -             |          |
 Rock Polisher           |          | -             |          |
-Rock Recoiler           | -        |               |          |
 Rusty Heat Blaster      |          | -             |          |
 Sacrifice Cannon        |          | -             |          |
 SeraphBlade             |          | -             |          |
@@ -33,9 +31,6 @@ StormWeaver             |          | -             |          |
 Sweetie                 |          | -             | -        |
 TerrorBlade             |          | -             |          |
 UltraBright             |          | -             | -        |
-Unrepaired Laser Cannon | -        |               |          |
 ----------------------------------------------------------------------------
 Frantic Brute           |          | -             |          |
-----------------------------------------------------------------------------
-Superb Charge Engine    |          | -             |          |
 ----------------------------------------------------------------------------

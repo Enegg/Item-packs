@@ -127,10 +127,10 @@ Overcooking Oven,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Perimeter Protector,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Piercing Fox,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Purifier,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Reckoning,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
+Reckoning,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Repulser,SIDE_WEAPON,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
 Rock Polisher,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
-Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
+Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
@@ -142,7 +142,7 @@ Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
-Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,+,+,+,+
+Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 War Hammer,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
@@ -212,4 +212,4 @@ Double Teleporter,TELEPORTER,ELECTRIC,?,?,?,?,?,?,+,?,?,?,?
 Flaming Grappling Hook,HOOK,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Platinum Grappling Hook,HOOK,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Shocking Grappling Hook,HOOK,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
-Superb Charge Engine,CHARGE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Superb Charge Engine,CHARGE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
