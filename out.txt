@@ -20,17 +20,14 @@ Blizzard Dissolver      | -        | -             |          |
 Damaged Armor Dissolver | -        | -             |          |
 Drunk Lightning         | -        | -             |          |
 HeronMark               |          | -             |          |
-Malfunctioning Blaster  |          | -             |          |
 Perimeter Protector     |          | -             |          |
 Piercing Fox            |          | -             |          |
 Rock Polisher           |          | -             |          |
 Rusty Heat Blaster      |          | -             |          |
 Sacrifice Cannon        |          | -             |          |
-SeraphBlade             |          | -             |          |
 StormWeaver             |          | -             |          |
 Sweetie                 |          | -             | -        |
 TerrorBlade             |          | -             |          |
-UltraBright             |          | -             | -        |
 ----------------------------------------------------------------------------
 Frantic Brute           |          | -             |          |
 ----------------------------------------------------------------------------

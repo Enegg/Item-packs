@@ -115,7 +115,7 @@ Lightning Cutter,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Lightning Recoiler,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Magma Blast,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Magma Recoiler,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
-Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Malfunctioning Blaster,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Malice Beam,SIDE_WEAPON,ELECTRIC,?,?,+,+,+,+,+,+,+,+,+
 Mercy,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Misguided Rocket Battery,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
@@ -134,14 +134,14 @@ Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
-SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 StormWeaver,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
 Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
 Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
-UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Unrepaired Laser Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Unstable Power Cell,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Viking Hammer,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
