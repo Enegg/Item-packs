@@ -3,7 +3,7 @@ import typing as t
 
 from typing_extensions import Required
 
-StatDict = dict[str, int | None | list[int] | list[None]]
+StatDict = dict[str, int | None | list[int | None]]
 
 Name = str
 Type = str
@@ -11,9 +11,9 @@ Element = str
 
 
 class ItemDict(t.TypedDict, total=False):
-    name: Required[str]
-    type: Required[str]
-    element: Required[str]
+    name: Required[Name]
+    type: Required[Type]
+    element: Required[Element]
     transform_range: Required[str]
     common: StatDict
     max_common: StatDict
@@ -29,6 +29,10 @@ class ItemDict(t.TypedDict, total=False):
 
 
 class ItemPack(t.TypedDict):
+    version: str
+    key: str
+    name: str
+    description: str
     items: list[ItemDict]
 
 
