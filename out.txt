@@ -9,7 +9,6 @@ Recoil Stompers         |          |               |          | -
 ----------------------------------------------------------------------------
 Face Shocker            |          | -             |          |
 Selfish Guardian        |          | -             |          |
-Snack                   |          | -             | -        |
 Tonto                   |          | -             |          |
 Torment                 |          | -             | -        |
 Unreliable Protector    |          | -             |          |
