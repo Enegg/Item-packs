@@ -456,7 +456,7 @@
 			},
 			"max_legendary": {
 				"health": 204,
-				"phyDmg": [null, 189]
+				"phyDmg": [138, 189]
 			},
 			"mythical": {
 				"health": 219,
