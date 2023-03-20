@@ -62,7 +62,7 @@ Snack,DRONE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Solar Torch,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Swoop,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Tonto,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
-Torment,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,-,+,+
+Torment,DRONE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
 Unreliable Guardian,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Unreliable Protector,DRONE,ELECTRIC,?,?,?,?,+,+,+,-,+,+,+
 Void,DRONE,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
@@ -89,7 +89,7 @@ Corrupt Light,SIDE_WEAPON,EXPLOSIVE,?,?,+,+,+,+,+,+,+,+,+
 Cracked Plasma Cannon,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Crimson Rapture,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Damaged Armor Annihilator,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
-Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,-,+,-,+,+,+
+Damaged Armor Dissolver,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
 Dark Eagle,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 DawnBlaze,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Disintegration,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
@@ -132,7 +132,7 @@ Repulser,SIDE_WEAPON,PHYSICAL,?,?,+,+,+,+,?,?,?,?,?
 Rock Polisher,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
 Rock Recoiler,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Rusty Heat Blaster,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
-Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,-,+,+,+
+Sacrifice Cannon,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Scrapped Energy Blaster,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+

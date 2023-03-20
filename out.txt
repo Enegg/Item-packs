@@ -9,20 +9,18 @@ Recoil Stompers         |          |               |          | -
 Face Shocker            |          | -             |          |
 Selfish Guardian        |          | -             |          |
 Tonto                   |          | -             |          |
-Torment                 |          | -             | -        |
 Unreliable Protector    |          | -             |          |
 Void                    |          | -             |          |
 ----------------------------------------------------------------------------
 Abomination             |          | -             |          |
 Blizzard Dissolver      | -        | -             |          |
-Damaged Armor Dissolver | -        | -             |          |
+Damaged Armor Dissolver |          | -             |          |
 Drunk Lightning         | -        | -             |          |
 HeronMark               |          | -             |          |
 Perimeter Protector     |          | -             |          |
 Piercing Fox            |          | -             |          |
 Rock Polisher           |          | -             |          |
 Rusty Heat Blaster      |          | -             |          |
-Sacrifice Cannon        |          | -             |          |
 StormWeaver             |          | -             |          |
 Sweetie                 |          | -             | -        |
 TerrorBlade             |          | -             |          |

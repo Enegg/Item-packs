@@ -1003,7 +1003,7 @@
 				"heaCost": 20
 			},
 			"max_legendary": {
-				"phyDmg": [null, 349]
+				"phyDmg": [142, 349]
 			},
 			"mythical": {
 				"phyDmg": [159, 396],
@@ -4924,8 +4924,8 @@
 				"eleResDmg": 30
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [null, 49],
+				"eneDmg": 44
 			},
 			"mythical": {
 				"eleDmg": [24, 49],
@@ -5849,12 +5849,12 @@
 				"eneCost": 20
 			},
 			"max_legendary": {
-				"eleDmg": [null, null],
-				"eneDmg": null
+				"eleDmg": [67, 96],
+				"eneDmg": 34
 			},
 			"mythical": {
-				"eleDmg": [null, null],
-				"eneDmg": null,
+				"eleDmg": [74, 107],
+				"eneDmg": 36,
 				"eneCapDmg": 12,
 				"eneCost": 31
 			},
@@ -7952,7 +7952,7 @@
 				"backfire": 78
 			},
 			"max_epic": {
-				"phyDmg": [null, null]
+				"phyDmg": [38, 65]
 			},
 			"legendary": {
 				"phyDmg": [44, 77],
