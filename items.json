@@ -89,6 +89,16 @@
 				"health": 884,
 				"eneCap": 200,
 				"heaCap": 275
+			},
+			"attachment": {
+				"leg1": {"x": 58, "y": 189},
+				"leg2": {"x": 134, "y": 189},
+				"side1": {"x": 64, "y": 141},
+				"side2": {"x": 133, "y": 141},
+				"side3": {"x": 60, "y": 89},
+				"side4": {"x": 137, "y": 89},
+				"top1": {"x": 59, "y": 44},
+				"top2": {"x": 122, "y": 44}
 			}
 		},
 		{
@@ -132,6 +142,16 @@
 				"health": 1152,
 				"eneCap": 284,
 				"heaCap": 284
+			},
+			"attachment": {
+				"leg1": {"x": 53, "y": 214},
+				"leg2": {"x": 116, "y": 214},
+				"side1": {"x": 49, "y": 176},
+				"side2": {"x": 116, "y": 176},
+				"side3": {"x": 45, "y": 128},
+				"side4": {"x": 120, "y": 128},
+				"top1": {"x": 41, "y": 83},
+				"top2": {"x": 101, "y": 83}
 			}
 		},
 		{
@@ -150,7 +170,6 @@
 				"phyRes": 5,
 				"expRes": 7,
 				"eleRes": 7
-
 			},
 			"max_epic": {
 				"health": 595,
@@ -166,7 +185,6 @@
 				"phyRes": 10,
 				"expRes": 14,
 				"eleRes": 14
-
 			},
 			"max_legendary": {
 				"health": 900,
@@ -192,6 +210,16 @@
 				"health": 1306,
 				"eneCap": 200,
 				"heaCap": 150
+			},
+			"attachment": {
+				"leg1": {"x": 60, "y": 168},
+				"leg2": {"x": 123, "y": 168},
+				"side1": {"x": 65, "y": 128},
+				"side2": {"x": 145, "y": 128},
+				"side3": {"x": 58, "y": 92},
+				"side4": {"x": 146, "y": 92},
+				"top1": {"x": 57, "y": 28},
+				"top2": {"x": 120, "y": 28}
 			}
 		},
 		{
@@ -229,6 +257,16 @@
 				"health": 1678,
 				"eneCap": 259,
 				"heaCap": 259
+			},
+			"attachment": {
+				"leg1": {"x": 63, "y": 189},
+				"leg2": {"x": 125, "y": 189},
+				"side1": {"x": 60, "y": 148},
+				"side2": {"x": 140, "y": 148},
+				"side3": {"x": 54, "y": 80},
+				"side4": {"x": 142, "y": 80},
+				"top1": {"x": 53, "y": 24},
+				"top2": {"x": 107, "y": 24}
 			}
 		},
 		{
@@ -272,6 +310,16 @@
 				"health": 1441,
 				"eneCap": 26,
 				"heaCap": 235
+			},
+			"attachment": {
+				"leg1": {"x": 83, "y": 175},
+				"leg2": {"x": 145, "y": 175},
+				"side1": {"x": 70, "y": 155},
+				"side2": {"x": 150, "y": 155},
+				"side3": {"x": 70, "y": 105},
+				"side4": {"x": 150, "y": 105},
+				"top1": {"x": 63, "y": 24},
+				"top2": {"x": 147, "y": 24}
 			}
 		},
 		{
@@ -292,7 +340,6 @@
 				"phyRes": 5,
 				"expRes": 5,
 				"eleRes": 5
-
 			},
 			"max_epic": {
 				"health": 556,
@@ -308,7 +355,6 @@
 				"phyRes": 9,
 				"expRes": 9,
 				"eleRes": 9
-
 			},
 			"max_legendary": {
 				"health": 880,
@@ -334,6 +380,16 @@
 				"health": 1284,
 				"eneCap": 374,
 				"heaCap": 343
+			},
+			"attachment": {
+				"leg1": {"x": 71, "y": 187},
+				"leg2": {"x": 125, "y": 187},
+				"side1": {"x": 57, "y": 146},
+				"side2": {"x": 145, "y": 146},
+				"side3": {"x": 66, "y": 83},
+				"side4": {"x": 132, "y": 83},
+				"top1": {"x": 50, "y": 16},
+				"top2": {"x": 97, "y": 16}
 			}
 		},
 		{
@@ -390,7 +446,9 @@
 			"divine": {
 				"health": 491,
 				"phyDmg": [167, 219]
-			}
+			},
+			"attachment": {"x": 60, "y": 13},
+			"tags": ["melee"]
 		},
 		{
 			"id": 8,
@@ -421,7 +479,9 @@
 			"divine": {
 				"health": 476,
 				"phyDmg": [169, 255]
-			}
+			},
+			"attachment": {"x": 111, "y": 22},
+			"tags": ["melee", "roller"]
 		},
 		{
 			"id": 9,
@@ -469,7 +529,9 @@
 			"divine": {
 				"health": 295,
 				"phyDmg": [167, 219]
-			}
+			},
+			"attachment": {"x": 57, "y": 22},
+			"tags": ["melee"]
 		},
 		{
 			"id": 10,
@@ -498,7 +560,9 @@
 			"divine": {
 				"health": 909,
 				"phyDmg": [83, 117]
-			}
+			},
+			"attachment": {"x": 116, "y": 24},
+			"tags": ["melee"]
 		},
 		{
 			"id": 11,
@@ -541,7 +605,9 @@
 			},
 			"divine": {
 				"phyDmg": [234, 419]
-			}
+			},
+			"attachment": {"x": 34, "y": 55},
+			"tags": ["melee"]
 		},
 		{
 			"id": 12,
@@ -584,7 +650,9 @@
 			},
 			"divine": {
 				"phyDmg": [261, 439]
-			}
+			},
+			"attachment": {"x": 33, "y": 63},
+			"tags": ["melee"]
 		},
 		{
 			"id": 13,
@@ -614,7 +682,9 @@
 			},
 			"divine": {
 				"phyDmg": [251, 403]
-			}
+			},
+			"attachment": {"x": 38, "y": 71},
+			"tags": ["melee", "sword"]
 		},
 		{
 			"id": 14,
@@ -649,7 +719,8 @@
 			},
 			"divine": {
 				"phyDmg": [209, 351]
-			}
+			},
+			"attachment": {"x": 42, "y": 45}
 		},
 		{
 			"id": 15,
@@ -677,7 +748,8 @@
 			},
 			"divine": {
 				"phyDmg": [208, 464]
-			}
+			},
+			"attachment": {"x": 44, "y": 26}
 		},
 		{
 			"id": 16,
@@ -704,7 +776,8 @@
 			},
 			"divine": {
 				"phyDmg": [43, 57]
-			}
+			},
+			"attachment": {"x": 65, "y": 42}
 		},
 		{
 			"id": 17,
@@ -732,7 +805,8 @@
 			},
 			"divine": {
 				"phyDmg": [77, 101]
-			}
+			},
+			"attachment": {"x": 60, "y": 57}
 		},
 		{
 			"id": 18,
@@ -757,7 +831,8 @@
 			},
 			"divine": {
 				"phyDmg": [194, 254]
-			}
+			},
+			"attachment": {"x": 55, "y": 41}
 		},
 		{
 			"id": 19,
@@ -798,7 +873,8 @@
 			},
 			"divine": {
 				"phyDmg": [244, 366]
-			}
+			},
+			"attachment": {"x": 52, "y": 36}
 		},
 		{
 			"id": 20,
@@ -829,7 +905,8 @@
 			},
 			"divine": {
 				"phyDmg": [155, 220]
-			}
+			},
+			"attachment": {"x": 38, "y": 38}
 		},
 		{
 			"id": 21,
@@ -868,7 +945,8 @@
 			},
 			"divine": {
 				"phyDmg": [248, 368]
-			}
+			},
+			"attachment": {"x": 36, "y": 33}
 		},
 		{
 			"id": 22,
@@ -897,7 +975,8 @@
 			},
 			"divine": {
 				"phyDmg": [179, 271]
-			}
+			},
+			"attachment": {"x": 49, "y": 45}
 		},
 		{
 			"id": 23,
@@ -940,7 +1019,8 @@
 			},
 			"divine": {
 				"phyDmg": [218, 435]
-			}
+			},
+			"attachment": {"x": 60, "y": 35}
 		},
 		{
 			"id": 24,
@@ -973,7 +1053,8 @@
 			},
 			"divine": {
 				"phyDmg": [241, 431]
-			}
+			},
+			"attachment": {"x": 41, "y": 39}
 		},
 		{
 			"id": 25,
@@ -1017,7 +1098,8 @@
 			},
 			"divine": {
 				"phyDmg": [214, 520]
-			}
+			},
+			"attachment": {"x": 47, "y": 47}
 		},
 		{
 			"id": 26,
@@ -1047,7 +1129,8 @@
 			},
 			"divine": {
 				"phyDmg": [161, 289]
-			}
+			},
+			"attachment": {"x": 53, "y": 26}
 		},
 		{
 			"id": 27,
@@ -1080,7 +1163,8 @@
 			},
 			"divine": {
 				"phyDmg": [191, 482]
-			}
+			},
+			"attachment": {"x": 64, "y": 32}
 		},
 		{
 			"id": 28,
@@ -1119,7 +1203,8 @@
 			},
 			"divine": {
 				"phyDmg": [214, 345]
-			}
+			},
+			"attachment": {"x": 42, "y": 50}
 		},
 		{
 			"id": 29,
@@ -1150,7 +1235,8 @@
 			},
 			"divine": {
 				"phyDmg": [238, 408]
-			}
+			},
+			"attachment": {"x": 50, "y": 44}
 		},
 		{
 			"id": 30,
@@ -1186,7 +1272,8 @@
 			},
 			"divine": {
 				"phyDmg": [241, 364]
-			}
+			},
+			"attachment": {"x": 48, "y": 56}
 		},
 		{
 			"id": 31,
@@ -1217,7 +1304,8 @@
 			},
 			"divine": {
 				"phyDmg": [162, 236]
-			}
+			},
+			"attachment": {"x": 37, "y": 34}
 		},
 		{
 			"id": 32,
@@ -1246,7 +1334,8 @@
 			},
 			"divine": {
 				"phyDmg": [252, 431]
-			}
+			},
+			"attachment": {"x": 56, "y": 35}
 		},
 		{
 			"id": 33,
@@ -1275,7 +1364,8 @@
 			},
 			"divine": {
 				"phyDmg": [629, 1052]
-			}
+			},
+			"attachment": {"x": 60, "y": 52}
 		},
 		{
 			"id": 34,
@@ -1315,7 +1405,8 @@
 			},
 			"divine": {
 				"phyDmg": [205, 515]
-			}
+			},
+			"attachment": {"x": 44, "y": 27}
 		},
 		{
 			"id": 35,
@@ -1346,7 +1437,8 @@
 			},
 			"divine": {
 				"phyDmg": [241, 431]
-			}
+			},
+			"attachment": {"x": 54, "y": 38}
 		},
 		{
 			"id": 36,
@@ -1834,7 +1926,6 @@
 				"phyRes": 7,
 				"expRes": 5,
 				"eleRes": 7
-
 			},
 			"max_epic": {
 				"health": 424,
@@ -1850,7 +1941,6 @@
 				"phyRes": 14,
 				"expRes": 10,
 				"eleRes": 14
-
 			},
 			"max_legendary": {
 				"health": null,
@@ -1876,6 +1966,16 @@
 				"health": 1136,
 				"eneCap": 200,
 				"heaCap": 298
+			},
+			"attachment": {
+				"leg1": {"x": 58, "y": 189},
+				"leg2": {"x": 133, "y": 189},
+				"side1": {"x": 64, "y": 141},
+				"side2": {"x": 133, "y": 141},
+				"side3": {"x": 60, "y": 89},
+				"side4": {"x": 137, "y": 89},
+				"top1": {"x": 59, "y": 44},
+				"top2": {"x": 122, "y": 44}
 			}
 		},
 		{
@@ -1894,7 +1994,6 @@
 				"phyRes": 7,
 				"expRes": 5,
 				"eleRes": 7
-
 			},
 			"max_epic": {
 				"health": 464,
@@ -1910,7 +2009,6 @@
 				"phyRes": 14,
 				"expRes": 10,
 				"eleRes": 14
-
 			},
 			"max_legendary": {
 				"health": 734,
@@ -1936,6 +2034,16 @@
 				"health": 1070,
 				"eneCap": 225,
 				"heaCap": 298
+			},
+			"attachment": {
+				"leg1": {"x": 108, "y": 216},
+				"leg2": {"x": 182, "y": 216},
+				"side1": {"x": 106, "y": 176},
+				"side2": {"x": 203, "y": 176},
+				"side3": {"x": 101, "y": 128},
+				"side4": {"x": 210, "y": 128},
+				"top1": {"x": 110, "y": 48},
+				"top2": {"x": 184, "y": 48}
 			}
 		},
 		{
@@ -1954,7 +2062,6 @@
 				"phyRes": 7,
 				"expRes": 5,
 				"eleRes": 7
-
 			},
 			"max_epic": {
 				"health": 469,
@@ -1970,7 +2077,6 @@
 				"phyRes": 14,
 				"expRes": 10,
 				"eleRes": 14
-
 			},
 			"max_legendary": {
 				"health": 842,
@@ -1996,6 +2102,16 @@
 				"health": 1209,
 				"eneCap": 225,
 				"heaCap": 310
+			},
+			"attachment": {
+				"leg1": {"x": 76, "y": 199},
+				"leg2": {"x": 167, "y": 199},
+				"side1": {"x": 91, "y": 156},
+				"side2": {"x": 219, "y": 156},
+				"side3": {"x": 84, "y": 112},
+				"side4": {"x": 221, "y": 112},
+				"top1": {"x": 77, "y": 64},
+				"top2": {"x": 189, "y": 64}
 			}
 		},
 		{
@@ -2014,7 +2130,6 @@
 				"phyRes": 5,
 				"expRes": 8,
 				"eleRes": 5
-
 			},
 			"max_epic": {
 				"health": 511,
@@ -2030,7 +2145,6 @@
 				"phyRes": 10,
 				"expRes": 15,
 				"eleRes": 10
-
 			},
 			"max_legendary": {
 				"health": 808,
@@ -2056,6 +2170,16 @@
 				"health": 1177,
 				"eneCap": 200,
 				"heaCap": 321
+			},
+			"attachment": {
+				"leg1": {"x": 65, "y": 182},
+				"leg2": {"x": 129, "y": 182},
+				"side1": {"x": 75, "y": 143},
+				"side2": {"x": 145, "y": 143},
+				"side3": {"x": 71, "y": 98},
+				"side4": {"x": 151, "y": 98},
+				"top1": {"x": 66, "y": 44},
+				"top2": {"x": 128, "y": 44}
 			}
 		},
 		{
@@ -2099,6 +2223,16 @@
 				"health": 1238,
 				"eneCap": 207,
 				"heaCap": 282
+			},
+			"attachment": {
+				"leg1": {"x": 63, "y": 189},
+				"leg2": {"x": 125, "y": 189},
+				"side1": {"x": 60, "y": 148},
+				"side2": {"x": 140, "y": 148},
+				"side3": {"x": 54, "y": 80},
+				"side4": {"x": 142, "y": 80},
+				"top1": {"x": 53, "y": 24},
+				"top2": {"x": 107, "y": 24}
 			}
 		},
 		{
@@ -2127,6 +2261,16 @@
 				"health": 1219,
 				"eneCap": 207,
 				"heaCap": 329
+			},
+			"attachment": {
+				"leg1": {"x": 102, "y": 218},
+				"leg2": {"x": 164, "y": 218},
+				"side1": {"x": 101, "y": 164},
+				"side2": {"x": 176, "y": 164},
+				"side3": {"x": 94, "y": 117},
+				"side4": {"x": 182, "y": 117},
+				"top1": {"x": 103, "y": 42},
+				"top2": {"x": 178, "y": 42}
 			}
 		},
 		{
@@ -2142,7 +2286,6 @@
 				"eneReg": 44,
 				"heaCap": 144,
 				"heaCol": 66
-
 			},
 			"max_legendary": {
 				"health": 1182,
@@ -2165,6 +2308,18 @@
 				"health": 1786,
 				"eneCap": 207,
 				"heaCap": 282
+			},
+			"width": 210,
+			"height": 197,
+			"attachment": {
+				"leg1": {"x": 63, "y": 189},
+				"leg2": {"x": 125, "y": 189},
+				"side1": {"x": 60, "y": 148},
+				"side2": {"x": 140, "y": 148},
+				"side3": {"x": 54, "y": 80},
+				"side4": {"x": 142, "y": 80},
+				"top1": {"x": 53, "y": 24},
+				"top2": {"x": 107, "y": 24}
 			}
 		},
 		{
@@ -2183,7 +2338,6 @@
 				"phyRes": 5,
 				"expRes": 5,
 				"eleRes": 5
-
 			},
 			"max_epic": {
 				"health": 511,
@@ -2199,7 +2353,6 @@
 				"phyRes": 9,
 				"expRes": 9,
 				"eleRes": 9
-
 			},
 			"max_legendary": {
 				"health": 808,
@@ -2225,6 +2378,16 @@
 				"health": 1177,
 				"eneCap": 324,
 				"heaCap": 412
+			},
+			"attachment": {
+				"leg1": {"x": 71, "y": 187},
+				"leg2": {"x": 125, "y": 187},
+				"side1": {"x": 57, "y": 146},
+				"side2": {"x": 145, "y": 146},
+				"side3": {"x": 66, "y": 83},
+				"side4": {"x": 132, "y": 83},
+				"top1": {"x": 50, "y": 16},
+				"top2": {"x": 97, "y": 16}
 			}
 		},
 		{
@@ -2292,7 +2455,9 @@
 				"health": 428,
 				"expDmg": [147, 192],
 				"heaDmg": 37
-			}
+			},
+			"attachment": {"x": 60, "y": 13},
+			"tags": ["melee"]
 		},
 		{
 			"id": 60,
@@ -2339,7 +2504,9 @@
 				"health": 408,
 				"expDmg": [144, 227],
 				"heaDmg": 45
-			}
+			},
+			"attachment": {"x": 62, "y": 22},
+			"tags": ["melee"]
 		},
 		{
 			"id": 61,
@@ -2386,7 +2553,9 @@
 				"health": 428,
 				"expDmg": [136, 229],
 				"heaDmg": 30
-			}
+			},
+			"attachment": {"x": 52, "y": 19},
+			"tags": ["melee"]
 		},
 		{
 			"id": 62,
@@ -2422,7 +2591,9 @@
 			"divine": {
 				"expDmg": [258, 337],
 				"heaDmg": 112
-			}
+			},
+			"attachment": {"x": 34, "y": 55},
+			"tags": ["melee"]
 		},
 		{
 			"id": 63,
@@ -2469,7 +2640,9 @@
 			"divine": {
 				"expDmg": [236, 395],
 				"heaDmg": 88
-			}
+			},
+			"attachment": {"x": 33, "y": 63},
+			"tags": ["melee"]
 		},
 		{
 			"id": 64,
@@ -2504,7 +2677,9 @@
 			"divine": {
 				"expDmg": [204, 329],
 				"heaDmg": 82
-			}
+			},
+			"attachment": {"x": 38, "y": 45},
+			"tags": ["melee", "sword"]
 		},
 		{
 			"id": 65,
@@ -2538,7 +2713,8 @@
 			"divine": {
 				"expDmg": [237, 302],
 				"heaDmg": 121
-			}
+			},
+			"attachment": {"x": 43, "y": 39}
 		},
 		{
 			"id": 66,
@@ -2574,7 +2750,8 @@
 			"divine": {
 				"expDmg": [172, 225],
 				"heaDmg": 143
-			}
+			},
+			"attachment": {"x": 54, "y": 40}
 		},
 		{
 			"id": 67,
@@ -2609,7 +2786,8 @@
 			"divine": {
 				"expDmg": [193, 430],
 				"heaDmg": 53
-			}
+			},
+			"attachment": {"x": 44, "y": 26}
 		},
 		{
 			"id": 68,
@@ -2650,7 +2828,8 @@
 			"divine": {
 				"expDmg": [33, 67],
 				"heaDmg": 45
-			}
+			},
+			"attachment": {"x": 65, "y": 42}
 		},
 		{
 			"id": 69,
@@ -2689,7 +2868,8 @@
 			"divine": {
 				"expDmg": [223, 425],
 				"heaDmg": 83
-			}
+			},
+			"attachment": {"x": 54, "y": 39}
 		},
 		{
 			"id": 70,
@@ -2722,7 +2902,8 @@
 			"divine": {
 				"expDmg": [172, 225],
 				"heaDmg": 99
-			}
+			},
+			"attachment": {"x": 55, "y": 41}
 		},
 		{
 			"id": 71,
@@ -2759,7 +2940,8 @@
 			"divine": {
 				"expDmg": [224, 324],
 				"heaDmg": 75
-			}
+			},
+			"attachment": {"x": 49, "y": 37}
 		},
 		{
 			"id": 72,
@@ -2803,7 +2985,8 @@
 			"divine": {
 				"expDmg": [41, 60],
 				"heaDmg": 404
-			}
+			},
+			"attachment": {"x": 55, "y": 35}
 		},
 		{
 			"id": 73,
@@ -2859,7 +3042,8 @@
 			"divine": {
 				"expDmg": [144, 243],
 				"heaDmg": 96
-			}
+			},
+			"attachment": {"x": 42, "y": 40}
 		},
 		{
 			"id": 74,
@@ -2905,7 +3089,8 @@
 			"divine": {
 				"expDmg": [216, 280],
 				"heaDmg": 73
-			}
+			},
+			"attachment": {"x": 47, "y": 32}
 		},
 		{
 			"id": 75,
@@ -2957,7 +3142,8 @@
 			"divine": {
 				"expDmg": [152, 235],
 				"heaDmg": 96
-			}
+			},
+			"attachment": {"x": 58, "y": 38}
 		},
 		{
 			"id": 76,
@@ -2990,7 +3176,8 @@
 			"divine": {
 				"expDmg": [168, 285],
 				"heaDmg": 111
-			}
+			},
+			"attachment": {"x": 63, "y": 39}
 		},
 		{
 			"id": 77,
@@ -3028,7 +3215,8 @@
 			"divine": {
 				"expDmg": [173, 356],
 				"heaDmg": 61
-			}
+			},
+			"attachment": {"x": 51, "y": 40}
 		},
 		{
 			"id": 78,
@@ -3078,7 +3266,8 @@
 			"divine": {
 				"expDmg": [178, 360],
 				"heaDmg": 52
-			}
+			},
+			"attachment": {"x": 60, "y": 35}
 		},
 		{
 			"id": 79,
@@ -3116,7 +3305,8 @@
 			"divine": {
 				"expDmg": [155, 397],
 				"heaDmg": 53
-			}
+			},
+			"attachment": {"x": 64, "y": 32}
 		},
 		{
 			"id": 80,
@@ -3167,7 +3357,8 @@
 			"divine": {
 				"expDmg": [159, 400],
 				"heaDmg": 96
-			}
+			},
+			"attachment": {"x": 47, "y": 47}
 		},
 		{
 			"id": 81,
@@ -3205,7 +3396,8 @@
 			"divine": {
 				"expDmg": [153, 246],
 				"heaDmg": 187
-			}
+			},
+			"attachment": {"x": 74, "y": 47}
 		},
 		{
 			"id": 82,
@@ -3254,7 +3446,8 @@
 			"divine": {
 				"expDmg": [210, 323],
 				"heaDmg": 73
-			}
+			},
+			"attachment": {"x": 50, "y": 67}
 		},
 		{
 			"id": 83,
@@ -3302,7 +3495,8 @@
 			"divine": {
 				"expDmg": [147, 192],
 				"heaDmg": 45
-			}
+			},
+			"attachment": {"x": 71, "y": 57}
 		},
 		{
 			"id": 84,
@@ -3347,7 +3541,8 @@
 			"divine": {
 				"expDmg": [216, 319],
 				"heaDmg": 49
-			}
+			},
+			"attachment": {"x": 39, "y": 77}
 		},
 		{
 			"id": 85,
@@ -3382,7 +3577,8 @@
 			"divine": {
 				"expDmg": [215, 280],
 				"heaDmg": 75
-			}
+			},
+			"attachment": {"x": 62, "y": 81}
 		},
 		{
 			"id": 86,
@@ -3418,7 +3614,8 @@
 			"divine": {
 				"expDmg": [202, 346],
 				"heaDmg": 75
-			}
+			},
+			"attachment": {"x": 56, "y": 35}
 		},
 		{
 			"id": 87,
@@ -3464,7 +3661,8 @@
 			"divine": {
 				"expDmg": [158, 238],
 				"heaDmg": 109
-			}
+			},
+			"attachment": {"x": 48, "y": 55}
 		},
 		{
 			"id": 88,
@@ -3500,7 +3698,8 @@
 			"divine": {
 				"expDmg": [600, 783],
 				"heaDmg": 224
-			}
+			},
+			"attachment": {"x": 60, "y": 52}
 		},
 		{
 			"id": 89,
@@ -3537,7 +3736,8 @@
 			"divine": {
 				"expDmg": [183, 365],
 				"heaDmg": 90
-			}
+			},
+			"attachment": {"x": 56, "y": 80}
 		},
 		{
 			"id": 90,
@@ -3574,7 +3774,8 @@
 			"divine": {
 				"expDmg": [229, 361],
 				"heaDmg": 112
-			}
+			},
+			"attachment": {"x": 36, "y": 79}
 		},
 		{
 			"id": 91,
@@ -3621,7 +3822,8 @@
 			"divine": {
 				"expDmg": [146, 417],
 				"heaDmg": 80
-			}
+			},
+			"attachment": {"x": 44, "y": 27}
 		},
 		{
 			"id": 92,
@@ -3657,7 +3859,8 @@
 			"divine": {
 				"expDmg": [215, 356],
 				"heaDmg": 38
-			}
+			},
+			"attachment": {"x": 54, "y": 38}
 		},
 		{
 			"id": 93,
@@ -4164,7 +4367,6 @@
 				"phyRes": 7,
 				"expRes": 7,
 				"eleRes": 5
-
 			},
 			"max_epic": {
 				"health": 428,
@@ -4180,7 +4382,6 @@
 				"phyRes": 14,
 				"expRes": 14,
 				"eleRes": 10
-
 			},
 			"max_legendary": {
 				"health": null,
@@ -4206,6 +4407,16 @@
 				"health": 910,
 				"eneCap": 298,
 				"heaCap": 200
+			},
+			"attachment": {
+				"leg1": {"x": 56, "y": 189},
+				"leg2": {"x": 132, "y": 189},
+				"side1": {"x": 62, "y": 141},
+				"side2": {"x": 131, "y": 141},
+				"side3": {"x": 58, "y": 89},
+				"side4": {"x": 135, "y": 89},
+				"top1": {"x": 57, "y": 43},
+				"top2": {"x": 121, "y": 43}
 			}
 		},
 		{
@@ -4239,7 +4450,6 @@
 				"phyRes": 14,
 				"expRes": 14,
 				"eleRes": 10
-
 			},
 			"max_legendary": {
 				"health": 842,
@@ -4265,6 +4475,16 @@
 				"health": 1209,
 				"eneCap": 287,
 				"heaCap": 200
+			},
+			"attachment": {
+				"leg1": {"x": 37, "y": 172},
+				"leg2": {"x": 101, "y": 172},
+				"side1": {"x": 61, "y": 117},
+				"side2": {"x": 123, "y": 117},
+				"side3": {"x": 62, "y": 63},
+				"side4": {"x": 135, "y": 63},
+				"top1": {"x": 59, "y": 27},
+				"top2": {"x": 128, "y": 27}
 			}
 		},
 		{
@@ -4298,7 +4518,6 @@
 				"phyRes": 7,
 				"expRes": 7,
 				"eleRes": 5
-
 			},
 			"max_epic": {
 				"health": 395,
@@ -4314,7 +4533,6 @@
 				"phyRes": 14,
 				"expRes": 14,
 				"eleRes": 10
-
 			},
 			"max_legendary": {
 				"health": 625,
@@ -4340,6 +4558,16 @@
 				"health": 910,
 				"eneCap": 356,
 				"heaCap": 200
+			},
+			"attachment": {
+				"leg1": {"x": 47, "y": 188},
+				"leg2": {"x": 111, "y": 188},
+				"side1": {"x": 64, "y": 146},
+				"side2": {"x": 142, "y": 146},
+				"side3": {"x": 61, "y": 95},
+				"side4": {"x": 149, "y": 95},
+				"top1": {"x": 58, "y": 67},
+				"top2": {"x": 124, "y": 67}
 			}
 		},
 		{
@@ -4383,6 +4611,16 @@
 				"health": 1238,
 				"eneCap": 282,
 				"heaCap": 207
+			},
+			"attachment": {
+				"leg1": {"x": 63, "y": 189},
+				"leg2": {"x": 125, "y": 189},
+				"side1": {"x": 60, "y": 148},
+				"side2": {"x": 140, "y": 148},
+				"side3": {"x": 54, "y": 80},
+				"side4": {"x": 142, "y": 80},
+				"top1": {"x": 53, "y": 24},
+				"top2": {"x": 107, "y": 24}
 			}
 		},
 		{
@@ -4450,7 +4688,9 @@
 				"health": 413,
 				"eleDmg": [147, 192],
 				"eneDmg": 49
-			}
+			},
+			"attachment": {"x": 60, "y": 13},
+			"tags": ["melee"]
 		},
 		{
 			"id": 112,
@@ -4507,7 +4747,9 @@
 				"health": 386,
 				"eleDmg": [158, 223],
 				"eneDmg": 60
-			}
+			},
+			"attachment": {"x": 64, "y": 27},
+			"tags": ["melee"]
 		},
 		{
 			"id": 113,
@@ -4543,7 +4785,9 @@
 				"health": 389,
 				"eleDmg": [143, 264],
 				"eneDmg": 41
-			}
+			},
+			"attachment": {"x": 115, "y": 22},
+			"tags": ["melee", "roller"]
 		},
 		{
 			"id": 114,
@@ -4590,7 +4834,9 @@
 				"health": 428,
 				"eleDmg": [131, 197],
 				"eneDmg": 69
-			}
+			},
+			"attachment": {"x": 78, "y": 20},
+			"tags": ["melee"]
 		},
 		{
 			"id": 115,
@@ -4637,7 +4883,9 @@
 				"health": 413,
 				"eleDmg": [140, 216],
 				"eneDmg": 38
-			}
+			},
+			"attachment": {"x": 52, "y": 19},
+			"tags": ["melee"]
 		},
 		{
 			"id": 116,
@@ -4673,7 +4921,9 @@
 			"divine": {
 				"eleDmg": [258, 337],
 				"eneDmg": 121
-			}
+			},
+			"attachment": {"x": 34, "y": 55},
+			"tags": ["melee"]
 		},
 		{
 			"id": 117,
@@ -4720,7 +4970,9 @@
 			"divine": {
 				"eleDmg": [217, 364],
 				"eneDmg": 117
-			}
+			},
+			"attachment": {"x": 33, "y": 63},
+			"tags": ["melee"]
 		},
 		{
 			"id": 118,
@@ -4755,7 +5007,9 @@
 			"divine": {
 				"eleDmg": [204, 329],
 				"eneDmg": 108
-			}
+			},
+			"attachment": {"x": 38, "y": 46},
+			"tags": ["melee", "sword"]
 		},
 		{
 			"id": 119,
@@ -4789,7 +5043,8 @@
 			"divine": {
 				"eleDmg": [215, 280],
 				"eneDmg": 161
-			}
+			},
+			"attachment": {"x": 52, "y": 54}
 		},
 		{
 			"id": 120,
@@ -4825,7 +5080,8 @@
 			"divine": {
 				"eleDmg": [172, 225],
 				"eneDmg": 190
-			}
+			},
+			"attachment": {"x": 54, "y": 40}
 		},
 		{
 			"id": 121,
@@ -4860,7 +5116,8 @@
 			"divine": {
 				"eleDmg": [193, 430],
 				"eneDmg": 71
-			}
+			},
+			"attachment": {"x": 44, "y": 26}
 		},
 		{
 			"id": 122,
@@ -4875,7 +5132,6 @@
 				"eneReg": 66,
 				"heaCap": 96,
 				"heaCol": 44
-
 			},
 			"max_legendary": {
 				"health": 1182,
@@ -4898,6 +5154,16 @@
 				"health": 1786,
 				"eneCap": 282,
 				"heaCap": 207
+			},
+			"attachment": {
+				"leg1": {"x": 64, "y": 177},
+				"leg2": {"x": 128, "y": 177},
+				"side1": {"x": 54, "y": 137},
+				"side2": {"x": 147, "y": 137},
+				"side3": {"x": 54, "y": 87},
+				"side4": {"x": 147, "y": 87},
+				"top1": {"x": 68, "y": 11},
+				"top2": {"x": 122, "y": 11}
 			}
 		},
 		{
@@ -4939,7 +5205,8 @@
 			"divine": {
 				"eleDmg": [36, 73],
 				"eneDmg": 65
-			}
+			},
+			"attachment": {"x": 65, "y": 42}
 		},
 		{
 			"id": 124,
@@ -4983,7 +5250,8 @@
 			"divine": {
 				"eleDmg": [38, 63],
 				"eneDmg": 343
-			}
+			},
+			"attachment": {"x": 62, "y": 41}
 		},
 		{
 			"id": 125,
@@ -5016,7 +5284,8 @@
 			"divine": {
 				"eleDmg": [177, 230],
 				"eneDmg": 140
-			}
+			},
+			"attachment": {"x": 58, "y": 40}
 		},
 		{
 			"id": 126,
@@ -5065,7 +5334,8 @@
 			"divine": {
 				"eleDmg": [190, 293],
 				"eneDmg": 97
-			}
+			},
+			"attachment": {"x": 42, "y": 33}
 		},
 		{
 			"id": 127,
@@ -5104,7 +5374,8 @@
 			"divine": {
 				"eleDmg": [256, 489],
 				"eneDmg": 130
-			}
+			},
+			"attachment": {"x": 54, "y": 39}
 		},
 		{
 			"id": 128,
@@ -5160,7 +5431,8 @@
 			"divine": {
 				"eleDmg": [144, 243],
 				"eneDmg": 140
-			}
+			},
+			"attachment": {"x": 43, "y": 41}
 		},
 		{
 			"id": 129,
@@ -5178,10 +5450,7 @@
 				"heaCost": 6
 			},
 			"max_epic": {
-				"eleDmg": [
-					88,
-					110
-				],
+				"eleDmg": [88, 110],
 				"eneDmg": 43
 			},
 			"legendary": {
@@ -5209,7 +5478,8 @@
 			"divine": {
 				"eleDmg": [209, 273],
 				"eneDmg": 97
-			}
+			},
+			"attachment": {"x": 47, "y": 32}
 		},
 		{
 			"id": 130,
@@ -5261,7 +5531,8 @@
 			"divine": {
 				"eleDmg": [152, 235],
 				"eneDmg": 146
-			}
+			},
+			"attachment": {"x": 58, "y": 38}
 		},
 		{
 			"id": 131,
@@ -5294,7 +5565,8 @@
 			"divine": {
 				"eleDmg": [168, 285],
 				"eneDmg": 147
-			}
+			},
+			"attachment": {"x": 63, "y": 39}
 		},
 		{
 			"id": 132,
@@ -5332,7 +5604,8 @@
 			"divine": {
 				"eleDmg": [173, 356],
 				"eneDmg": 81
-			}
+			},
+			"attachment": {"x": 51, "y": 40}
 		},
 		{
 			"id": 133,
@@ -5384,7 +5657,8 @@
 			"divine": {
 				"eleDmg": [178, 360],
 				"eneDmg": 69
-			}
+			},
+			"attachment": {"x": 60, "y": 35}
 		},
 		{
 			"id": 134,
@@ -5422,7 +5696,8 @@
 			"divine": {
 				"eleDmg": [155, 397],
 				"eneDmg": 71
-			}
+			},
+			"attachment": {"x": 64, "y": 32}
 		},
 		{
 			"id": 135,
@@ -5460,7 +5735,8 @@
 			"divine": {
 				"eleDmg": [153, 246],
 				"eneDmg": 260
-			}
+			},
+			"attachment": {"x": 74, "y": 47}
 		},
 		{
 			"id": 136,
@@ -5509,7 +5785,8 @@
 			"divine": {
 				"eleDmg": [186, 298],
 				"eneDmg": 97
-			}
+			},
+			"attachment": {"x": 42, "y": 50}
 		},
 		{
 			"id": 137,
@@ -5555,7 +5832,8 @@
 			"divine": {
 				"eleDmg": [174, 259],
 				"eneDmg": 132
-			}
+			},
+			"attachment": {"x": 48, "y": 56}
 		},
 		{
 			"id": 138,
@@ -5591,7 +5869,8 @@
 			"divine": {
 				"eleDmg": [133, 193],
 				"eneDmg": 200
-			}
+			},
+			"attachment": {"x": 37, "y": 34}
 		},
 		{
 			"id": 139,
@@ -5627,7 +5906,8 @@
 			"divine": {
 				"eleDmg": [202, 346],
 				"eneDmg": 111
-			}
+			},
+			"attachment": {"x": 56, "y": 35}
 		},
 		{
 			"id": 140,
@@ -5662,7 +5942,8 @@
 			"divine": {
 				"eleDmg": [226, 305],
 				"eneDmg": 100
-			}
+			},
+			"attachment": {"x": 62, "y": 81}
 		},
 		{
 			"id": 141,
@@ -5698,7 +5979,8 @@
 			"divine": {
 				"eleDmg": [600, 783],
 				"eneDmg": 299
-			}
+			},
+			"attachment": {"x": 60, "y": 52}
 		},
 		{
 			"id": 142,
@@ -5745,7 +6027,8 @@
 			"divine": {
 				"eleDmg": [146, 397],
 				"eneDmg": 97
-			}
+			},
+			"attachment": {"x": 44, "y": 27}
 		},
 		{
 			"id": 143,
@@ -5781,7 +6064,8 @@
 			"divine": {
 				"eleDmg": [215, 368],
 				"eneDmg": 50
-			}
+			},
+			"attachment": {"x": 54, "y": 38}
 		},
 		{
 			"id": 144,
@@ -6327,6 +6611,16 @@
 				"health": 960,
 				"eneCap": 207,
 				"heaCap": 310
+			},
+			"attachment": {
+				"leg1": {"x": 63, "y": 189},
+				"leg2": {"x": 125, "y": 189},
+				"side1": {"x": 60, "y": 148},
+				"side2": {"x": 140, "y": 148},
+				"side3": {"x": 54, "y": 80},
+				"side4": {"x": 142, "y": 80},
+				"top1": {"x": 53, "y": 24},
+				"top2": {"x": 107, "y": 24}
 			}
 		},
 		{
@@ -6585,7 +6879,8 @@
 			},
 			"divine": {
 				"phyDmg": [646, 1036]
-			}
+			},
+			"attachment": {"x": 40, "y": 50}
 		},
 		{
 			"id": 168,
@@ -6620,7 +6915,8 @@
 			"divine": {
 				"expDmg": [531, 852],
 				"heaDmg": 224
-			}
+			},
+			"attachment": {"x": 40, "y": 50}
 		},
 		{
 			"id": 169,
@@ -6656,7 +6952,8 @@
 			"divine": {
 				"expDmg": [220, 355],
 				"heaDmg": 112
-			}
+			},
+			"attachment": {"x": 58, "y": 33}
 		},
 		{
 			"id": 170,
@@ -6686,7 +6983,8 @@
 			},
 			"divine": {
 				"phyDmg": [258, 413]
-			}
+			},
+			"attachment": {"x": 58, "y": 33}
 		},
 		{
 			"id": 171,
@@ -6717,7 +7015,8 @@
 			},
 			"divine": {
 				"phyDmg": [229, 506]
-			}
+			},
+			"attachment": {"x": 59, "y": 35}
 		},
 		{
 			"id": 172,
@@ -6746,7 +7045,8 @@
 			},
 			"divine": {
 				"phyDmg": [213, 382]
-			}
+			},
+			"attachment": {"x": 57, "y": 51}
 		},
 		{
 			"id": 173,
@@ -6781,7 +7081,8 @@
 			"divine": {
 				"expDmg": [143, 255],
 				"heaDmg": 46
-			}
+			},
+			"attachment": {"x": 53, "y": 26}
 		},
 		{
 			"id": 174,
@@ -6816,7 +7117,8 @@
 			"divine": {
 				"eleDmg": [143, 255],
 				"eneDmg": 73
-			}
+			},
+			"attachment": {"x": 53, "y": 26}
 		},
 		{
 			"id": 175,
@@ -6848,7 +7150,8 @@
 			},
 			"divine": {
 				"phyDmg": [570, 915]
-			}
+			},
+			"attachment": {"x": 71, "y": 41}
 		},
 		{
 			"id": 176,
@@ -6885,7 +7188,8 @@
 			"divine": {
 				"expDmg": [417, 669],
 				"heaDmg": 187
-			}
+			},
+			"attachment": {"x": 71, "y": 41}
 		},
 		{
 			"id": 177,
@@ -6922,7 +7226,8 @@
 			"divine": {
 				"eleDmg": [473, 703],
 				"eneDmg": 230
-			}
+			},
+			"attachment": {"x": 71, "y": 41}
 		},
 		{
 			"id": 178,
@@ -6958,7 +7263,8 @@
 			"divine": {
 				"eleDmg": [220, 355],
 				"eneDmg": 150
-			}
+			},
+			"attachment": {"x": 58, "y": 33}
 		},
 		{
 			"id": 179,
@@ -6993,7 +7299,8 @@
 			"divine": {
 				"eleDmg": [531, 852],
 				"eneDmg": 299
-			}
+			},
+			"attachment": {"x": 40, "y": 50}
 		},
 		{
 			"id": 180,
@@ -7033,7 +7340,8 @@
 			},
 			"divine": {
 				"phyDmg": [222, 357]
-			}
+			},
+			"attachment": {"x": 47, "y": 30}
 		},
 		{
 			"id": 181,
@@ -7053,7 +7361,6 @@
 				"phyRes": 5,
 				"expRes": 5,
 				"eleRes": 5
-
 			},
 			"max_epic": {
 				"health": 511,
@@ -7069,7 +7376,6 @@
 				"phyRes": 9,
 				"expRes": 9,
 				"eleRes": 9
-
 			},
 			"max_legendary": {
 				"health": 808,
@@ -7095,6 +7401,16 @@
 				"health": 1177,
 				"eneCap": 449,
 				"heaCap": 298
+			},
+			"attachment": {
+				"leg1": {"x": 71, "y": 187},
+				"leg2": {"x": 125, "y": 187},
+				"side1": {"x": 57, "y": 146},
+				"side2": {"x": 145, "y": 146},
+				"side3": {"x": 66, "y": 83},
+				"side4": {"x": 132, "y": 83},
+				"top1": {"x": 50, "y": 16},
+				"top2": {"x": 97, "y": 16}
 			}
 		},
 		{
@@ -7146,7 +7462,8 @@
 			"divine": {
 				"eleDmg": [159, 400],
 				"eneDmg": 127
-			}
+			},
+			"attachment": {"x": 47, "y": 47}
 		},
 		{
 			"id": 183,
@@ -7208,7 +7525,8 @@
 			"divine": {
 				"expDmg": [200, 398],
 				"heaDmg": 112
-			}
+			},
+			"attachment": {"x": 51, "y": 39}
 		},
 		{
 			"id": 185,
@@ -7255,7 +7573,8 @@
 			"divine": {
 				"expDmg": [186, 298],
 				"heaDmg": 73
-			}
+			},
+			"attachment": {"x": 47, "y": 30}
 		},
 		{
 			"id": 186,
@@ -7302,7 +7621,8 @@
 			"divine": {
 				"eleDmg": [186, 298],
 				"eneDmg": 97
-			}
+			},
+			"attachment": {"x": 47, "y": 30}
 		},
 		{
 			"id": 187,
@@ -7340,7 +7660,8 @@
 			"divine": {
 				"expDmg": [213, 382],
 				"heaDmg": 112
-			}
+			},
+			"attachment": {"x": 57, "y": 49}
 		},
 		{
 			"id": 188,
@@ -7370,7 +7691,9 @@
 			},
 			"divine": {
 				"phyDmg": [224, 447]
-			}
+			},
+			"attachment": {"x": 53, "y": 50},
+			"tags": ["melee", "sword"]
 		},
 		{
 			"id": 189,
@@ -7469,7 +7792,9 @@
 			"divine": {
 				"expDmg": [191, 382],
 				"heaDmg": 90
-			}
+			},
+			"attachment": {"x": 53, "y": 50},
+			"tags": ["melee", "sword"]
 		},
 		{
 			"id": 192,
@@ -7532,7 +7857,9 @@
 			"divine": {
 				"eleDmg": [191, 382],
 				"eneDmg": 121
-			}
+			},
+			"attachment": {"x": 53, "y": 50},
+			"tags": ["melee", "sword"]
 		},
 		{
 			"id": 194,
@@ -7576,7 +7903,9 @@
 			"divine": {
 				"health": 541,
 				"phyDmg": [148, 239]
-			}
+			},
+			"attachment": {"x": 60, "y": 23},
+			"tags": ["melee"]
 		},
 		{
 			"id": 195,
@@ -7627,7 +7956,9 @@
 				"health": 483,
 				"expDmg": [131, 211],
 				"heaDmg": 37
-			}
+			},
+			"attachment": {"x": 60, "y": 23},
+			"tags": ["melee"]
 		},
 		{
 			"id": 196,
@@ -7678,7 +8009,9 @@
 				"health": 483,
 				"eleDmg": [131, 211],
 				"eneDmg": 49
-			}
+			},
+			"attachment": {"x": 60, "y": 23},
+			"tags": ["melee"]
 		},
 		{
 			"id": 197,
@@ -7867,7 +8200,8 @@
 			},
 			"divine": {
 				"phyDmg": [96, 155]
-			}
+			},
+			"attachment": {"x": 44, "y": 50}
 		},
 		{
 			"id": 203,
@@ -7901,7 +8235,8 @@
 			"divine": {
 				"expDmg": [96, 155],
 				"heaDmg": 53
-			}
+			},
+			"attachment": {"x": 44, "y": 50}
 		},
 		{
 			"id": 204,
@@ -7935,7 +8270,8 @@
 			"divine": {
 				"eleDmg": [96, 155],
 				"eneDmg": 71
-			}
+			},
+			"attachment": {"x": 44, "y": 50}
 		},
 		{
 			"id": 205,
@@ -7972,7 +8308,8 @@
 			},
 			"divine": {
 				"phyDmg": [88, 157]
-			}
+			},
+			"attachment": {"x": 40, "y": 28}
 		},
 		{
 			"id": 206,
@@ -8016,7 +8353,8 @@
 			"divine": {
 				"expDmg": [88, 157],
 				"heaDmg": 52
-			}
+			},
+			"attachment": {"x": 40, "y": 28}
 		},
 		{
 			"id": 207,
@@ -8060,7 +8398,8 @@
 			"divine": {
 				"eleDmg": [88, 157],
 				"eneDmg": 69
-			}
+			},
+			"attachment": {"x": 40, "y": 28}
 		},
 		{
 			"id": 208,
@@ -8097,7 +8436,8 @@
 				"expDmg": [36, 66],
 				"heaDmg": 415,
 				"heaCost": 415
-			}
+			},
+			"attachment": {"x": 50, "y": 89}
 		},
 		{
 			"id": 209,
@@ -8134,7 +8474,8 @@
 				"eleDmg": [36, 66],
 				"eneDmg": 415,
 				"eneCost": 415
-			}
+			},
+			"attachment": {"x": 50, "y": 89}
 		},
 		{
 			"id": 210,
@@ -8158,6 +8499,16 @@
 				"health": 1786,
 				"eneCap": 207,
 				"heaCap": 282
+			},
+			"attachment": {
+				"leg1": {"x": 78, "y": 199},
+				"leg2": {"x": 142, "y": 199},
+				"side1": {"x": 54, "y": 137},
+				"side2": {"x": 147, "y": 137},
+				"side3": {"x": 54, "y": 87},
+				"side4": {"x": 147, "y": 87},
+				"top1": {"x": 68, "y": 11},
+				"top2": {"x": 122, "y": 11}
 			}
 		},
 		{
@@ -8183,6 +8534,16 @@
 				"health": 1786,
 				"eneCap": 282,
 				"heaCap": 207
+			},
+			"attachment": {
+				"leg1": {"x": 78, "y": 199},
+				"leg2": {"x": 142, "y": 199},
+				"side1": {"x": 54, "y": 137},
+				"side2": {"x": 147, "y": 137},
+				"side3": {"x": 54, "y": 87},
+				"side4": {"x": 147, "y": 87},
+				"top1": {"x": 68, "y": 11},
+				"top2": {"x": 122, "y": 11}
 			}
 		},
 		{
@@ -8207,6 +8568,16 @@
 				"health": 1678,
 				"eneCap": 259,
 				"heaCap": 259
+			},
+			"attachment": {
+				"leg1": {"x": 78, "y": 199},
+				"leg2": {"x": 142, "y": 199},
+				"side1": {"x": 54, "y": 137},
+				"side2": {"x": 147, "y": 137},
+				"side3": {"x": 54, "y": 87},
+				"side4": {"x": 147, "y": 87},
+				"top1": {"x": 68, "y": 11},
+				"top2": {"x": 122, "y": 11}
 			}
 		},
 		{
@@ -8232,7 +8603,8 @@
 			},
 			"max_epic": {
 				"phyDmg": [18, 24]
-			}
+			},
+			"attachment": {"x": 60, "y": 57}
 		},
 		{
 			"id": 214,
