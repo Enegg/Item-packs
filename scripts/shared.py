@@ -1,7 +1,8 @@
 import io
 import typing as t
 
-from typing_extensions import Required
+if t.TYPE_CHECKING:
+    from typing_extensions import Required
 
 StatDict = dict[str, int | None | list[int | None]]
 
@@ -11,10 +12,10 @@ Element = str
 
 
 class ItemDict(t.TypedDict, total=False):
-    name: Required[Name]
-    type: Required[Type]
-    element: Required[Element]
-    transform_range: Required[str]
+    name: "Required[Name]"
+    type: "Required[Type]"
+    element: "Required[Element]"
+    transform_range: "Required[str]"
     common: StatDict
     max_common: StatDict
     rare: StatDict

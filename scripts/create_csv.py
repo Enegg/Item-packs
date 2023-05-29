@@ -5,7 +5,6 @@ import typing as t
 
 from shared import (TIER_KEYS, TYPE_ORDER, Element, ItemDict, ItemPack, Name, StatDict, Type,
                     load_json)
-from typing_extensions import Self
 
 State = t.Literal["?", "-", "+"]
 
@@ -27,7 +26,7 @@ class ItemTuple(t.NamedTuple):
         yield from self.state
 
     @classmethod
-    def from_dict(cls, item_dict: ItemDict, state: list[State]) -> Self:
+    def from_dict(cls, item_dict: ItemDict, state: list[State]) -> "ItemTuple":
         return cls(item_dict["name"], item_dict["type"], item_dict["element"], state)
 
 
