@@ -7,7 +7,6 @@ Dynamic Stompers        |          |               | -        |
 Recoil Stompers         |          |               |          | -
 ----------------------------------------------------------------------------
 Face Shocker            |          | -             |          |
-Selfish Guardian        |          | -             |          |
 Tonto                   |          | -             |          |
 Unreliable Protector    |          | -             |          |
 Void                    |          | -             |          |
@@ -22,7 +21,7 @@ Piercing Fox            |          | -             |          |
 Rock Polisher           |          | -             |          |
 Rusty Heat Blaster      |          | -             |          |
 StormWeaver             |          | -             |          |
-Sweetie                 |          | -             | -        |
+Sweetie                 |          |               | -        |
 TerrorBlade             |          | -             |          |
 ----------------------------------------------------------------------------
 Frantic Brute           |          | -             |          |

@@ -55,7 +55,7 @@ HurlBat,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Murmur,DRONE,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Nemo,DRONE,EXPLOSIVE,?,?,?,?,+,+,+,+,+,+,+
 Rail Gun,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
-Selfish Guardian,DRONE,PHYSICAL,?,?,?,?,?,?,+,-,+,+,+
+Selfish Guardian,DRONE,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Selfish Protector,DRONE,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 Shockwave,DRONE,ELECTRIC,?,?,?,?,?,?,+,+,+,+,+
 Snack,DRONE,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
@@ -138,7 +138,7 @@ SeraphBlade,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,+,+,+
 Shadow Wolf,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 Sorrow,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,+,+,+,+
 StormWeaver,SIDE_WEAPON,ELECTRIC,?,?,?,?,?,?,+,-,+,+,+
-Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,-,-,+,+
+Sweetie,SIDE_WEAPON,PHYSICAL,?,?,?,?,?,?,+,+,-,+,+
 Terror Cry,SIDE_WEAPON,PHYSICAL,?,?,?,?,+,+,+,+,+,+,+
 TerrorBlade,SIDE_WEAPON,EXPLOSIVE,?,?,?,?,?,?,+,-,+,+,+
 UltraBright,SIDE_WEAPON,ELECTRIC,?,?,?,?,+,+,+,+,+,+,+
